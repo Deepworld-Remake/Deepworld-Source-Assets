@@ -1,0 +1,108 @@
+i tk2d 1
+w 1024
+h 1024
+~
+n temperate/earth-base
+s 649 4 320 320
+o 0 0 320 320
+~
+n temperate/earth-base-accent-large-1
+s 794 440 102 154
+o 26 6 160 160
+~
+n temperate/earth-base-accent-large-2
+s 901 453 78 126
+o 37 19 160 160
+~
+n temperate/earth-base-accent-large-3
+s 921 362 96 86
+o 23 47 160 160
+~
+n temperate/earth-base-accent-large-4
+s 775 599 56 154
+o 55 4 160 160
+~
+n temperate/earth-base-accent-large-5
+s 649 329 140 150
+o 6 0 160 160
+~
+n temperate/earth-base-accent-large-6
+s 794 329 122 106
+o 10 29 160 160
+~
+n temperate/earth-base-accent-small-1
+s 901 584 60 56
+o 10 11 80 80
+~
+n temperate/earth-base-accent-small-2
+s 974 258 38 32
+o 17 24 80 80
+~
+n temperate/earth-base-accent-small-3
+s 974 295 36 62
+o 21 10 80 80
+~
+n temperate/earth-base-accent-small-4
+s 966 584 54 68
+o 9 6 80 80
+~
+n temperate/earth-base-accent-small-5
+s 974 49 42 60
+o 15 7 80 80
+~
+n temperate/earth-base-accent-small-6
+s 4 979 48 34
+o 13 25 80 80
+~
+n temperate/earth-base-accent-small-7
+s 712 634 52 60
+o 13 7 80 80
+~
+n temperate/earth-base-accent-small-8
+s 974 4 44 40
+o 19 27 80 80
+~
+n temperate/earth-base-external
+s 57 992 80 8
+o 0 0 80 80
+~
+n temperate/earth-front
+s 4 4 640 320
+o 0 0 640 320
+~
+n temperate/earth-front-deep
+s 4 654 640 320
+o 0 0 640 320
+~
+n temperate/earth-front-deeper
+s 4 329 640 320
+o 0 0 640 320
+~
+n temperate/earth-front-deepest
+s 4 329 640 320
+o 0 0 640 320
+~
+n temperate/earth-front-external
+s 57 979 80 8
+o 0 0 80 80
+~
+n temperate/stalagmite-1
+s 712 567 58 62
+o 14 18 80 80
+~
+n temperate/stalagmite-2
+s 974 114 42 56
+o 20 24 80 80
+~
+n temperate/stalagmite-3
+s 712 484 58 78
+o 12 2 80 80
+~
+n temperate/stalagmite-4
+s 974 175 38 78
+o 20 2 80 80
+~
+n temperate/stalagmite-5
+s 649 484 58 158
+o 11 2 80 160
+~

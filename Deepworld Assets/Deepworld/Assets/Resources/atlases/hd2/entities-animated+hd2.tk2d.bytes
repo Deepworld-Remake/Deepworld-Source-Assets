@@ -1,0 +1,2136 @@
+i tk2d 1
+w 1024
+h 2048
+~
+n almaco-jack-body
+s 296 1036 83 42
+o 0 0 83 42
+~
+n almaco-jack-body-green
+s 294 1083 83 42
+o 0 0 83 42
+~
+n almaco-jack-body-orange
+s 206 1037 83 42
+o 0 0 83 42
+~
+n almaco-jack-dorsal-fin
+s 312 1563 22 13
+o 0 0 22 13
+~
+n almaco-jack-pectoral-fin
+s 861 1852 18 8
+o 0 0 18 8
+~
+n almaco-jack-pelvic-fin
+s 769 1875 14 12
+o 0 0 14 12
+~
+n almaco-jack-tail
+s 637 892 26 30
+o 0 0 26 30
+~
+n anemone-electric-base
+s 949 1494 47 42
+o 0 0 47 42
+~
+n anemone-electric-tentacle-1
+s 208 227 5 12
+o 0 0 5 12
+~
+n anemone-electric-tentacle-2
+s 161 518 4 12
+o 0 0 4 12
+~
+n anemone-electric-tentacle-3
+s 161 582 3 10
+o 0 0 3 10
+~
+n anemone-electric-tentacle-4
+s 161 623 3 8
+o 0 0 3 8
+~
+n anemone-magenta-base
+s 540 1481 52 39
+o 0 0 52 39
+~
+n anemone-magenta-tentacle-1
+s 208 210 5 12
+o 0 0 5 12
+~
+n anemone-magenta-tentacle-2
+s 161 535 4 11
+o 0 0 4 11
+~
+n anemone-magenta-tentacle-3
+s 161 566 3 11
+o 0 0 3 11
+~
+n anemone-magenta-tentacle-4
+s 161 610 3 8
+o 0 0 3 8
+~
+n anemone-red-base
+s 489 1404 46 41
+o 0 0 46 41
+~
+n anemone-red-tentacle-1
+s 208 193 5 12
+o 0 0 5 12
+~
+n anemone-red-tentacle-2
+s 208 176 5 12
+o 0 0 5 12
+~
+n anemone-red-tentacle-3
+s 161 551 4 10
+o 0 0 4 10
+~
+n anemone-red-tentacle-4
+s 161 597 3 8
+o 0 0 3 8
+~
+n angelfish-body
+s 4 1229 82 53
+o 0 0 82 53
+~
+n angelfish-pectoral-fin
+s 842 1739 22 17
+o 0 0 22 17
+~
+n angelfish-pelvic-fin
+s 339 1579 25 13
+o 0 0 25 13
+~
+n angelfish-tail
+s 995 1771 25 23
+o 0 0 25 23
+~
+n armadillo-body-lower
+s 4 778 90 75
+o 0 0 90 75
+~
+n armadillo-body-upper
+s 593 348 70 77
+o 0 0 70 77
+~
+n armadillo-ear-f
+s 316 1436 20 26
+o 0 0 20 26
+~
+n armadillo-ear-r
+s 315 1493 21 21
+o 0 0 21 21
+~
+n armadillo-foreleg
+s 1000 879 20 35
+o 0 0 20 35
+~
+n armadillo-forepaw
+s 63 1541 23 16
+o 0 0 23 16
+~
+n armadillo-head
+s 257 1435 54 52
+o 0 0 54 52
+~
+n armadillo-rearleg
+s 665 1730 25 39
+o 0 0 25 39
+~
+n armadillo-rearpaw
+s 837 1788 27 20
+o 0 0 27 20
+~
+n armadillo-tail-large
+s 673 1560 18 18
+o 0 0 18 18
+~
+n armadillo-tail-small
+s 930 1602 14 20
+o 0 0 14 20
+~
+n armadillo-tail-tip
+s 709 1046 9 20
+o 0 0 9 20
+~
+n automata-base-1
+s 135 701 68 76
+o 0 0 68 76
+~
+n automata-base-2
+s 914 4 106 56
+o 0 0 106 56
+~
+n automata-base-3
+s 302 895 86 71
+o 0 0 86 71
+~
+n automata-base-bomb
+s 781 1262 72 76
+o 0 0 72 76
+~
+n automata-base-large
+s 409 471 132 129
+o 0 14 132 143
+~
+n automata-base-tiny
+s 447 1472 37 46
+o 0 0 37 46
+~
+n automata-bomb-fuse
+s 315 1519 20 9
+o 0 0 20 9
+~
+n automata-bomb-spark-1
+s 432 1550 37 41
+o 0 0 37 41
+~
+n automata-bomb-spark-2
+s 695 1736 30 25
+o 0 0 30 25
+~
+n automata-buzzsaw
+s 696 1573 47 46
+o 0 0 47 46
+~
+n automata-drill-1
+s 858 1283 71 29
+o 0 0 71 29
+~
+n automata-drill-2
+s 799 1074 81 29
+o 0 0 81 29
+~
+n automata-drill-base
+s 491 1087 44 50
+o 0 0 44 50
+~
+n automata-foot
+s 135 1469 55 23
+o 0 0 55 23
+~
+n automata-gun-acid
+s 4 1117 83 48
+o 0 0 83 48
+~
+n automata-gun-energy
+s 207 1000 84 32
+o 0 0 84 32
+~
+n automata-gun-flame
+s 4 1170 82 54
+o 0 0 82 54
+~
+n automata-gun-frost
+s 135 1238 62 28
+o 0 0 62 28
+~
+n automata-gun-steam
+s 789 1169 76 41
+o 0 0 76 41
+~
+n automata-joint-1
+s 917 1661 27 27
+o 0 0 27 27
+~
+n automata-joint-2
+s 917 1543 27 27
+o 0 0 27 27
+~
+n automata-leg-long
+s 471 1257 13 82
+o 0 0 13 82
+~
+n automata-leg-short
+s 594 246 14 44
+o 0 0 14 44
+~
+n automata-leg-short (1)
+s 594 246 14 44
+o 0 0 14 44
+~
+n automata-pelvis
+s 91 1339 39 40
+o 0 0 39 40
+~
+n automata-pistol
+s 846 1369 66 40
+o 0 0 66 40
+~
+n automata-swimming-body-brass
+s 775 1343 66 46
+o 0 0 66 46
+~
+n automata-swimming-body-silver
+s 785 1215 74 42
+o 0 0 74 42
+~
+n automata-swimming-dorsal-fin
+s 597 1639 36 15
+o 0 0 36 15
+~
+n automata-swimming-pelvic-fin
+s 677 1384 16 14
+o 0 0 16 14
+~
+n automata-swimming-propeller-1
+s 648 727 15 51
+o 0 0 15 51
+~
+n automata-swimming-propeller-2
+s 754 1462 15 14
+o 0 0 15 20
+~
+n automata-top-propeller-1
+s 546 538 116 37
+o 0 0 116 37
+~
+n automata-top-propeller-2
+s 765 1764 29 38
+o 0 0 29 38
+~
+n bat-auto-head
+s 474 1558 37 34
+o 0 0 37 34
+~
+n bat-auto-wing
+s 197 1404 55 117
+o 0 0 55 117
+~
+n bat-body
+s 949 1611 43 57
+o 0 0 43 57
+~
+n bat-foot
+s 932 1366 12 40
+o 0 0 12 40
+~
+n bat-head
+s 257 1492 53 43
+o 0 0 53 43
+~
+n bat-vampire-body
+s 489 1450 46 39
+o 0 0 46 39
+~
+n bat-vampire-foot
+s 924 1866 12 28
+o 0 0 12 28
+~
+n bat-vampire-head
+s 135 1407 55 28
+o 0 0 55 28
+~
+n bat-vampire-wing-lower
+s 91 1208 39 78
+o 0 0 39 78
+~
+n bat-vampire-wing-upper
+s 773 1617 43 49
+o 0 0 43 49
+~
+n bat-wing-lower
+s 387 1540 40 90
+o 0 0 40 90
+~
+n bat-wing-upper
+s 263 1340 57 58
+o 0 0 57 58
+~
+n bee
+s 842 1902 12 12
+o 2 2 16 16
+~
+n bluejay-body
+s 406 1011 85 59
+o 0 0 85 59
+~
+n bluejay-foot
+s 992 1826 27 10
+o 0 0 27 10
+~
+n bluejay-head
+s 774 1454 50 47
+o 0 0 50 47
+~
+n bluejay-leg
+s 66 1442 20 26
+o 0 0 20 26
+~
+n bluejay-wing-lower
+s 135 892 68 37
+o 0 0 68 37
+~
+n bluejay-wing-upper
+s 515 1598 36 32
+o 0 0 36 32
+~
+n brain-arm-segment
+s 410 221 198 20
+o 0 0 198 20
+~
+n brain-baby-base
+s 896 985 124 109
+o 0 0 124 109
+~
+n brain-baby-cerebellum
+s 949 1362 69 46
+o 0 0 69 46
+~
+n brain-baby-collar
+s 546 580 114 22
+o 0 0 114 22
+~
+n brain-baby-space-helmet
+s 668 622 130 113
+o 0 0 130 113
+~
+n brain-baby-tentacle-end
+s 888 1414 24 20
+o 0 0 24 20
+~
+n brain-baby-tentacle-segment
+s 382 1096 19 35
+o 0 0 19 35
+~
+n brain-base
+s 914 65 104 122
+o 0 0 104 122
+~
+n brain-base-small
+s 813 358 95 117
+o 0 0 95 117
+~
+n brain-bottom
+s 415 4 248 212
+o 0 0 248 212
+~
+n brain-cerebellum
+s 594 295 69 48
+o 0 0 71 48
+~
+n brain-dessicator
+s 342 629 62 60
+o 1 3 64 64
+~
+n brain-jet
+s 208 804 89 191
+o 0 0 89 191
+~
+n brain-jet-arm
+s 4 4 406 83
+o 0 0 406 83
+~
+n brain-medium-base-bottom
+s 218 92 188 65
+o 0 0 188 65
+~
+n brain-medium-base-top
+s 4 276 195 120
+o 0 0 195 120
+~
+n brain-medium-dire-bottom
+s 4 401 186 60
+o 0 0 186 60
+~
+n brain-medium-dire-jet
+s 949 1269 71 88
+o 0 4 71 92
+~
+n brain-medium-dire-top
+s 4 466 163 35
+o 0 0 163 35
+~
+n brain-medium-jet
+s 405 1316 58 78
+o 4 0 62 78
+~
+n brain-medium-tube-end
+s 825 1886 12 14
+o 0 0 12 14
+~
+n brain-medium-tube-segment
+s 844 1883 12 14
+o 0 0 12 14
+~
+n brain-missles
+s 409 605 130 134
+o 0 0 130 134
+~
+n brain-overlay-glass-l-1
+s 208 470 144 31
+o 0 0 144 31
+~
+n brain-overlay-glass-l-2
+s 97 919 33 133
+o 0 0 33 133
+~
+n brain-overlay-glass-r-1
+s 668 420 137 197
+o 0 0 137 197
+~
+n brain-overlay-metal-l
+s 4 92 209 79
+o 0 0 209 79
+~
+n brain-overlay-metal-r
+s 409 246 180 80
+o 0 0 180 80
+~
+n brain-stem-lower
+s 312 1544 22 14
+o 0 0 22 14
+~
+n brain-stem-upper
+s 468 1414 16 26
+o 0 0 16 26
+~
+n brain-tank
+s 668 4 241 308
+o 0 0 241 312
+~
+n brain-tentacle-end
+s 971 1742 19 21
+o 0 0 19 21
+~
+n brain-tentacle-long
+s 869 1708 29 94
+o 0 0 29 94
+~
+n brain-tentacle-segment
+s 369 1579 13 20
+o 0 0 13 20
+~
+n brain-tube-segment-long
+s 597 1433 18 62
+o 0 0 18 62
+~
+n bunny-body
+s 792 1108 77 56
+o 0 0 77 56
+~
+n bunny-collar
+s 489 1494 41 39
+o 2 0 43 39
+~
+n bunny-ear
+s 135 1271 62 25
+o 0 0 62 25
+~
+n bunny-foot-lower
+s 971 1804 19 10
+o 0 0 19 10
+~
+n bunny-foot-upper
+s 479 1538 40 15
+o 0 2 40 17
+~
+n bunny-foreleg-lower
+s 727 1872 18 12
+o 0 0 18 12
+~
+n bunny-foreleg-upper
+s 917 1505 27 33
+o 0 0 27 33
+~
+n bunny-head
+s 341 1462 54 41
+o 0 0 54 41
+~
+n bunny-leg-lower
+s 91 1428 39 38
+o 0 0 39 38
+~
+n bunny-leg-upper
+s 91 1384 39 39
+o 0 0 39 39
+~
+n bunny-tail
+s 1001 1528 19 29
+o 0 0 19 29
+~
+n butlerbot-back-brass
+s 668 865 126 120
+o 0 0 126 120
+~
+n butlerbot-back-diamond
+s 668 740 126 120
+o 0 0 126 120
+~
+n butlerbot-back-onyx
+s 409 744 126 120
+o 0 0 126 120
+~
+n butlerbot-cylon
+s 903 879 92 95
+o 0 0 92 95
+~
+n butlerbot-drifter
+s 208 619 129 124
+o 0 0 129 124
+~
+n butlerbot-eye
+s 861 1898 12 12
+o 0 0 12 12
+~
+n butlerbot-flowers
+s 799 857 99 76
+o 0 0 99 76
+~
+n butlerbot-groucho
+s 914 272 103 64
+o 0 0 103 64
+~
+n butlerbot-head--brass
+s 624 1105 78 71
+o 0 0 78 71
+~
+n butlerbot-head-diamond
+s 709 1087 78 71
+o 0 0 78 71
+~
+n butlerbot-head-onyx
+s 406 1120 78 71
+o 0 0 78 71
+~
+n butlerbot-ninja
+s 913 528 101 72
+o 0 0 101 72
+~
+n butlerbot-pirate
+s 913 605 101 62
+o 0 0 101 62
+~
+n butlerbot-troll
+s 540 845 92 150
+o 0 0 92 150
+~
+n butlerbot-tuxedo
+s 4 1287 82 32
+o 0 0 82 32
+~
+n butterfly-body
+s 938 1711 28 64
+o 0 0 28 64
+~
+n butterfly-wing-green
+s 135 934 67 91
+o 0 0 67 91
+~
+n butterfly-wing-monarch
+s 885 1099 77 68
+o 0 0 77 68
+~
+n butterfly-wing-moth
+s 696 1497 48 71
+o 0 0 48 71
+~
+n butterfly-wing-owl
+s 613 221 50 69
+o 0 0 50 69
+~
+n butterfly-wing-paper-kite
+s 620 1384 52 70
+o 0 0 52 70
+~
+n butterfly-wing-papilio-ulysses
+s 723 990 71 92
+o 0 0 71 92
+~
+n butterfly-wing-rumanzovia
+s 967 1099 53 70
+o 0 0 53 70
+~
+n butterfly-wing-swallowtail
+s 870 1208 74 70
+o 0 0 74 70
+~
+n cardinal-body
+s 302 971 85 60
+o 0 0 85 60
+~
+n cardinal-foot
+s 992 1841 27 9
+o 0 0 27 9
+~
+n cardinal-head
+s 774 1528 47 49
+o 0 0 47 49
+~
+n cardinal-leg
+s 1000 954 20 26
+o 0 0 20 26
+~
+n cardinal-wing-lower
+s 698 1346 66 40
+o 0 0 66 40
+~
+n cardinal-wing-upper
+s 566 1570 36 32
+o 0 0 36 32
+~
+n cat-ear-f
+s 755 1391 15 22
+o 0 0 15 22
+~
+n cat-ear-r
+s 752 1481 17 16
+o 0 0 17 16
+~
+n cat-eye-f
+s 161 506 6 7
+o 0 0 6 7
+~
+n cat-eye-r
+s 342 619 3 5
+o 0 0 3 5
+~
+n cat-foreleg-lower
+s 316 1467 20 21
+o 0 0 20 21
+~
+n cat-foreleg-upper
+s 638 1657 22 24
+o 0 0 22 24
+~
+n cat-head
+s 91 1471 39 33
+o 0 0 39 33
+~
+n cat-jaw
+s 748 1589 20 16
+o 0 0 20 16
+~
+n cat-neck
+s 665 1583 26 23
+o 0 0 26 23
+~
+n cat-paw
+s 762 1861 22 9
+o 0 0 22 9
+~
+n cat-pelvis
+s 340 1543 40 31
+o 0 0 40 31
+~
+n cat-rearleg-lower
+s 377 1169 24 24
+o 0 0 24 24
+~
+n cat-rearleg-upper
+s 917 1464 27 36
+o 0 0 27 36
+~
+n cat-tail
+s 917 1411 27 48
+o 0 0 27 48
+~
+n cat-torso
+s 698 1429 51 41
+o 0 0 51 41
+~
+n clownfish-body
+s 772 1671 32 18
+o 0 0 32 18
+~
+n clownfish-dorsal-fin
+s 237 235 11 4
+o 0 0 11 4
+~
+n clownfish-pectoral-fin
+s 870 1182 8 8
+o 0 0 8 8
+~
+n clownfish-pelvic-fin
+s 958 1874 12 7
+o 0 0 12 7
+~
+n clownfish-tail
+s 750 1875 14 12
+o 0 0 14 12
+~
+n codfish-body
+s 4 971 87 40
+o 0 0 87 40
+~
+n codfish-body-violet
+s 302 850 87 40
+o 0 0 87 40
+~
+n codfish-body-yellow
+s 4 1016 87 40
+o 0 0 87 40
+~
+n codfish-dorsal-fin
+s 902 1850 17 13
+o 0 0 17 13
+~
+n codfish-pectoral-fin
+s 861 1839 18 8
+o 0 0 18 8
+~
+n codfish-pelvic-fin
+s 393 947 10 16
+o 0 0 10 16
+~
+n codfish-tail
+s 665 1839 25 24
+o 0 0 25 24
+~
+n crow-auto-head
+s 535 1525 40 24
+o 0 0 40 24
+~
+n crow-auto-wing
+s 707 1163 77 35
+o 0 0 77 35
+~
+n crow-body
+s 4 906 88 60
+o 0 0 88 60
+~
+n crow-collar
+s 594 1659 34 17
+o 0 0 34 17
+~
+n crow-foot
+s 91 1534 39 15
+o 0 0 39 15
+~
+n crow-head
+s 949 1673 42 33
+o 0 0 42 33
+~
+n crow-leg
+s 997 1662 22 28
+o 0 0 22 28
+~
+n crow-wing-lower
+s 593 430 70 37
+o 0 0 70 37
+~
+n crow-wing-upper
+s 580 1534 35 31
+o 0 0 35 31
+~
+n eyelids
+s 796 1850 24 12
+o 0 0 24 12
+~
+n flame-hawkfish-body
+s 556 1607 36 20
+o 0 0 36 20
+~
+n flame-hawkfish-pectoral-fin
+s 788 1886 13 8
+o 0 0 13 8
+~
+n flame-hawkfish-pelvic-fin
+s 941 1879 12 6
+o 0 0 12 6
+~
+n flame-hawkfish-tail
+s 677 1444 16 8
+o 0 0 16 8
+~
+n footwear/clown-foot-lower
+s 405 1279 59 32
+o 0 0 59 32
+~
+n footwear/clown-foot-upper
+s 355 557 49 32
+o 0 0 49 32
+~
+n footwear/snakeskin-boot-lower
+s 262 1403 56 27
+o 0 0 56 27
+~
+n footwear/snakeskin-boot-upper
+s 540 1414 52 62
+o 0 0 52 62
+~
+n foreleg-lower
+s 599 1388 16 20
+o 0 0 16 20
+~
+n foreleg-upper
+s 995 1743 25 23
+o 0 0 25 23
+~
+n forepaw
+s 677 1431 16 8
+o 0 0 16 8
+~
+n friend-arm-lower
+s 195 437 8 25
+o 0 0 8 25
+~
+n friend-arm-upper
+s 902 1868 12 24
+o 0 0 12 24
+~
+n friend-boxing-glove
+s 464 1445 20 22
+o 0 0 20 22
+~
+n friend-foot-lower
+s 729 1816 29 15
+o 0 0 29 15
+~
+n friend-foot-upper
+s 665 1688 26 19
+o 0 0 26 19
+~
+n friend-gear
+s 99 817 31 32
+o 0 0 31 32
+~
+n friend-hand
+s 825 1868 14 13
+o 0 0 14 13
+~
+n friend-key-1
+s 381 405 23 26
+o 0 0 23 26
+~
+n friend-key-2
+s 468 1383 16 26
+o 3 0 22 26
+~
+n friend-leg-lower
+s 392 1021 9 20
+o 0 0 9 20
+~
+n friend-leg-upper
+s 381 483 21 29
+o 0 0 21 29
+~
+n friend-scissors
+s 1001 1562 19 28
+o 0 0 19 28
+~
+n friend-torso
+s 620 1522 48 35
+o 0 0 48 35
+~
+n friend-torso-bidet
+s 342 751 62 47
+o 0 0 62 47
+~
+n friend-torso-open
+s 829 1471 48 35
+o 0 0 48 35
+~
+n gray-matter-1
+s 206 1127 82 58
+o 0 0 82 58
+~
+n gray-matter-2
+s 907 672 111 142
+o 0 0 111 142
+~
+n gray-matter-3
+s 341 1198 60 73
+o 0 0 60 73
+~
+n gray-matter-4
+s 593 472 63 61
+o 0 0 63 61
+~
+n gray-matter-5
+s 774 1582 47 30
+o 0 0 47 30
+~
+n gray-matter-6
+s 858 1317 69 47
+o 0 0 69 47
+~
+n head
+s 821 1644 43 31
+o 0 0 43 31
+~
+n herring-body
+s 883 1172 76 31
+o 0 0 76 31
+~
+n herring-body-blue
+s 621 1232 76 31
+o 0 0 76 31
+~
+n herring-body-red
+s 704 1203 76 31
+o 0 0 76 31
+~
+n herring-dorsal-fin
+s 831 1839 25 11
+o 0 0 25 11
+~
+n herring-pectoral-fin
+s 315 1533 20 6
+o 0 0 20 6
+~
+n herring-pelvic-fin
+s 900 1897 12 9
+o 0 0 12 9
+~
+n herring-tail
+s 749 1546 20 17
+o 0 0 20 17
+~
+n jellyfish-blob1
+s 833 1813 28 21
+o 0 0 28 21
+~
+n jellyfish-blob2
+s 837 1761 27 22
+o 0 0 27 22
+~
+n jellyfish-blob3
+s 665 1611 26 22
+o 0 0 26 22
+~
+n jellyfish-head
+s 949 1541 47 41
+o 0 0 47 41
+~
+n jellyfish-tentacle-segment
+s 661 472 2 22
+o 0 0 2 22
+~
+n orca-body
+s 409 331 179 135
+o 0 0 179 135
+~
+n orca-fin
+s 540 1190 76 46
+o 0 0 76 46
+~
+n orca-head
+s 914 341 102 60
+o 0 0 102 60
+~
+n orca-jaw
+s 813 317 96 36
+o 0 0 96 36
+~
+n orca-tail-1
+s 914 192 103 75
+o 0 0 103 75
+~
+n orca-tail-2
+s 799 1029 81 40
+o 0 0 81 40
+~
+n orca-tail-fin
+s 878 1575 47 29
+o 0 0 47 29
+~
+n pigeon-body
+s 637 990 81 51
+o 0 0 81 51
+~
+n pigeon-foot
+s 695 1837 29 11
+o 0 0 29 11
+~
+n pigeon-head
+s 400 1472 42 32
+o 0 0 42 32
+~
+n pigeon-leg
+s 971 1711 19 26
+o 0 0 19 26
+~
+n pigeon-wing-lower
+s 949 1453 65 36
+o 0 0 65 36
+~
+n pigeon-wing-upper
+s 500 869 35 34
+o 0 0 35 34
+~
+n piranha-body
+s 949 1413 66 35
+o 0 0 66 35
+~
+n piranha-dorsal-fin
+s 971 1786 19 13
+o 0 0 19 13
+~
+n piranha-jaw
+s 847 1865 14 13
+o 0 0 14 13
+~
+n piranha-pectoral-fin
+s 677 1418 16 8
+o 0 0 16 8
+~
+n piranha-tail
+s 597 1500 18 29
+o 0 0 18 29
+~
+n plasma-dog-ear-f
+s 936 1814 28 22
+o 0 0 28 22
+~
+n plasma-dog-ear-r
+s 749 1524 20 17
+o 0 0 20 17
+~
+n plasma-dog-foreleg-lower
+s 665 1774 25 31
+o 0 0 25 31
+~
+n plasma-dog-foreleg-upper
+s 772 1694 30 36
+o 0 0 30 36
+~
+n plasma-dog-head
+s 355 517 49 35
+o 0 0 49 35
+~
+n plasma-dog-jaw
+s 515 1635 35 27
+o 0 0 35 27
+~
+n plasma-dog-neck
+s 869 1807 28 27
+o 0 0 28 27
+~
+n plasma-dog-paw
+s 971 1768 19 13
+o 0 0 19 13
+~
+n plasma-dog-pelvis
+s 555 1654 34 32
+o 0 0 34 32
+~
+n plasma-dog-rearleg-lower
+s 96 1057 34 41
+o 0 0 34 41
+~
+n plasma-dog-rearleg-upper
+s 637 847 26 40
+o 0 0 26 40
+~
+n plasma-dog-tail-base
+s 749 1502 20 17
+o 0 0 20 17
+~
+n plasma-dog-tail-segment
+s 883 1894 12 14
+o 0 0 12 14
+~
+n plasma-dog-tail-tip
+s 866 1878 12 15
+o 0 0 12 15
+~
+n plasma-dog-tongue
+s 807 1701 30 34
+o 0 0 30 34
+~
+n plasma-dog-torso
+s 135 840 68 47
+o 0 0 68 47
+~
+n rat-collar
+s 432 1596 37 33
+o 0 0 37 33
+~
+n rat-foreleg-lower
+s 384 1046 17 22
+o 0 0 17 22
+~
+n rat-foreleg-upper
+s 637 960 26 25
+o 0 0 26 25
+~
+n rat-forepaw
+s 825 1855 17 8
+o 0 0 17 8
+~
+n rat-head
+s 826 1565 47 32
+o 0 2 47 34
+~
+n rat-rearfoot-lower
+s 969 1837 18 12
+o 0 0 18 12
+~
+n rat-rearfoot-upper
+s 695 1864 27 19
+o 0 0 27 19
+~
+n rat-rearleg-lower
+s 98 887 32 27
+o 0 0 32 27
+~
+n rat-rearleg-upper
+s 99 854 31 28
+o 0 0 31 28
+~
+n rat-tail-1
+s 869 1688 30 15
+o 0 0 30 15
+~
+n rat-tail-2
+s 473 1666 34 21
+o 0 0 34 21
+~
+n rat-tail-3
+s 665 1810 25 24
+o 0 0 25 24
+~
+n rat-torso
+s 623 1181 76 46
+o 0 0 76 46
+~
+n reaerleg-upper
+s 695 1786 29 28
+o 0 0 29 28
+~
+n rearfoot-lower
+s 677 1403 16 10
+o 0 0 16 10
+~
+n rearfoot-upper
+s 665 1664 26 19
+o 0 0 26 19
+~
+n rearleg-lower
+s 696 1706 30 25
+o 0 0 30 25
+~
+n revenant-arm
+s 631 1686 29 155
+o 0 0 29 155
+~
+n revenant-dire-arm
+s 172 467 31 155
+o 0 0 31 155
+~
+n revenant-dire-hand
+s 489 1322 46 77
+o 0 0 46 77
+~
+n revenant-dire-head
+s 913 406 101 117
+o 0 0 101 117
+~
+n revenant-dire-torso
+s 803 635 99 217
+o 0 0 99 217
+~
+n revenant-hand
+s 489 1240 46 77
+o 0 0 46 77
+~
+n revenant-head
+s 964 1174 56 90
+o 0 0 56 90
+~
+n revenant-lord-head
+s 4 506 152 178
+o 0 0 152 178
+~
+n revenant-lord-jaw
+s 810 480 98 150
+o 0 0 98 150
+~
+n revenant-torso
+s 341 1276 59 181
+o 0 0 59 181
+~
+n roach-abdomen
+s 774 1506 48 17
+o 0 0 48 17
+~
+n roach-antenna
+s 4 1431 57 11
+o 0 0 57 11
+~
+n roach-head
+s 729 1852 28 15
+o 0 0 28 15
+~
+n roach-lowerleg
+s 763 1838 28 18
+o 0 0 28 18
+~
+n roach-thorax
+s 268 1313 58 22
+o 0 0 58 22
+~
+n roach-upperleg
+s 676 1495 15 9
+o 0 0 15 9
+~
+n sandworm-arctic-head-lower
+s 4 1061 83 51
+o 0 0 83 51
+~
+n sandworm-arctic-head-middle
+s 540 1068 79 45
+o 0 0 79 45
+~
+n sandworm-arctic-head-upper
+s 408 951 86 55
+o 0 0 86 55
+~
+n sandworm-arctic-segment
+s 409 869 86 77
+o 0 0 86 77
+~
+n sandworm-arctic-tail
+s 540 1241 75 67
+o 0 0 75 67
+~
+n sandworm-desert-head-lower
+s 293 1130 79 55
+o 0 0 79 55
+~
+n sandworm-desert-head-middle
+s 406 1075 80 40
+o 0 0 80 40
+~
+n sandworm-desert-head-upper
+s 406 1196 78 56
+o 0 0 78 56
+~
+n sandworm-desert-segment
+s 540 1118 78 67
+o 0 0 78 67
+~
+n sandworm-desert-tail
+s 698 1282 72 59
+o 0 0 72 59
+~
+n scorpion-larg-body
+s 206 1084 83 38
+o 0 0 83 38
+~
+n scorpion-large-claw-1
+s 992 1855 25 17
+o 0 0 25 17
+~
+n scorpion-large-claw-2
+s 381 461 23 17
+o 0 0 23 17
+~
+n scorpion-large-claw-lower
+s 433 1523 41 22
+o 0 0 41 22
+~
+n scorpion-large-claw-upper
+s 696 1670 34 17
+o 0 0 34 17
+~
+n scorpion-large-head
+s 473 1638 34 23
+o 0 0 34 23
+~
+n scorpion-large-lowerleg
+s 755 1418 15 20
+o 0 0 15 20
+~
+n scorpion-large-midleg
+s 381 436 23 20
+o 0 0 23 20
+~
+n scorpion-large-stinger
+s 432 1634 36 32
+o 0 0 36 32
+~
+n scorpion-large-tail-1
+s 357 470 19 42
+o 0 0 19 42
+~
+n scorpion-large-tail-2
+s 70 1324 16 44
+o 0 0 16 44
+~
+n scorpion-large-tail-3
+s 938 1780 28 29
+o 0 0 28 29
+~
+n scorpion-large-upperleg
+s 935 1841 25 20
+o 0 0 25 20
+~
+n scorpion-small-body
+s 949 1587 45 19
+o 0 0 45 19
+~
+n scorpion-small-claw-1
+s 677 1457 15 15
+o 0 0 15 15
+~
+n scorpion-small-claw-2
+s 884 1859 13 10
+o 0 0 13 10
+~
+n scorpion-small-claw-lower
+s 695 1766 30 15
+o 0 0 30 15
+~
+n scorpion-small-claw-upper
+s 282 1558 25 13
+o 0 0 25 13
+~
+n scorpion-small-head
+s 599 1413 16 15
+o 0 0 16 15
+~
+n scorpion-small-lowerleg
+s 625 1022 7 10
+o 0 0 7 10
+~
+n scorpion-small-midleg
+s 866 1865 13 8
+o 0 0 13 8
+~
+n scorpion-small-stinger
+s 930 1575 14 22
+o 0 0 14 22
+~
+n scorpion-small-tail-1
+s 394 879 10 17
+o 0 0 10 17
+~
+n scorpion-small-tail-2
+s 625 1000 7 17
+o 0 0 7 17
+~
+n scorpion-small-tail-3
+s 393 968 10 15
+o 0 0 10 15
+~
+n scorpion-small-upperleg
+s 941 1866 12 8
+o 0 0 12 8
+~
+n seagull-auto-head
+s 341 1508 41 30
+o 0 0 41 30
+~
+n seagull-auto-wing
+s 702 1239 74 38
+o 0 0 74 42
+~
+n seagull-body
+s 208 748 90 51
+o 0 0 90 51
+~
+n seagull-collar
+s 902 1824 28 21
+o 0 0 28 21
+~
+n seagull-foot
+s 729 1836 29 11
+o 0 0 29 11
+~
+n seagull-head
+s 876 1609 43 39
+o 0 0 43 39
+~
+n seagull-leg
+s 323 1403 13 28
+o 0 0 13 28
+~
+n seagull-wing-lower
+s 202 1282 61 32
+o 0 0 61 32
+~
+n seagull-wing-upper
+s 730 1782 29 29
+o 0 0 29 29
+~
+n sergeant-major-body
+s 879 1552 33 18
+o 0 0 33 18
+~
+n sergeant-major-pectoral-fin
+s 253 235 10 4
+o 0 0 10 4
+~
+n sergeant-major-pelvic-fin
+s 218 235 14 4
+o 0 0 14 4
+~
+n sergeant-major-tail
+s 754 1443 15 14
+o 0 0 15 14
+~
+n skull-cranium
+s 540 1361 54 48
+o 0 0 54 48
+~
+n skull-jaw
+s 512 1667 34 19
+o 0 0 34 19
+~
+n skull-spine-1
+s 393 930 11 12
+o 0 0 11 12
+~
+n skull-spine-2
+s 709 1071 9 11
+o 0 0 9 11
+~
+n skull-spine-3
+s 870 1169 8 8
+o 0 0 8 8
+~
+n skunk-body
+s 540 1000 80 63
+o 0 0 80 63
+~
+n skunk-collar
+s 99 778 31 34
+o 0 0 31 34
+~
+n skunk-foreleg_lower
+s 377 1136 24 28
+o 0 0 24 28
+~
+n skunk-foreleg_upper
+s 733 1705 30 27
+o 0 0 30 27
+~
+n skunk-forewpaw
+s 135 689 18 7
+o 0 0 18 7
+~
+n skunk-head
+s 405 1426 54 41
+o 0 0 54 41
+~
+n skunk-rearleg_lower
+s 997 1629 22 28
+o 0 0 22 28
+~
+n skunk-rearleg_upper
+s 524 1554 37 39
+o 0 0 37 39
+~
+n skunk-rearpaw
+s 665 1712 26 13
+o 0 0 26 13
+~
+n skunk-tail
+s 206 1190 64 87
+o 0 0 64 87
+~
+n snake-garter-head-lower
+s 268 1286 58 22
+o 0 0 58 22
+~
+n snake-garter-head-upper
+s 200 1319 58 21
+o 0 0 58 21
+~
+n snake-garter-segment-thick
+s 832 1414 51 31
+o 0 0 51 31
+~
+n snake-garter-segment-thin
+s 597 1615 36 19
+o 0 0 36 19
+~
+n snake-garter-tail-segment
+s 252 1540 25 16
+o 0 0 25 16
+~
+n snake-garter-tail-tip
+s 735 1687 32 13
+o 0 0 32 13
+~
+n snake-rattler-head-lower
+s 775 1394 52 22
+o 0 0 52 22
+~
+n snake-rattler-head-upper
+s 4 1479 55 22
+o 0 0 55 22
+~
+n snake-rattler-segment-thick
+s 775 1421 51 28
+o 0 0 51 28
+~
+n snake-rattler-segment-thin
+s 556 1632 36 17
+o 0 0 36 17
+~
+n snake-rattler-tail-segment
+s 996 1695 24 15
+o 0 0 24 15
+~
+n snake-rattler-tail-tip
+s 730 1762 30 15
+o 0 0 30 15
+~
+n snake-rattler-teeth
+s 620 1498 49 19
+o 0 0 49 19
+~
+n squid-body
+s 625 1046 79 54
+o 0 0 79 54
+~
+n squid-fin-f
+s 135 1210 64 23
+o 0 0 64 23
+~
+n squid-fin-r
+s 406 1257 60 17
+o 0 0 60 17
+~
+n squid-head
+s 218 162 187 68
+o 0 0 187 68
+~
+n squid-tentacle-end
+s 695 1853 28 6
+o 0 0 28 6
+~
+n squid-tentacle-end-large
+s 831 1450 51 16
+o 0 0 51 16
+~
+n squid-tentacle-segment
+s 696 1692 32 9
+o 0 0 32 9
+~
+n squid-tentacle-top
+s 92 1132 38 15
+o 0 0 38 15
+~
+n stem-1
+s 303 748 34 50
+o 0 0 34 50
+~
+n stem-2
+s 698 1391 52 33
+o 0 0 52 33
+~
+n tail-1
+s 798 1827 28 18
+o 0 0 28 18
+~
+n tail-2
+s 888 1439 24 17
+o 0 0 24 17
+~
+n tail-3
+s 394 850 10 24
+o 0 0 10 24
+~
+n tentacle-monster-base
+s 208 405 168 60
+o 0 0 168 60
+~
+n tentacle-monster-tentacle-1
+s 64 1473 22 42
+o 0 0 22 42
+~
+n tentacle-monster-tentacle-2
+s 70 1373 16 42
+o 0 0 16 42
+~
+n tentacle-monster-tentacle-3
+s 932 1317 12 44
+o 0 0 12 44
+~
+n tentacle-monster-tentacle-4
+s 392 988 9 28
+o 0 8 9 36
+~
+n tentacle-monster-tentacle-5
+s 195 401 8 31
+o 0 0 8 31
+~
+n terrapus-acid-head
+s 135 1497 54 52
+o 0 0 54 52
+~
+n terrapus-acid-leg-bottom-l
+s 735 1630 32 25
+o 0 0 32 25
+~
+n terrapus-acid-leg-bottom-r
+s 735 1660 32 22
+o 0 0 32 22
+~
+n terrapus-acid-leg-mid
+s 393 901 11 24
+o 0 0 11 24
+~
+n terrapus-acid-leg-top-l
+s 730 1737 30 20
+o 0 0 30 20
+~
+n terrapus-acid-leg-top-m-l
+s 884 1874 12 15
+o 0 0 12 15
+~
+n terrapus-acid-leg-top-m-r
+s 599 1361 16 22
+o 0 0 16 22
+~
+n terrapus-acid-leg-top-m1
+s 808 1867 12 33
+o 0 0 12 33
+~
+n terrapus-acid-leg-top-mid-l
+s 884 1874 12 15
+o 0 0 12 15
+~
+n terrapus-acid-leg-top-mid-r
+s 599 1361 16 22
+o 0 0 16 22
+~
+n terrapus-acid-leg-top-r
+s 768 1735 30 24
+o 0 0 30 24
+~
+n terrapus-acid-spikes-1
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-acid-spikes-2
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-acid-spikes-3
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-adult-head
+s 200 1345 57 54
+o 0 0 57 54
+~
+n terrapus-adult-leg-bottom-l
+s 845 1680 19 26
+o 0 0 19 26
+~
+n terrapus-adult-leg-bottom-r
+s 842 1711 22 23
+o 0 0 22 23
+~
+n terrapus-adult-leg-mid
+s 648 783 15 29
+o 0 0 15 29
+~
+n terrapus-adult-leg-top-l
+s 997 1612 23 12
+o 0 0 23 12
+~
+n terrapus-adult-leg-top-m-l
+s 676 1477 15 13
+o 0 0 15 13
+~
+n terrapus-adult-leg-top-m-r
+s 674 1509 17 15
+o 0 0 17 15
+~
+n terrapus-adult-leg-top-r
+s 748 1610 20 15
+o 0 0 20 15
+~
+n terrapus-arctic-head
+s 135 1149 66 56
+o 0 0 66 56
+~
+n terrapus-arctic-leg-bottom-l
+s 637 927 26 28
+o 0 0 26 28
+~
+n terrapus-arctic-leg-bottom-r
+s 903 1792 28 27
+o 0 0 28 27
+~
+n terrapus-arctic-leg-mid
+s 468 1344 16 34
+o 0 0 16 34
+~
+n terrapus-arctic-leg-top-l
+s 91 1509 39 20
+o 0 0 39 20
+~
+n terrapus-arctic-leg-top-m-l
+s 884 1839 13 15
+o 0 0 13 15
+~
+n terrapus-arctic-leg-top-m-r
+s 384 1073 17 18
+o 0 0 17 18
+~
+n terrapus-arctic-leg-top-r
+s 696 1647 34 18
+o 0 0 34 18
+~
+n terrapus-bone-head
+s 4 1506 54 52
+o 0 0 54 52
+~
+n terrapus-bone-leg-bottom-l
+s 965 1854 22 15
+o 0 0 22 15
+~
+n terrapus-bone-leg-bottom-r
+s 63 1520 23 16
+o 0 0 23 16
+~
+n terrapus-bone-leg-mid
+s 648 1588 12 35
+o 0 0 12 35
+~
+n terrapus-bone-leg-top-l
+s 695 1819 29 13
+o 0 0 29 13
+~
+n terrapus-bone-leg-top-m-l
+s 789 1867 14 14
+o 0 0 14 14
+~
+n terrapus-bone-leg-top-m-r
+s 969 1819 18 13
+o 0 0 18 13
+~
+n terrapus-bone-leg-top-r
+s 594 1681 32 18
+o 0 0 32 18
+~
+n terrapus-bone-spikes-1
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-bone-spikes-2
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-bone-spikes-3
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-child-head
+s 135 1367 57 35
+o 0 0 57 35
+~
+n terrapus-collar
+s 4 1447 55 27
+o 0 0 55 27
+~
+n terrapus-fire-head
+s 4 1324 61 63
+o 0 0 61 63
+~
+n terrapus-fire-leg-bottom-l
+s 764 1807 29 26
+o 0 0 29 26
+~
+n terrapus-fire-leg-bottom-r
+s 879 1521 33 26
+o 0 0 33 26
+~
+n terrapus-fire-leg-mid
+s 995 1715 25 23
+o 0 0 25 23
+~
+n terrapus-fire-leg-top-l
+s 92 1103 38 24
+o 0 0 38 24
+~
+n terrapus-fire-leg-top-m-l
+s 665 1638 26 21
+o 0 0 26 21
+~
+n terrapus-fire-leg-top-m-r
+s 995 1799 25 22
+o 0 0 25 22
+~
+n terrapus-fire-leg-top-r
+s 387 1509 41 26
+o 0 0 41 26
+~
+n terrapus-fire-spikes-1
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-fire-spikes-2
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-fire-spikes-3
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-frost-head
+s 275 1190 61 54
+o 0 0 61 54
+~
+n terrapus-frost-leg-bottom-l
+s 1000 919 20 30
+o 0 0 20 30
+~
+n terrapus-frost-leg-bottom-r
+s 638 1628 22 24
+o 6 0 28 24
+~
+n terrapus-frost-leg-mid
+s 91 1291 39 43
+o 0 0 39 43
+~
+n terrapus-frost-leg-top-l
+s 809 1680 31 16
+o 0 0 31 16
+~
+n terrapus-frost-leg-top-m-l
+s 749 1568 20 16
+o 0 0 22 16
+~
+n terrapus-frost-leg-top-m-r
+s 673 1529 18 26
+o 0 0 18 26
+~
+n terrapus-frost-leg-top-r
+s 620 1562 40 21
+o 0 0 40 21
+~
+n terrapus-frost-spikes-1
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-frost-spikes-2
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-frost-spikes-3
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-pet-collar
+s 4 1447 55 27
+o 0 0 55 27
+~
+n terrapus-queen-body
+s 4 176 199 95
+o 0 2 199 97
+~
+n terrapus-queen-head
+s 208 244 196 156
+o 0 0 196 156
+~
+n terrapus-queen-leg-lower-l
+s 546 471 42 62
+o 4 0 46 62
+~
+n terrapus-queen-leg-lower-r
+s 161 636 42 60
+o 0 0 42 60
+~
+n terrapus-queen-leg-mid
+s 496 1027 39 55
+o 0 0 39 55
+~
+n terrapus-queen-leg-upper-l
+s 544 727 99 113
+o 0 4 99 117
+~
+n terrapus-queen-leg-upper-m-l
+s 904 1693 29 94
+o 0 0 29 94
+~
+n terrapus-queen-leg-upper-m-r
+s 489 1142 46 93
+o 0 0 46 93
+~
+n terrapus-queen-leg-upper-r
+s 620 1268 73 111
+o 0 2 73 113
+~
+n terrapus-queen-pupiil
+s 1001 1494 19 29
+o 0 0 19 29
+~
+n terrapus-spikes-1
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-spikes-2
+s 268 235 1 1
+o 0 0 0 0
+~
+n terrapus-spikes-3
+s 268 235 1 1
+o 0 0 0 0
+~
+n torso
+s 540 1313 73 43
+o 0 0 73 43
+~
+n turkey-body
+s 4 689 126 84
+o 0 0 126 84
+~
+n turkey-foot
+s 696 1624 34 18
+o 0 0 34 18
+~
+n turkey-head
+s 500 908 35 32
+o 0 0 37 32
+~
+n turkey-leg-lower
+s 500 945 35 31
+o 0 0 35 31
+~
+n turkey-leg-upper
+s 607 1588 36 22
+o 0 0 36 22
+~
+n turkey-neck
+s 803 1740 29 50
+o 0 0 29 50
+~
+n turkey-tail
+s 668 317 140 98
+o 0 0 140 98
+~
+n turkey-wing-1
+s 135 1301 60 61
+o 0 0 60 61
+~
+n turkey-wing-2
+s 342 694 62 52
+o 0 0 62 52
+~
+n turkey-wing-3
+s 826 1602 45 37
+o 0 0 45 37
+~
+n turkey-wing-4
+s 827 1511 47 49
+o 0 0 47 49
+~
+n turret-acid
+s 4 858 89 43
+o 4 0 97 43
+~
+n turret-base-small
+s 474 1597 36 36
+o 22 22 80 80
+~
+n turret-fire
+s 4 1392 60 34
+o 0 0 60 36
+~
+n turret-flame
+s 303 803 90 42
+o 0 5 92 56
+~
+n turret-pistol
+s 275 1249 61 32
+o 0 4 61 38
+~
+n turtle-sea-forefin
+s 620 1459 51 34
+o 0 0 51 34
+~
+n turtle-sea-head
+s 135 1440 55 24
+o 0 0 55 24
+~
+n turtle-sea-rearfin
+s 869 1653 43 30
+o 0 0 43 30
+~
+n turtle-sea-shell-lower
+s 907 849 109 25
+o 0 0 109 25
+~
+n turtle-sea-shell-upper
+s 544 667 119 55
+o 0 0 119 55
+~
+n turtle-sea-tail
+s 924 1644 20 12
+o 0 0 20 12
+~
+n turtleforeleg
+s 355 594 49 30
+o 0 0 49 30
+~
+n turtleforepaw
+s 924 1627 20 12
+o 0 0 20 12
+~
+n turtlehead
+s 194 1526 53 24
+o 0 0 53 24
+~
+n turtlerearleg
+s 799 1795 29 27
+o 0 0 29 27
+~
+n turtlerearpaw
+s 282 1540 25 13
+o 0 0 25 13
+~
+n turtleshell-lower
+s 907 819 109 25
+o 0 0 109 25
+~
+n turtleshell-upper
+s 544 607 119 55
+o 0 0 119 55
+~
+n turtletail
+s 999 1595 20 12
+o 0 0 20 12
+~
+n vulture-body
+s 135 1030 66 114
+o 0 0 66 116
+~
+n vulture-collar
+s 648 817 15 25
+o 0 0 15 25
+~
+n vulture-foot-f
+s 405 1399 58 22
+o 0 0 58 22
+~
+n vulture-head
+s 499 981 36 41
+o 0 0 36 41
+~
+n vulture-leg-f
+s 887 1461 25 55
+o 0 0 25 55
+~
+n vulture-lowerbeak
+s 69 1420 17 17
+o 0 0 17 17
+~
+n vulture-neck
+s 92 1152 37 51
+o 0 0 37 51
+~
+n vulture-tail
+s 135 782 68 53
+o 0 0 68 53
+~
+n vulture-wing-lower
+s 208 506 142 108
+o 0 0 142 108
+~
+n vulture-wing-upper
+s 799 938 92 86
+o 0 0 92 86
+~
+n whiskers
+s 697 1475 50 17
+o 0 0 50 17
+~

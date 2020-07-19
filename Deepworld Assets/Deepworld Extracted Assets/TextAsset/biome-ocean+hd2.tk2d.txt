@@ -1,0 +1,148 @@
+i tk2d 1
+w 1024
+h 1024
+~
+n ocean/brain-coral-end-1
+s 4 989 80 30
+o 0 50 80 80
+~
+n ocean/brain-coral-end-2
+s 174 989 80 16
+o 0 64 80 80
+~
+n ocean/brain-coral-end-3
+s 344 734 80 80
+o 0 0 80 80
+~
+n ocean/brain-coral-tile-1
+s 259 904 80 80
+o 0 0 80 80
+~
+n ocean/brain-coral-tile-2
+s 259 819 80 80
+o 0 0 80 80
+~
+n ocean/brain-coral-tile-3
+s 259 734 80 80
+o 0 0 80 80
+~
+n ocean/brain-coral-tile-4
+s 174 904 80 80
+o 0 0 80 80
+~
+n ocean/coral-end-1
+s 719 734 80 68
+o 0 12 80 80
+~
+n ocean/coral-end-2
+s 575 815 80 74
+o 0 6 80 80
+~
+n ocean/coral-end-3
+s 89 989 80 26
+o 0 54 80 80
+~
+n ocean/coral-tile-1
+s 174 819 80 80
+o 0 0 80 80
+~
+n ocean/coral-tile-2
+s 174 734 80 80
+o 0 0 80 80
+~
+n ocean/coral-tile-3
+s 89 904 80 80
+o 0 0 80 80
+~
+n ocean/coral-tile-4
+s 89 819 80 80
+o 0 0 80 80
+~
+n ocean/crinoid-1
+s 429 902 70 78
+o 3 2 80 80
+~
+n ocean/crinoid-2
+s 656 894 70 70
+o 2 10 80 80
+~
+n ocean/crinoid-3
+s 577 734 70 74
+o 3 6 80 80
+~
+n ocean/dead-coral-end-1
+s 581 971 80 48
+o 0 32 80 80
+~
+n ocean/dead-coral-end-2
+s 344 904 80 78
+o 0 2 80 80
+~
+n ocean/dead-coral-end-3
+s 731 880 80 54
+o 0 26 80 80
+~
+n ocean/dead-coral-tile-1
+s 89 734 80 80
+o 0 0 80 80
+~
+n ocean/dead-coral-tile-2
+s 4 904 80 80
+o 0 0 80 80
+~
+n ocean/dead-coral-tile-3
+s 4 819 80 80
+o 0 0 80 80
+~
+n ocean/dead-coral-tile-4
+s 4 734 80 80
+o 0 0 80 80
+~
+n ocean/earth-base
+s 4 409 960 320
+o 0 0 960 320
+~
+n ocean/earth-front
+s 4 4 960 400
+o 0 0 960 400
+~
+n ocean/sea-fan-1
+s 427 819 78 78
+o 2 2 80 80
+~
+n ocean/sea-fan-2
+s 344 819 78 80
+o 0 0 80 80
+~
+n ocean/sea-fan-3
+s 429 734 76 78
+o 2 2 80 80
+~
+n ocean/seaweed-1
+s 504 902 72 76
+o 2 4 80 80
+~
+n ocean/seaweed-2
+s 510 815 60 76
+o 5 4 80 80
+~
+n ocean/seaweed-3
+s 652 734 62 74
+o 7 6 80 80
+~
+n ocean/seaweed-4
+s 660 813 58 70
+o 9 10 80 80
+~
+n ocean/tube-coral-1
+s 510 734 62 76
+o 12 4 80 80
+~
+n ocean/tube-coral-2
+s 581 894 70 72
+o 9 8 80 80
+~
+n ocean/tube-coral-3
+s 723 807 60 68
+o 8 12 80 80
+~

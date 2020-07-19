@@ -1,0 +1,214 @@
+entities+hd2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+turrets/fire-mark-2
+  rotate: false
+  xy: 220, 682
+  size: 87, 51
+  orig: 115, 85
+  offset: 13, 17
+  index: -1
+turrets/frost-mark-2
+  rotate: false
+  xy: 325, 661
+  size: 96, 55
+  orig: 118, 55
+  offset: 8, 0
+  index: -1
+automata/butlerbot-head-diamond
+  rotate: false
+  xy: 376, 531
+  size: 108, 125
+  orig: 194, 195
+  offset: 42, 26
+  index: -1
+turrets/frost
+  rotate: false
+  xy: 426, 661
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+turrets/flame-mark-3
+  rotate: false
+  xy: 171, 169
+  size: 150, 90
+  orig: 154, 90
+  offset: 2, 0
+  index: -1
+automata/eye
+  rotate: false
+  xy: 149, 335
+  size: 16, 17
+  orig: 194, 195
+  offset: 124, 106
+  index: -1
+turrets/energy
+  rotate: false
+  xy: 220, 637
+  size: 100, 40
+  orig: 106, 40
+  offset: 5, 0
+  index: -1
+turrets/energy-mark-3
+  rotate: false
+  xy: 4, 335
+  size: 140, 78
+  orig: 146, 80
+  offset: 4, 1
+  index: -1
+turrets/gun-mark-2
+  rotate: false
+  xy: 4, 564
+  size: 104, 57
+  orig: 116, 67
+  offset: 0, 1
+  index: -1
+turrets/flame-mark-2
+  rotate: false
+  xy: 171, 264
+  size: 142, 78
+  orig: 154, 90
+  offset: 7, 8
+  index: -1
+turrets/energy-mark-2
+  rotate: false
+  xy: 170, 347
+  size: 134, 70
+  orig: 146, 80
+  offset: 5, 5
+  index: -1
+automata/butlerbot-body-onyx
+  rotate: false
+  xy: 4, 169
+  size: 162, 161
+  orig: 194, 195
+  offset: 16, 18
+  index: -1
+automata/butlerbot-head-onyx
+  rotate: false
+  xy: 4, 626
+  size: 102, 97
+  orig: 194, 195
+  offset: 42, 55
+  index: -1
+turrets/dessicator
+  rotate: false
+  xy: 426, 701
+  size: 76, 74
+  orig: 80, 80
+  offset: 2, 1
+  index: -1
+sheet-shadow
+  rotate: false
+  xy: 4, 4
+  size: 320, 160
+  orig: 320, 320
+  offset: 0, 160
+  index: -1
+turrets/large-2
+  rotate: false
+  xy: 376, 472
+  size: 110, 54
+  orig: 114, 70
+  offset: 1, 11
+  index: -1
+turrets/dessicator-mark-2
+  rotate: false
+  xy: 261, 472
+  size: 110, 90
+  orig: 120, 120
+  offset: 6, 16
+  index: -1
+turrets/acid-mark-3
+  rotate: false
+  xy: 318, 332
+  size: 138, 74
+  orig: 142, 74
+  offset: 2, 0
+  index: -1
+automata/butlerbot-body-diamond
+  rotate: false
+  xy: 329, 4
+  size: 166, 157
+  orig: 194, 195
+  offset: 14, 20
+  index: -1
+automata/butlerbot-body
+  rotate: false
+  xy: 329, 166
+  size: 162, 161
+  orig: 194, 195
+  offset: 16, 18
+  index: -1
+turrets/small-1
+  rotate: false
+  xy: 111, 693
+  size: 76, 41
+  orig: 76, 47
+  offset: 0, 2
+  index: -1
+turrets/fire-mark-3
+  rotate: false
+  xy: 234, 567
+  size: 103, 65
+  orig: 115, 85
+  offset: 7, 7
+  index: -1
+turrets/frost-mark-3
+  rotate: false
+  xy: 4, 418
+  size: 127, 84
+  orig: 127, 84
+  offset: 0, 0
+  index: -1
+automata/butlerbot-eye
+  rotate: false
+  xy: 500, 4
+  size: 8, 8
+  orig: 60, 60
+  offset: 37, 31
+  index: -1
+turrets/dessicator-mark-3
+  rotate: false
+  xy: 136, 422
+  size: 120, 96
+  orig: 120, 120
+  offset: 0, 12
+  index: -1
+turrets/large-1
+  rotate: false
+  xy: 4, 507
+  size: 112, 52
+  orig: 122, 54
+  offset: 5, 2
+  index: -1
+turrets/acid-mark-2
+  rotate: false
+  xy: 309, 411
+  size: 126, 56
+  orig: 142, 74
+  offset: 8, 11
+  index: -1
+turrets/gun-mark-3
+  rotate: false
+  xy: 121, 523
+  size: 108, 63
+  orig: 116, 67
+  offset: 3, 2
+  index: -1
+turrets/small-2
+  rotate: false
+  xy: 4, 728
+  size: 75, 41
+  orig: 75, 45
+  offset: 0, 2
+  index: -1
+automata/butlerbot-head
+  rotate: false
+  xy: 113, 591
+  size: 102, 97
+  orig: 194, 195
+  offset: 42, 55
+  index: -1

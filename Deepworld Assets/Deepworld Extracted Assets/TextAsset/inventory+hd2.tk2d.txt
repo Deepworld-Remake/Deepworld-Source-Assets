@@ -1,0 +1,4208 @@
+i tk2d 1
+w 2048
+h 2048
+~
+n icon-dance
+s 1611 1677 39 45
+o 5 4 51 51
+~
+n icon-gem
+s 1520 1687 41 43
+o 4 4 51 51
+~
+n icon-guild
+s 1421 1535 45 41
+o 2 4 51 51
+~
+n icon-gun
+s 1671 1466 43 29
+o 4 11 51 51
+~
+n icon-home
+s 1597 1858 43 41
+o 4 4 51 51
+~
+n icon-peeps
+s 1609 1728 47 31
+o 1 11 51 51
+~
+n icon-profile-achievements
+s 1645 1854 35 45
+o 8 2 51 51
+~
+n icon-profile-avatar
+s 1557 1633 43 41
+o 3 4 51 51
+~
+n icon-profile-equipment
+s 1425 1702 43 39
+o 3 4 51 51
+~
+n icon-profile-skills
+s 1545 1862 47 39
+o 2 5 51 51
+~
+n icon-profile-stats
+s 1728 1854 37 39
+o 5 5 51 51
+~
+n icon-skill-agility
+s 291 1958 57 45
+o 1 9 61 61
+~
+n icon-skill-automata
+s 108 1924 51 51
+o 4 4 61 61
+~
+n icon-skill-building
+s 1373 1535 43 45
+o 8 6 61 61
+~
+n icon-skill-engineering
+s 1281 1949 57 37
+o 2 11 61 61
+~
+n icon-skill-luck
+s 232 1808 55 55
+o 2 2 61 61
+~
+n icon-skill-mining
+s 164 1951 57 45
+o 1 9 61 61
+~
+n icon-skill-perception
+s 1067 1286 57 59
+o 1 0 61 61
+~
+n icon-skill-stamina
+s 1201 1995 45 49
+o 8 5 61 61
+~
+n icon-skill-survival
+s 416 1351 61 61
+o 0 0 61 61
+~
+n icon-swirl
+s 1511 1639 41 43
+o 5 3 51 51
+~
+n icon-wardrobe
+s 1696 1668 31 45
+o 10 1 51 51
+~
+n icon-world
+s 1605 1633 39 39
+o 6 6 51 51
+~
+n inventory-font
+s 4 145 150 53
+o 2 2 174 87
+~
+n inventory-font copy
+s 105 4 83 81
+o 2 0 87 87
+~
+n inventory-slot
+s 1561 734 64 64
+o 2 2 68 68
+~
+n inventory-slot-faded
+s 651 726 66 68
+o 1 0 68 68
+~
+n inventory-slot-highlighted
+s 1708 588 68 68
+o 0 0 68 68
+~
+n inventory-white
+s 644 1793 14 14
+o 0 0 14 14
+~
+n inventory/accessories/abacus
+s 1217 1193 54 62
+o 6 1 68 68
+~
+n inventory/accessories/afterburner
+s 1429 728 64 64
+o 1 0 68 68
+~
+n inventory/accessories/agility-brass
+s 550 1294 56 68
+o 7 0 68 68
+~
+n inventory/accessories/agility-diamond
+s 1073 1215 54 66
+o 8 1 68 68
+~
+n inventory/accessories/agility-onyx
+s 550 1367 54 68
+o 8 0 68 68
+~
+n inventory/accessories/aquapack-brass
+s 1635 588 68 68
+o 0 0 68 68
+~
+n inventory/accessories/aquapack-diamond
+s 1562 588 68 68
+o 0 0 68 68
+~
+n inventory/accessories/aquapack-onyx
+s 580 726 66 68
+o 1 0 68 68
+~
+n inventory/accessories/army-knife
+s 512 1840 38 66
+o 14 0 68 68
+~
+n inventory/accessories/army-knife-diamond
+s 526 1769 40 66
+o 12 0 68 68
+~
+n inventory/accessories/army-knife-onyx
+s 664 1738 40 66
+o 18 0 68 68
+~
+n inventory/accessories/battery
+s 284 1010 64 66
+o 0 0 68 68
+~
+n inventory/accessories/breathing-apparatus
+s 487 1085 60 68
+o 1 0 68 68
+~
+n inventory/accessories/building-extender
+s 856 937 60 68
+o 3 0 68 68
+~
+n inventory/accessories/butler-extender
+s 193 1504 58 62
+o 4 3 68 68
+~
+n inventory/accessories/clover
+s 59 1793 54 58
+o 8 4 68 68
+~
+n inventory/accessories/compressor
+s 414 1417 62 58
+o 1 4 68 68
+~
+n inventory/accessories/compressor-basic
+s 1280 1118 62 56
+o 2 6 68 68
+~
+n inventory/accessories/compressor-onyx
+s 1076 1079 62 60
+o 2 4 68 68
+~
+n inventory/accessories/conch
+s 1560 1162 54 62
+o 6 3 68 68
+~
+n inventory/accessories/dowsing-rod
+s 1221 1049 54 66
+o 5 0 68 68
+~
+n inventory/accessories/exo-skin
+s 951 1229 52 68
+o 9 0 68 68
+~
+n inventory/accessories/flashlight-brass
+s 719 1156 60 64
+o 6 1 68 68
+~
+n inventory/accessories/flashlight-diamond
+s 855 1083 60 64
+o 3 1 68 68
+~
+n inventory/accessories/flashlight-onyx
+s 851 1430 54 60
+o 7 4 68 68
+~
+n inventory/accessories/glove
+s 1182 1663 46 50
+o 10 7 68 68
+~
+n inventory/accessories/glove-diamond
+s 1370 1645 44 50
+o 11 8 68 68
+~
+n inventory/accessories/glove-onyx
+s 1247 1554 46 54
+o 9 7 68 68
+~
+n inventory/accessories/horseshoe
+s 1908 1014 58 64
+o 6 1 68 68
+~
+n inventory/accessories/interface
+s 1067 1419 52 62
+o 7 2 68 68
+~
+n inventory/accessories/jetpack
+s 664 1665 42 68
+o 13 0 68 68
+~
+n inventory/accessories/jetpack-brass
+s 1157 1454 42 68
+o 13 0 68 68
+~
+n inventory/accessories/jetpack-diamond
+s 1206 1398 42 68
+o 13 0 68 68
+~
+n inventory/accessories/jetpack-onyx
+s 1907 1323 34 68
+o 17 0 68 68
+~
+n inventory/accessories/key
+s 1564 1831 68 22
+o 0 23 68 68
+~
+n inventory/accessories/key-clown
+s 1418 1840 68 26
+o 0 21 68 68
+~
+n inventory/accessories/key-lizard
+s 1395 1612 68 24
+o 0 21 68 68
+~
+n inventory/accessories/key-ruby
+s 1416 1944 68 30
+o 0 19 68 68
+~
+n inventory/accessories/key-skeleton
+s 1609 1935 68 24
+o 0 23 68 68
+~
+n inventory/accessories/lockpick
+s 1017 1004 60 66
+o 0 0 68 68
+~
+n inventory/accessories/makeup
+s 59 1856 54 56
+o 7 7 68 68
+~
+n inventory/accessories/memory
+s 1253 1450 56 50
+o 8 6 68 68
+~
+n inventory/accessories/memory-diamond
+s 1253 1450 56 50
+o 8 6 68 68
+~
+n inventory/accessories/memory-onyx
+s 1253 1450 56 50
+o 8 6 68 68
+~
+n inventory/accessories/paintbrush
+s 1355 1984 40 60
+o 13 3 68 68
+~
+n inventory/accessories/paintbrush-diamond
+s 998 1568 44 64
+o 14 0 68 68
+~
+n inventory/accessories/paintbrush-onyx
+s 945 1722 40 64
+o 14 1 68 68
+~
+n inventory/accessories/pocketwatch
+s 1291 728 64 64
+o 2 1 68 68
+~
+n inventory/accessories/pocketwatch-onyx
+s 1360 728 64 64
+o 2 2 68 68
+~
+n inventory/accessories/program
+s 1012 1148 56 66
+o 5 1 68 68
+~
+n inventory/accessories/rabbitfoot
+s 1934 1977 32 62
+o 17 2 68 68
+~
+n inventory/accessories/rake
+s 4 996 68 64
+o 0 2 68 68
+~
+n inventory/accessories/rake-diamond
+s 880 655 68 66
+o 0 0 68 68
+~
+n inventory/accessories/rake-onyx
+s 807 655 68 66
+o 0 2 68 68
+~
+n inventory/accessories/sand-dollar
+s 1395 1789 46 46
+o 11 12 68 68
+~
+n inventory/accessories/schematic
+s 593 1587 68 50
+o 0 8 68 68
+~
+n inventory/accessories/science-magnifying-glass
+s 126 1502 62 60
+o 2 3 68 68
+~
+n inventory/accessories/science-magnifying-headset
+s 150 2001 62 42
+o 3 13 68 68
+~
+n inventory/accessories/science-microscope
+s 1010 1219 52 68
+o 8 0 68 68
+~
+n inventory/accessories/scope-brass
+s 1387 1492 66 38
+o 1 14 68 68
+~
+n inventory/accessories/scope-diamond
+s 1772 935 68 58
+o 0 8 68 68
+~
+n inventory/accessories/scope-onyx
+s 1459 1479 66 38
+o 1 13 68 68
+~
+n inventory/accessories/seashell
+s 1413 1376 54 52
+o 6 8 68 68
+~
+n inventory/accessories/shillings
+s 1743 1328 58 50
+o 4 8 68 68
+~
+n inventory/accessories/sprocket
+s 138 1224 64 62
+o 1 3 68 68
+~
+n inventory/accessories/stopwatch
+s 1655 1672 36 46
+o 16 10 68 68
+~
+n inventory/accessories/t-square
+s 1214 1260 52 62
+o 7 4 68 68
+~
+n inventory/accessories/teleporter-infinite
+s 1910 947 60 62
+o 3 3 68 68
+~
+n inventory/accessories/toolbelt
+s 1418 1199 58 56
+o 4 3 68 68
+~
+n inventory/accessories/whistle-brass
+s 1692 1173 60 52
+o 4 8 68 68
+~
+n inventory/accessories/whistle-diamond
+s 1897 1197 60 52
+o 4 8 68 68
+~
+n inventory/accessories/whistle-onyx
+s 1832 1191 60 52
+o 4 8 68 68
+~
+n inventory/accessories/widget
+s 1017 935 62 64
+o 2 1 68 68
+~
+n inventory/accessories/zeppelin
+s 1853 1921 32 68
+o 17 0 68 68
+~
+n inventory/ammo/bullets
+s 1699 933 68 58
+o 0 10 68 68
+~
+n inventory/ammo/gunpowder
+s 1464 582 68 68
+o 0 0 68 68
+~
+n inventory/arctic/ice
+s 1245 582 68 68
+o 0 0 68 68
+~
+n inventory/arctic/ice-brick
+s 1391 582 68 68
+o 0 0 68 68
+~
+n inventory/arctic/ice-sculpture-android
+s 1887 1488 34 68
+o 17 0 68 68
+~
+n inventory/arctic/ice-sculpture-carriage
+s 1318 582 68 68
+o 0 0 68 68
+~
+n inventory/arctic/ice-sculpture-dragon
+s 1829 1303 62 46
+o 2 11 68 68
+~
+n inventory/arctic/ice-sculpture-eiffel-tower
+s 1885 1705 32 68
+o 18 0 68 68
+~
+n inventory/arctic/ice-sculpture-liberty
+s 684 1302 30 68
+o 18 0 68 68
+~
+n inventory/arctic/ice-sculpture-penguin
+s 1961 1695 28 64
+o 17 4 68 68
+~
+n inventory/arctic/ice-sculpture-seahorse
+s 1882 1561 34 68
+o 17 0 68 68
+~
+n inventory/arctic/ice-sculpture-swan
+s 1922 1705 34 62
+o 17 6 68 68
+~
+n inventory/arctic/snow
+s 1099 582 68 68
+o 0 0 68 68
+~
+n inventory/arctic/snow-brick
+s 1172 582 68 68
+o 0 0 68 68
+~
+n inventory/arctic/snowball
+s 509 726 66 68
+o 0 0 68 68
+~
+n inventory/arctic/snowman-face
+s 438 726 66 68
+o 0 0 68 68
+~
+n inventory/back/adobe
+s 1026 582 68 68
+o 0 0 68 68
+~
+n inventory/back/bloodstone
+s 953 582 68 68
+o 0 0 68 68
+~
+n inventory/back/brass
+s 880 582 68 68
+o 0 0 68 68
+~
+n inventory/back/brick
+s 588 582 68 68
+o 0 0 68 68
+~
+n inventory/back/brick-blue
+s 807 582 68 68
+o 0 0 68 68
+~
+n inventory/back/brick-mixed
+s 734 582 68 68
+o 0 0 68 68
+~
+n inventory/back/brick-tan
+s 661 582 68 68
+o 0 0 68 68
+~
+n inventory/back/chromatic
+s 515 582 68 68
+o 0 0 68 68
+~
+n inventory/back/cobblestone-gray
+s 442 582 68 68
+o 0 0 68 68
+~
+n inventory/back/cobblestone-tan
+s 369 582 68 68
+o 0 0 68 68
+~
+n inventory/back/copper
+s 77 641 68 68
+o 0 0 68 68
+~
+n inventory/back/cork
+s 4 641 68 68
+o 0 0 68 68
+~
+n inventory/back/earth-brick
+s 223 583 68 68
+o 0 0 68 68
+~
+n inventory/back/glass
+s 296 582 68 68
+o 0 0 68 68
+~
+n inventory/back/glass-divided
+s 150 583 68 68
+o 0 0 68 68
+~
+n inventory/back/ice-brick
+s 1929 515 68 68
+o 0 0 68 68
+~
+n inventory/back/iron
+s 1856 515 68 68
+o 0 0 68 68
+~
+n inventory/back/limestone
+s 1783 515 68 68
+o 0 0 68 68
+~
+n inventory/back/marble
+s 1710 515 68 68
+o 0 0 68 68
+~
+n inventory/back/paper
+s 1637 515 68 68
+o 0 0 68 68
+~
+n inventory/back/sandstone
+s 1564 515 68 68
+o 0 0 68 68
+~
+n inventory/back/scaffold
+s 1318 509 68 68
+o 0 0 68 68
+~
+n inventory/back/scaffold-decayed
+s 1464 509 68 68
+o 0 0 68 68
+~
+n inventory/back/scaffold-wood
+s 1391 509 68 68
+o 0 0 68 68
+~
+n inventory/back/snow-brick
+s 1245 509 68 68
+o 0 0 68 68
+~
+n inventory/back/stone
+s 1172 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-1
+s 1099 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-10
+s 1026 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-11
+s 953 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-12
+s 880 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-2
+s 807 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-3
+s 734 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-4
+s 661 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-5
+s 588 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-6
+s 515 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-7
+s 442 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-8
+s 369 509 68 68
+o 0 0 68 68
+~
+n inventory/back/wallpaper-9
+s 77 568 68 68
+o 0 0 68 68
+~
+n inventory/back/wood
+s 150 510 68 68
+o 0 0 68 68
+~
+n inventory/back/wood-panel
+s 223 510 68 68
+o 0 0 68 68
+~
+n inventory/back/wood-panel-decorative
+s 4 568 68 68
+o 0 0 68 68
+~
+n inventory/brain/pipe
+s 118 1778 46 68
+o 14 0 68 68
+~
+n inventory/brain/tank
+s 1929 442 68 68
+o 0 0 68 68
+~
+n inventory/brain/tank-base
+s 296 509 68 68
+o 0 0 68 68
+~
+n inventory/brain/tank-brass-top
+s 591 1695 68 46
+o 0 22 68 68
+~
+n inventory/building/adobe
+s 1856 442 68 68
+o 0 0 68 68
+~
+n inventory/building/balloon
+s 1710 442 68 68
+o 0 0 68 68
+~
+n inventory/building/balloon-striped
+s 1783 442 68 68
+o 0 0 68 68
+~
+n inventory/building/bloodstone
+s 1637 442 68 68
+o 0 0 68 68
+~
+n inventory/building/bloodstone-column
+s 722 868 64 68
+o 2 0 68 68
+~
+n inventory/building/brass
+s 1464 436 68 68
+o 0 0 68 68
+~
+n inventory/building/brass-reinforced
+s 1564 442 68 68
+o 0 0 68 68
+~
+n inventory/building/brick
+s 1172 436 68 68
+o 0 0 68 68
+~
+n inventory/building/brick-blue
+s 1391 436 68 68
+o 0 0 68 68
+~
+n inventory/building/brick-mixed
+s 1318 436 68 68
+o 0 0 68 68
+~
+n inventory/building/brick-tan
+s 1245 436 68 68
+o 0 0 68 68
+~
+n inventory/building/bridge
+s 770 1555 68 50
+o 0 7 68 68
+~
+n inventory/building/bridge-block
+s 1099 436 68 68
+o 0 0 68 68
+~
+n inventory/building/bridge-rope-block
+s 1345 1843 68 26
+o 0 0 68 68
+~
+n inventory/building/bridge-rope-end
+s 770 1610 68 46
+o 0 22 68 68
+~
+n inventory/building/bridge-rope-railing
+s 1026 436 68 68
+o 0 0 68 68
+~
+n inventory/building/bridge-stone
+s 778 1498 68 52
+o 0 8 68 68
+~
+n inventory/building/bridge-stone-block
+s 953 436 68 68
+o 0 0 68 68
+~
+n inventory/building/bridge-stone-railing
+s 880 436 68 68
+o 0 0 68 68
+~
+n inventory/building/bridge-wood
+s 1763 1061 68 48
+o 0 8 68 68
+~
+n inventory/building/bridge-wood-block
+s 807 436 68 68
+o 0 0 68 68
+~
+n inventory/building/bridge-wood-railing
+s 426 1010 68 62
+o 0 6 68 68
+~
+n inventory/building/candy-cane-block
+s 734 436 68 68
+o 0 0 68 68
+~
+n inventory/building/chain
+s 1151 866 12 68
+o 27 0 68 68
+~
+n inventory/building/cobblestone-gray
+s 661 436 68 68
+o 0 0 68 68
+~
+n inventory/building/cobblestone-tan
+s 588 436 68 68
+o 0 0 68 68
+~
+n inventory/building/copper
+s 442 436 68 68
+o 0 0 68 68
+~
+n inventory/building/copper-reinforced
+s 515 436 68 68
+o 0 0 68 68
+~
+n inventory/building/crystal-blue
+s 369 436 68 68
+o 0 0 68 68
+~
+n inventory/building/crystal-purple
+s 369 436 68 68
+o 0 0 68 68
+~
+n inventory/building/crystal-red
+s 369 436 68 68
+o 0 0 68 68
+~
+n inventory/building/door-brass
+s 77 495 68 68
+o 0 0 68 68
+~
+n inventory/building/door-wood
+s 1845 1635 34 68
+o 17 0 68 68
+~
+n inventory/building/earth-brick
+s 4 495 68 68
+o 0 0 68 68
+~
+n inventory/building/fence-iron-1
+s 146 869 68 64
+o 0 4 68 68
+~
+n inventory/building/fence-iron-2
+s 223 437 68 68
+o 0 0 68 68
+~
+n inventory/building/fence-iron-tall-1
+s 1861 1779 34 66
+o 17 2 68 68
+~
+n inventory/building/fence-iron-tall-2
+s 1946 1323 34 66
+o 17 2 68 68
+~
+n inventory/building/fence-square
+s 150 437 68 68
+o 0 0 68 68
+~
+n inventory/building/fence-wood-1
+s 296 436 68 68
+o 0 0 68 68
+~
+n inventory/building/fence-wood-2
+s 1929 369 68 68
+o 0 0 68 68
+~
+n inventory/building/fence-wood-tall-1
+s 1807 1710 34 68
+o 17 0 68 68
+~
+n inventory/building/fence-wood-tall-2
+s 1848 1488 34 68
+o 17 0 68 68
+~
+n inventory/building/gargoyle-falcon-front
+s 1204 1471 40 68
+o 13 0 68 68
+~
+n inventory/building/gargoyle-falcon-side
+s 1558 1229 44 68
+o 14 0 68 68
+~
+n inventory/building/gargoyle-large-demon-front
+s 900 1675 40 66
+o 12 2 68 68
+~
+n inventory/building/gargoyle-large-demon-side
+s 550 1225 60 64
+o 4 4 68 68
+~
+n inventory/building/gargoyle-small-demon-front
+s 367 726 66 68
+o 0 0 68 68
+~
+n inventory/building/gargoyle-small-demon-side
+s 656 945 60 68
+o 4 0 68 68
+~
+n inventory/building/gargoyle-wall-front
+s 1856 369 68 68
+o 0 0 68 68
+~
+n inventory/building/gargoyle-wall-side
+s 1489 1939 56 34
+o 0 17 68 68
+~
+n inventory/building/glass
+s 1783 369 68 68
+o 0 0 68 68
+~
+n inventory/building/grate
+s 1710 369 68 68
+o 0 0 68 68
+~
+n inventory/building/hanger
+s 1071 1997 68 34
+o 0 17 68 68
+~
+n inventory/building/iron
+s 1564 369 68 68
+o 0 0 68 68
+~
+n inventory/building/iron-reinforced
+s 1637 369 68 68
+o 0 0 68 68
+~
+n inventory/building/ladder-brass
+s 1761 1169 66 48
+o 1 8 68 68
+~
+n inventory/building/ladder-rope
+s 1155 728 62 68
+o 3 0 68 68
+~
+n inventory/building/ladder-wood
+s 311 1652 68 50
+o 0 8 68 68
+~
+n inventory/building/limestone
+s 1464 363 68 68
+o 0 0 68 68
+~
+n inventory/building/mailbox
+s 1843 1562 34 68
+o 17 0 68 68
+~
+n inventory/building/marble
+s 1391 363 68 68
+o 0 0 68 68
+~
+n inventory/building/marble-column
+s 952 728 64 68
+o 2 0 68 68
+~
+n inventory/building/pedestal-bloodstone
+s 1806 1637 34 68
+o 17 0 68 68
+~
+n inventory/building/pedestal-marble
+s 682 1519 32 68
+o 17 0 68 68
+~
+n inventory/building/pitch
+s 1318 363 68 68
+o 0 0 68 68
+~
+n inventory/building/plug
+s 1162 1166 50 68
+o 9 0 68 68
+~
+n inventory/building/porcelain
+s 1245 363 68 68
+o 0 0 68 68
+~
+n inventory/building/post-iron
+s 935 799 12 68
+o 25 0 68 68
+~
+n inventory/building/post-wood
+s 933 872 14 68
+o 24 0 68 68
+~
+n inventory/building/roof
+s 661 363 68 68
+o 0 0 68 68
+~
+n inventory/building/roof-brass
+s 1099 363 68 68
+o 0 0 68 68
+~
+n inventory/building/roof-brass-edge
+s 1172 363 68 68
+o 0 0 68 68
+~
+n inventory/building/roof-brass-edge-large
+s 181 1709 46 68
+o 11 0 68 68
+~
+n inventory/building/roof-brown
+s 953 363 68 68
+o 0 0 68 68
+~
+n inventory/building/roof-brown-edge
+s 1026 363 68 68
+o 0 0 68 68
+~
+n inventory/building/roof-brown-edge-large
+s 4 1921 44 68
+o 10 0 68 68
+~
+n inventory/building/roof-edge
+s 880 363 68 68
+o 0 0 68 68
+~
+n inventory/building/roof-edge-large
+s 246 1676 46 68
+o 11 0 68 68
+~
+n inventory/building/roof-spanish
+s 734 363 68 68
+o 0 0 68 68
+~
+n inventory/building/roof-spanish-edge
+s 807 363 68 68
+o 0 0 68 68
+~
+n inventory/building/roof-spanish-edge-large
+s 542 1564 46 68
+o 11 0 68 68
+~
+n inventory/building/rope
+s 1149 939 10 68
+o 29 0 68 68
+~
+n inventory/building/rope-knotted
+s 2004 1967 18 68
+o 25 0 68 68
+~
+n inventory/building/sandstone
+s 588 363 68 68
+o 0 0 68 68
+~
+n inventory/building/scarecrow
+s 515 363 68 68
+o 0 0 68 68
+~
+n inventory/building/staircase
+s 1768 1710 34 68
+o 17 0 68 68
+~
+n inventory/building/statue-bloodstone-1
+s 1868 1354 34 68
+o 17 0 68 68
+~
+n inventory/building/statue-bloodstone-2
+s 1941 1396 34 66
+o 17 2 68 68
+~
+n inventory/building/statue-bloodstone-3
+s 1953 1837 34 60
+o 17 8 68 68
+~
+n inventory/building/statue-bloodstone-large-1
+s 138 1358 58 66
+o 4 2 68 68
+~
+n inventory/building/statue-bloodstone-large-2
+s 205 1295 58 66
+o 4 2 68 68
+~
+n inventory/building/statue-bloodstone-large-3
+s 1292 1047 54 66
+o 6 2 68 68
+~
+n inventory/building/statue-bloodstone-large-4
+s 1363 1045 54 66
+o 8 2 68 68
+~
+n inventory/building/statue-figurine-1
+s 994 1704 38 68
+o 16 0 68 68
+~
+n inventory/building/statue-figurine-2
+s 1656 1964 36 68
+o 16 0 68 68
+~
+n inventory/building/statue-figurine-3
+s 663 1809 38 66
+o 16 2 68 68
+~
+n inventory/building/statue-figurine-large-1
+s 721 941 60 68
+o 4 0 68 68
+~
+n inventory/building/statue-figurine-large-2
+s 487 1158 58 68
+o 4 0 68 68
+~
+n inventory/building/statue-figurine-large-3
+s 719 1225 56 68
+o 6 0 68 68
+~
+n inventory/building/statue-figurine-large-4
+s 552 1152 58 68
+o 6 0 68 68
+~
+n inventory/building/statue-gothic-front
+s 1926 1486 34 66
+o 17 2 68 68
+~
+n inventory/building/statue-gothic-side
+s 1921 1561 34 66
+o 17 2 68 68
+~
+n inventory/building/statue-marble-1
+s 1809 1489 34 68
+o 17 0 68 68
+~
+n inventory/building/statue-marble-2
+s 1804 1564 34 68
+o 17 0 68 68
+~
+n inventory/building/statue-marble-3
+s 1927 1912 34 60
+o 17 8 68 68
+~
+n inventory/building/statue-marble-large-1
+s 1076 1144 56 66
+o 4 2 68 68
+~
+n inventory/building/statue-marble-large-2
+s 487 1231 58 66
+o 5 2 68 68
+~
+n inventory/building/statue-marble-large-3
+s 1434 1006 54 66
+o 6 2 68 68
+~
+n inventory/building/statue-marble-large-4
+s 4 1710 54 66
+o 8 2 68 68
+~
+n inventory/building/stone
+s 442 363 68 68
+o 0 0 68 68
+~
+n inventory/building/tinman
+s 369 363 68 68
+o 0 0 68 68
+~
+n inventory/building/trapdoor-brass
+s 1562 1906 68 24
+o 0 0 68 68
+~
+n inventory/building/trapdoor-wood
+s 1491 1833 68 24
+o 0 0 68 68
+~
+n inventory/building/weathervane
+s 1164 1093 52 68
+o 10 0 68 68
+~
+n inventory/building/wood
+s 353 1010 68 62
+o 0 6 68 68
+~
+n inventory/building/wood-board
+s 77 422 68 68
+o 0 0 68 68
+~
+n inventory/building/wood-decorative
+s 4 422 68 68
+o 0 0 68 68
+~
+n inventory/chromatic/beacon
+s 59 1917 44 68
+o 12 0 68 68
+~
+n inventory/chromatic/block
+s 150 364 68 68
+o 0 0 68 68
+~
+n inventory/chromatic/block-reinforced
+s 223 364 68 68
+o 0 0 68 68
+~
+n inventory/chromatic/bomb
+s 572 868 64 68
+o 1 0 68 68
+~
+n inventory/chromatic/flag
+s 1767 1637 34 68
+o 17 0 68 68
+~
+n inventory/chromatic/mine
+s 296 363 68 68
+o 0 0 68 68
+~
+n inventory/chromatic/spikes
+s 1626 933 68 58
+o 0 10 68 68
+~
+n inventory/chromatic/spikes-small
+s 1131 1815 68 24
+o 0 44 68 68
+~
+n inventory/chromatic/turret-large
+s 1368 862 68 58
+o 0 0 68 68
+~
+n inventory/chromatic/turret-small
+s 1607 1275 68 44
+o 0 13 68 68
+~
+n inventory/consumables/book-skill
+s 1366 1707 54 34
+o 5 17 68 68
+~
+n inventory/consumables/brain-wine
+s 1002 1497 44 66
+o 12 2 68 68
+~
+n inventory/consumables/canister
+s 1051 1557 44 64
+o 17 1 68 68
+~
+n inventory/consumables/cartridge-power
+s 1088 728 62 68
+o 3 0 68 68
+~
+n inventory/consumables/cartridge-recycle
+s 1021 728 62 68
+o 3 0 68 68
+~
+n inventory/consumables/cartridge-scatter
+s 420 1077 62 68
+o 3 0 68 68
+~
+n inventory/consumables/cloak
+s 1692 1230 48 62
+o 10 2 68 68
+~
+n inventory/consumables/filet
+s 1421 1871 58 32
+o 4 36 68 68
+~
+n inventory/consumables/filet-fire
+s 1475 1334 62 48
+o 4 19 68 68
+~
+n inventory/consumables/gift
+s 207 1161 64 62
+o 2 2 68 68
+~
+n inventory/consumables/heart
+s 124 1707 52 66
+o 9 1 68 68
+~
+n inventory/consumables/hot-chocolate
+s 542 1503 60 56
+o 4 12 68 68
+~
+n inventory/consumables/jerky
+s 1566 1089 48 68
+o 9 0 68 68
+~
+n inventory/consumables/jerky-power
+s 1161 1239 48 68
+o 10 0 68 68
+~
+n inventory/consumables/locator-android
+s 656 1018 58 68
+o 7 0 68 68
+~
+n inventory/consumables/locator-machine
+s 721 1014 58 68
+o 7 0 68 68
+~
+n inventory/consumables/name-change
+s 1276 1179 62 54
+o 2 7 68 68
+~
+n inventory/consumables/perfume
+s 4 1570 56 66
+o 6 2 68 68
+~
+n inventory/consumables/premium-upgrade
+s 207 1161 64 62
+o 2 2 68 68
+~
+n inventory/consumables/skill-reset
+s 65 1509 56 66
+o 9 0 68 68
+~
+n inventory/consumables/tea
+s 1098 801 68 60
+o 0 8 68 68
+~
+n inventory/consumables/teleporter
+s 1845 943 60 62
+o 4 3 68 68
+~
+n inventory/consumables/turret-upgrade-diamond
+s 1929 296 68 68
+o 0 0 68 68
+~
+n inventory/consumables/turret-upgrade-onyx
+s 1856 296 68 68
+o 0 0 68 68
+~
+n inventory/consumables/weapon-upgrade-diamond
+s 1783 296 68 68
+o 0 0 68 68
+~
+n inventory/consumables/weapon-upgrade-onyx
+s 75 785 66 68
+o 1 0 68 68
+~
+n inventory/consumables/world-key
+s 1416 1944 68 30
+o 0 19 68 68
+~
+n inventory/containers/android
+s 1710 296 68 68
+o 0 0 68 68
+~
+n inventory/containers/barrel
+s 1564 296 68 68
+o 0 0 68 68
+~
+n inventory/containers/barrel-tall
+s 1729 1740 34 68
+o 17 0 68 68
+~
+n inventory/containers/barrel-windowed
+s 1637 296 68 68
+o 0 0 68 68
+~
+n inventory/containers/bucket
+s 857 1010 58 68
+o 5 0 68 68
+~
+n inventory/containers/cage
+s 1391 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/cage-pet
+s 1464 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/canned-food
+s 1318 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/cat
+s 1245 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/chest
+s 1026 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/chest-industrial
+s 1172 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/chest-large
+s 1142 1765 68 34
+o 0 17 68 68
+~
+n inventory/containers/chest-mechanical
+s 1099 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/chest-mechanical-large
+s 1068 1876 68 34
+o 0 17 68 68
+~
+n inventory/containers/crate-industrial-large
+s 953 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/crate-industrial-small
+s 880 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/crate-large
+s 807 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/crate-small
+s 734 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/dog
+s 661 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/fertilizer
+s 734 655 68 66
+o 0 2 68 68
+~
+n inventory/containers/flower-pot-brass
+s 588 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/flower-pot-clay
+s 515 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/flower-pot-glass
+s 442 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/flower-pot-porcelain
+s 369 290 68 68
+o 0 0 68 68
+~
+n inventory/containers/jar
+s 1015 1075 56 68
+o 6 0 68 68
+~
+n inventory/containers/jar-acid
+s 855 1152 56 68
+o 7 0 68 68
+~
+n inventory/containers/jar-water
+s 951 1083 56 68
+o 8 0 68 68
+~
+n inventory/containers/pandora
+s 77 349 68 68
+o 0 0 68 68
+~
+n inventory/containers/sack-large
+s 4 349 68 68
+o 0 0 68 68
+~
+n inventory/containers/sack-small
+s 223 291 68 68
+o 0 0 68 68
+~
+n inventory/containers/tin-wax
+s 1295 862 68 58
+o 0 10 68 68
+~
+n inventory/containers/vial-poison
+s 150 291 68 68
+o 0 0 68 68
+~
+n inventory/containers/wine-bottle
+s 1537 509 22 68
+o 23 0 68 68
+~
+n inventory/desert/rock-large
+s 656 1162 58 66
+o 6 2 68 68
+~
+n inventory/desert/rock-small
+s 1067 1350 52 64
+o 9 4 68 68
+~
+n inventory/desert/rock-tall
+s 684 1375 30 66
+o 20 2 68 68
+~
+n inventory/desert/rock-wide
+s 1351 1752 60 32
+o 3 19 68 68
+~
+n inventory/emotes/applaud
+s 4 785 66 68
+o 0 0 68 68
+~
+n inventory/emotes/beg
+s 1419 1641 38 56
+o 14 12 68 68
+~
+n inventory/emotes/cheer
+s 296 290 68 68
+o 0 0 68 68
+~
+n inventory/emotes/dance-backflip
+s 1422 1077 60 58
+o 3 6 68 68
+~
+n inventory/emotes/dance-ballet
+s 1164 1020 52 68
+o 7 0 68 68
+~
+n inventory/emotes/dance-cancan
+s 1680 1297 58 50
+o 6 7 68 68
+~
+n inventory/emotes/dance-monkey
+s 1901 1140 60 52
+o 4 5 68 68
+~
+n inventory/emotes/dance-peanuts-1
+s 1304 1991 46 50
+o 8 10 68 68
+~
+n inventory/emotes/dance-runningman
+s 945 1655 44 62
+o 14 5 68 68
+~
+n inventory/emotes/dance-singleladies
+s 996 1637 44 62
+o 12 2 68 68
+~
+n inventory/emotes/dance-snoopy
+s 185 1642 56 62
+o 6 4 68 68
+~
+n inventory/emotes/dance-splits
+s 1472 1387 64 44
+o 2 23 68 68
+~
+n inventory/emotes/dance-swim
+s 347 1282 66 60
+o 0 6 68 68
+~
+n inventory/emotes/dance-worm
+s 570 2011 68 32
+o 0 19 68 68
+~
+n inventory/emotes/dance-ymca
+s 118 1851 44 68
+o 10 0 68 68
+~
+n inventory/emotes/faceplant
+s 1025 801 68 60
+o 0 8 68 68
+~
+n inventory/emotes/faint
+s 952 1010 58 68
+o 8 0 68 68
+~
+n inventory/emotes/gasp
+s 256 1544 56 64
+o 6 0 68 68
+~
+n inventory/emotes/hands-on-hips
+s 719 1298 54 68
+o 5 0 68 68
+~
+n inventory/emotes/hands-up
+s 952 801 68 60
+o 0 8 68 68
+~
+n inventory/emotes/hang-head
+s 843 1688 46 58
+o 9 8 68 68
+~
+n inventory/emotes/high-five
+s 4 1641 56 64
+o 10 0 68 68
+~
+n inventory/emotes/hug
+s 1418 1140 62 54
+o 6 8 68 68
+~
+n inventory/emotes/lie-ground
+s 217 2021 66 22
+o 1 46 68 68
+~
+n inventory/emotes/put-em-up
+s 591 1642 68 48
+o 0 12 68 68
+~
+n inventory/emotes/sit-ground
+s 1737 1383 64 44
+o 1 24 68 68
+~
+n inventory/emotes/tantrum
+s 661 655 68 66
+o 0 2 68 68
+~
+n inventory/emotes/tip-hat
+s 855 1225 54 68
+o 6 0 68 68
+~
+n inventory/emotes/wave
+s 169 1841 56 54
+o 5 10 68 68
+~
+n inventory/facialgear/3d-glasses
+s 907 1847 68 28
+o 0 20 68 68
+~
+n inventory/facialgear/alien
+s 791 937 60 68
+o 3 0 68 68
+~
+n inventory/facialgear/big-eyes
+s 1063 1916 68 34
+o 0 17 68 68
+~
+n inventory/facialgear/bird-skull
+s 770 1661 68 44
+o 0 12 68 68
+~
+n inventory/facialgear/brain-helmet
+s 611 1296 68 58
+o 0 5 68 68
+~
+n inventory/facialgear/brass-owl
+s 1975 943 68 60
+o 0 3 68 68
+~
+n inventory/facialgear/fencing
+s 1930 223 68 68
+o 0 0 68 68
+~
+n inventory/facialgear/groucho
+s 441 1784 68 42
+o 0 12 68 68
+~
+n inventory/facialgear/hypnotic
+s 1349 1909 68 30
+o 0 19 68 68
+~
+n inventory/facialgear/paper-bag
+s 1857 223 68 68
+o 0 0 68 68
+~
+n inventory/facialgear/pumpkin-head
+s 292 868 68 64
+o 0 1 68 68
+~
+n inventory/facialgear/samaurai-mask
+s 584 799 68 64
+o 0 1 68 68
+~
+n inventory/facialgear/snowman-head
+s 295 1760 68 48
+o 0 10 68 68
+~
+n inventory/furniture/airship-in-bottle
+s 1763 998 64 58
+o 2 10 68 68
+~
+n inventory/furniture/bathtub
+s 1198 1617 58 34
+o 5 23 68 68
+~
+n inventory/furniture/bed
+s 1284 1757 62 32
+o 3 25 68 68
+~
+n inventory/furniture/bed-covered
+s 1351 1116 62 56
+o 4 12 68 68
+~
+n inventory/furniture/bidet
+s 4 1284 62 68
+o 4 0 68 68
+~
+n inventory/furniture/blueprint-brass
+s 1784 223 68 68
+o 0 0 68 68
+~
+n inventory/furniture/blueprint-diamond
+s 1711 223 68 68
+o 0 0 68 68
+~
+n inventory/furniture/blueprint-onyx
+s 1638 223 68 68
+o 0 0 68 68
+~
+n inventory/furniture/bookshelf-tall
+s 221 727 66 68
+o 1 0 68 68
+~
+n inventory/furniture/bookshelf-tall-full
+s 221 727 66 68
+o 1 0 68 68
+~
+n inventory/furniture/brass-throne
+s 1059 1486 44 66
+o 11 2 68 68
+~
+n inventory/furniture/brazier
+s 1565 223 68 68
+o 0 0 68 68
+~
+n inventory/furniture/butterfly-mounted-green
+s 1343 1234 68 52
+o 0 7 68 68
+~
+n inventory/furniture/butterfly-mounted-monarch
+s 291 1909 60 44
+o 4 11 68 68
+~
+n inventory/furniture/butterfly-mounted-moth
+s 1083 1766 54 44
+o 6 10 68 68
+~
+n inventory/furniture/butterfly-mounted-owl
+s 390 1651 68 50
+o 0 8 68 68
+~
+n inventory/furniture/butterfly-mounted-paper-kite
+s 463 1621 68 50
+o 0 7 68 68
+~
+n inventory/furniture/butterfly-mounted-papilio-ulysses
+s 292 1860 62 44
+o 2 12 68 68
+~
+n inventory/furniture/butterfly-mounted-rumanzovia
+s 390 1596 68 50
+o 0 8 68 68
+~
+n inventory/furniture/butterfly-mounted-swallowtail
+s 1253 1399 64 46
+o 2 10 68 68
+~
+n inventory/furniture/cabinet
+s 1758 1432 34 54
+o 16 14 68 68
+~
+n inventory/furniture/chair-a
+s 1573 1770 34 56
+o 16 12 68 68
+~
+n inventory/furniture/chair-a-side
+s 1797 1432 32 52
+o 18 16 68 68
+~
+n inventory/furniture/chair-b
+s 1900 1778 34 64
+o 17 4 68 68
+~
+n inventory/furniture/chair-b-side
+s 1890 1919 32 64
+o 17 4 68 68
+~
+n inventory/furniture/chair-fine
+s 1692 1118 64 50
+o 2 18 68 68
+~
+n inventory/furniture/chair-plush
+s 1082 1006 56 68
+o 5 0 68 68
+~
+n inventory/furniture/clock-giant
+s 1473 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/companion-cube
+s 1400 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/daguerreotype-large
+s 503 868 64 68
+o 2 0 68 68
+~
+n inventory/furniture/daguerreotype-small
+s 434 868 64 68
+o 2 0 68 68
+~
+n inventory/furniture/davenport
+s 246 1613 60 58
+o 4 10 68 68
+~
+n inventory/furniture/easel
+s 71 1223 62 68
+o 2 0 68 68
+~
+n inventory/furniture/easel-tall
+s 1157 1383 44 66
+o 11 2 68 68
+~
+n inventory/furniture/fainting
+s 1832 1136 64 50
+o 2 18 68 68
+~
+n inventory/furniture/fireplace
+s 1694 996 64 58
+o 1 10 68 68
+~
+n inventory/furniture/fireplace-large
+s 588 655 68 66
+o 0 2 68 68
+~
+n inventory/furniture/fountain
+s 544 1440 60 58
+o 3 10 68 68
+~
+n inventory/furniture/globe
+s 65 1649 54 66
+o 6 2 68 68
+~
+n inventory/furniture/grandfather-clock
+s 2013 1760 24 64
+o 21 4 68 68
+~
+n inventory/furniture/hatrack
+s 1870 1994 26 48
+o 21 20 68 68
+~
+n inventory/furniture/head-bear
+s 706 1824 50 52
+o 9 15 68 68
+~
+n inventory/furniture/head-cthulhu
+s 481 1499 56 62
+o 7 6 68 68
+~
+n inventory/furniture/head-deer
+s 719 1507 46 68
+o 10 0 68 68
+~
+n inventory/furniture/head-fish
+s 834 1847 68 28
+o 0 20 68 68
+~
+n inventory/furniture/head-jackalope
+s 568 941 64 66
+o 2 0 68 68
+~
+n inventory/furniture/head-mammoth
+s 126 1636 54 66
+o 6 1 68 68
+~
+n inventory/furniture/head-predator
+s 1845 1010 58 64
+o 7 2 68 68
+~
+n inventory/furniture/head-tiger
+s 719 1087 60 64
+o 4 3 68 68
+~
+n inventory/furniture/head-zebra
+s 1221 1120 50 68
+o 7 0 68 68
+~
+n inventory/furniture/keyring
+s 843 1751 38 66
+o 16 1 68 68
+~
+n inventory/furniture/map
+s 1214 1954 62 34
+o 2 17 68 68
+~
+n inventory/furniture/marionette
+s 900 1602 40 68
+o 14 0 68 68
+~
+n inventory/furniture/market
+s 515 655 68 66
+o 0 2 68 68
+~
+n inventory/furniture/mars
+s 951 1156 54 68
+o 7 0 68 68
+~
+n inventory/furniture/mirror
+s 719 1371 54 64
+o 7 2 68 68
+~
+n inventory/furniture/mirror-wall
+s 902 1529 42 68
+o 12 0 68 68
+~
+n inventory/furniture/moon
+s 1233 1656 44 52
+o 12 16 68 68
+~
+n inventory/furniture/painting-alpaca
+s 1327 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-autumn
+s 1254 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-digdug
+s 1181 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-gashlycrumb
+s 1108 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-landscape
+s 1035 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-leapquest
+s 962 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-mayflower
+s 889 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-northerners
+s 816 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-notch
+s 743 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-outling
+s 670 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-smasheroid
+s 597 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-son-of-man
+s 524 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-surfer
+s 451 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/painting-une-pipe
+s 378 217 68 68
+o 0 0 68 68
+~
+n inventory/furniture/park-bench
+s 1005 1958 68 34
+o 0 17 68 68
+~
+n inventory/furniture/pet-bowl
+s 1058 1816 68 24
+o 0 44 68 68
+~
+n inventory/furniture/pet-carrier
+s 1232 1718 60 34
+o 4 17 68 68
+~
+n inventory/furniture/pinned-bee
+s 1414 1319 56 52
+o 6 9 68 68
+~
+n inventory/furniture/pinned-beetle
+s 851 1495 46 68
+o 12 0 68 68
+~
+n inventory/furniture/pinned-cockroach
+s 1561 876 60 62
+o 2 5 68 68
+~
+n inventory/furniture/pinned-dragonfly
+s 1207 1915 64 34
+o 3 17 68 68
+~
+n inventory/furniture/pinned-millipede
+s 952 866 60 68
+o 3 0 68 68
+~
+n inventory/furniture/pinned-preying-mantis
+s 77 276 68 68
+o 0 0 68 68
+~
+n inventory/furniture/pinned-scorpion
+s 4 1138 64 68
+o 1 0 68 68
+~
+n inventory/furniture/pinned-tarantula
+s 442 655 68 66
+o 0 0 68 68
+~
+n inventory/furniture/scale
+s 515 655 68 66
+o 0 2 68 68
+~
+n inventory/furniture/shelf
+s 1298 1585 68 22
+o 0 0 68 68
+~
+n inventory/furniture/shelf-end
+s 1371 1585 68 22
+o 0 0 68 68
+~
+n inventory/furniture/ship-in-bottle
+s 1598 1457 68 38
+o 0 30 68 68
+~
+n inventory/furniture/sink
+s 1692 1617 32 46
+o 18 22 68 68
+~
+n inventory/furniture/solar-system-diorama
+s 1365 925 68 56
+o 0 0 68 68
+~
+n inventory/furniture/stuffed-android
+s 1164 947 52 68
+o 8 0 68 68
+~
+n inventory/furniture/stuffed-bear
+s 1084 935 60 66
+o 1 2 68 68
+~
+n inventory/furniture/stuffed-brain
+s 1084 866 62 64
+o 0 4 68 68
+~
+n inventory/furniture/stuffed-crow
+s 169 1782 58 54
+o 2 14 68 68
+~
+n inventory/furniture/stuffed-cthulhu
+s 276 1223 66 60
+o 1 8 68 68
+~
+n inventory/furniture/stuffed-panda
+s 951 1371 52 62
+o 9 6 68 68
+~
+n inventory/furniture/stuffed-snowman
+s 369 655 68 66
+o 0 2 68 68
+~
+n inventory/furniture/stuffed-squid
+s 349 1217 66 60
+o 1 8 68 68
+~
+n inventory/furniture/stuffed-terrapus
+s 1830 1248 62 50
+o 2 18 68 68
+~
+n inventory/furniture/table
+s 289 2008 58 34
+o 4 17 68 68
+~
+n inventory/furniture/toilet
+s 1978 1764 30 60
+o 19 8 68 68
+~
+n inventory/furniture/wardrobe
+s 1108 1523 44 64
+o 12 4 68 68
+~
+n inventory/furniture/wastebasket
+s 1730 1573 30 38
+o 19 30 68 68
+~
+n inventory/furniture/wine-rack
+s 998 2001 68 34
+o 0 17 68 68
+~
+n inventory/furniture/wine-rack-large
+s 4 276 68 68
+o 0 0 68 68
+~
+n inventory/ground/bedrock
+s 223 218 68 68
+o 0 0 68 68
+~
+n inventory/ground/beehive
+s 142 1084 68 62
+o 0 6 68 68
+~
+n inventory/ground/beehive-hanging
+s 1221 988 66 56
+o 1 0 68 68
+~
+n inventory/ground/beryllium-ore
+s 260 1477 58 62
+o 5 6 68 68
+~
+n inventory/ground/blackrock
+s 150 218 68 68
+o 0 0 68 68
+~
+n inventory/ground/bloodstone-ore
+s 1903 1083 62 52
+o 2 16 68 68
+~
+n inventory/ground/bone-wall
+s 305 217 68 68
+o 0 0 68 68
+~
+n inventory/ground/clay
+s 1930 150 68 68
+o 0 0 68 68
+~
+n inventory/ground/cobweb
+s 1857 150 68 68
+o 0 0 68 68
+~
+n inventory/ground/copper-ore
+s 262 1414 68 58
+o 0 10 68 68
+~
+n inventory/ground/crystal-blue-1
+s 1649 1623 38 44
+o 14 24 68 68
+~
+n inventory/ground/crystal-blue-2
+s 1980 1394 20 56
+o 24 12 68 68
+~
+n inventory/ground/crystal-blue-3
+s 1770 1854 32 40
+o 16 28 68 68
+~
+n inventory/ground/crystal-blue-4
+s 2001 1900 22 62
+o 23 6 68 68
+~
+n inventory/ground/crystal-green-large
+s 1834 1427 32 56
+o 17 12 68 68
+~
+n inventory/ground/crystal-green-small
+s 1901 1988 28 54
+o 17 14 68 68
+~
+n inventory/ground/crystal-orange
+s 482 1369 62 58
+o 2 10 68 68
+~
+n inventory/ground/crystal-purple-1
+s 1567 1516 42 50
+o 11 18 68 68
+~
+n inventory/ground/crystal-purple-large
+s 2021 1829 22 60
+o 22 8 68 68
+~
+n inventory/ground/crystal-rainbow
+s 949 1584 42 66
+o 13 2 68 68
+~
+n inventory/ground/crystal-red-1
+s 1994 1695 28 60
+o 20 8 68 68
+~
+n inventory/ground/crystal-red-large
+s 1871 1427 30 56
+o 18 12 68 68
+~
+n inventory/ground/crystal-white-large
+s 1965 1467 22 54
+o 23 14 68 68
+~
+n inventory/ground/crystal-white-small
+s 1732 1666 30 40
+o 18 28 68 68
+~
+n inventory/ground/crystal-yellow
+s 1939 1772 34 60
+o 17 8 68 68
+~
+n inventory/ground/diamond-ore
+s 485 1302 60 62
+o 2 6 68 68
+~
+n inventory/ground/earth
+s 1711 150 68 68
+o 0 0 68 68
+~
+n inventory/ground/earth-compost
+s 1784 150 68 68
+o 0 0 68 68
+~
+n inventory/ground/earth-dug
+s 1711 150 68 68
+o 0 0 68 68
+~
+n inventory/ground/ectoplasm
+s 1975 878 68 60
+o 0 8 68 68
+~
+n inventory/ground/feathers
+s 1843 803 66 62
+o 0 6 68 68
+~
+n inventory/ground/fire-salt
+s 1492 77 68 62
+o 0 6 68 68
+~
+n inventory/ground/fire-salt-crystal
+s 853 1298 56 62
+o 6 6 68 68
+~
+n inventory/ground/flax
+s 1419 77 68 62
+o 0 6 68 68
+~
+n inventory/ground/fossil-fish
+s 77 714 68 66
+o 0 0 68 68
+~
+n inventory/ground/fossil-mammoth
+s 1347 1177 66 52
+o 0 8 68 68
+~
+n inventory/ground/fossil-miner
+s 1638 150 68 68
+o 0 0 68 68
+~
+n inventory/ground/fossil-oldone
+s 140 1151 62 68
+o 4 0 68 68
+~
+n inventory/ground/fossil-pterodactyl
+s 226 1972 58 44
+o 7 12 68 68
+~
+n inventory/ground/fossil-shell
+s 511 799 68 64
+o 0 2 68 68
+~
+n inventory/ground/fossil-trex
+s 1204 1804 66 34
+o 0 17 68 68
+~
+n inventory/ground/fossil-trilobyte
+s 1346 77 68 62
+o 0 2 68 68
+~
+n inventory/ground/fur
+s 1485 1177 68 52
+o 0 16 68 68
+~
+n inventory/ground/geyser-large
+s 497 2011 68 32
+o 0 19 68 68
+~
+n inventory/ground/geyser-small
+s 341 1412 68 58
+o 0 10 68 68
+~
+n inventory/ground/giblets
+s 1625 996 64 58
+o 0 9 68 68
+~
+n inventory/ground/guano
+s 1292 986 66 56
+o 0 10 68 68
+~
+n inventory/ground/iron-ore
+s 1772 870 68 60
+o 0 8 68 68
+~
+n inventory/ground/lead-ore
+s 347 1347 64 60
+o 2 8 68 68
+~
+n inventory/ground/lichen-blue
+s 864 797 66 66
+o 2 0 68 68
+~
+n inventory/ground/lichen-green
+s 73 1077 64 68
+o 4 0 68 68
+~
+n inventory/ground/limestone
+s 1565 150 68 68
+o 0 0 68 68
+~
+n inventory/ground/marble-ore
+s 784 1140 66 60
+o 0 8 68 68
+~
+n inventory/ground/onyx
+s 1221 925 66 58
+o 0 10 68 68
+~
+n inventory/ground/platinum-ore
+s 215 1088 62 68
+o 2 0 68 68
+~
+n inventory/ground/quartz-ore
+s 1772 803 66 62
+o 2 6 68 68
+~
+n inventory/ground/resin
+s 1422 1908 66 26
+o 2 42 68 68
+~
+n inventory/ground/salt
+s 778 1441 68 52
+o 0 16 68 68
+~
+n inventory/ground/salt-crystal
+s 4 1357 62 62
+o 3 6 68 68
+~
+n inventory/ground/sand
+s 1930 77 68 68
+o 0 0 68 68
+~
+n inventory/ground/sandstone
+s 1857 77 68 68
+o 0 0 68 68
+~
+n inventory/ground/scorpion-tail
+s 1297 1717 64 30
+o 2 38 68 68
+~
+n inventory/ground/snake-skin
+s 1272 1843 68 26
+o 0 42 68 68
+~
+n inventory/ground/stone
+s 1784 77 68 68
+o 0 0 68 68
+~
+n inventory/ground/sulfur-ore
+s 615 1233 68 58
+o 0 10 68 68
+~
+n inventory/ground/terrapus-egg
+s 719 1440 54 62
+o 7 2 68 68
+~
+n inventory/ground/terrapus-egg-large
+s 1910 874 60 68
+o 3 0 68 68
+~
+n inventory/ground/terrapus-pet-egg
+s 719 1440 54 62
+o 7 2 68 68
+~
+n inventory/ground/turtle-shell
+s 1530 1471 62 40
+o 0 28 68 68
+~
+n inventory/ground/zinc-ore
+s 1711 77 68 68
+o 0 0 68 68
+~
+n inventory/headgear/accident
+s 1638 77 68 68
+o 0 0 68 68
+~
+n inventory/headgear/admiral
+s 1341 1291 68 46
+o 0 11 68 68
+~
+n inventory/headgear/android
+s 438 799 68 64
+o 0 1 68 68
+~
+n inventory/headgear/brain-hat
+s 1699 868 68 60
+o 0 4 68 68
+~
+n inventory/headgear/brass-helmet
+s 1487 1120 68 52
+o 0 8 68 68
+~
+n inventory/headgear/bright-idea
+s 150 727 66 68
+o 0 0 68 68
+~
+n inventory/headgear/christmas-tree-hat
+s 1945 4 68 68
+o 0 0 68 68
+~
+n inventory/headgear/crown
+s 1222 862 68 58
+o 0 5 68 68
+~
+n inventory/headgear/diablo
+s 1619 1116 68 52
+o 0 7 68 68
+~
+n inventory/headgear/diving-helmet
+s 1273 77 68 62
+o 0 2 68 68
+~
+n inventory/headgear/earmuffs
+s 1872 4 68 68
+o 0 0 68 68
+~
+n inventory/headgear/fez
+s 146 1011 64 68
+o 2 0 68 68
+~
+n inventory/headgear/halo
+s 1161 1730 66 30
+o 1 19 68 68
+~
+n inventory/headgear/headphones
+s 1626 868 68 60
+o 0 4 68 68
+~
+n inventory/headgear/ice-cream
+s 1566 1016 50 68
+o 9 0 68 68
+~
+n inventory/headgear/knight-helmet
+s 365 799 68 64
+o 0 1 68 68
+~
+n inventory/headgear/lampshade
+s 1799 4 68 68
+o 0 0 68 68
+~
+n inventory/headgear/mad-scientist
+s 1621 1059 68 52
+o 0 8 68 68
+~
+n inventory/headgear/mystic
+s 1260 1350 68 44
+o 0 12 68 68
+~
+n inventory/headgear/nessie
+s 1845 870 60 68
+o 4 0 68 68
+~
+n inventory/headgear/parka
+s 1726 4 68 68
+o 0 0 68 68
+~
+n inventory/headgear/party
+s 916 1164 30 68
+o 19 0 68 68
+~
+n inventory/headgear/pirate
+s 1340 1342 68 44
+o 0 11 68 68
+~
+n inventory/headgear/plant-head
+s 609 1475 68 52
+o 0 7 68 68
+~
+n inventory/headgear/rain-hat
+s 995 1877 68 34
+o 0 17 68 68
+~
+n inventory/headgear/reaper-hat
+s 778 1384 68 52
+o 0 7 68 68
+~
+n inventory/headgear/shark
+s 1441 870 52 68
+o 7 0 68 68
+~
+n inventory/headgear/snake
+s 4 1497 56 68
+o 6 0 68 68
+~
+n inventory/headgear/tinfoil
+s 585 1746 68 42
+o 0 12 68 68
+~
+n inventory/headgear/turtle-helmet
+s 1343 1949 68 30
+o 0 19 68 68
+~
+n inventory/headgear/umbrella
+s 789 2004 68 36
+o 0 16 68 68
+~
+n inventory/headgear/unicorn
+s 951 1511 42 68
+o 12 0 68 68
+~
+n inventory/headgear/watermelon-hat
+s 268 1351 68 58
+o 0 4 68 68
+~
+n inventory/hell/dish
+s 296 726 66 68
+o 0 0 68 68
+~
+n inventory/holiday/candy-cane-large
+s 688 1233 26 64
+o 22 4 68 68
+~
+n inventory/holiday/candy-cane-small
+s 1923 1632 32 64
+o 19 4 68 68
+~
+n inventory/holiday/christmas-lights-reindeer
+s 1498 801 58 68
+o 2 0 68 68
+~
+n inventory/holiday/christmas-lights-sleigh
+s 4 927 68 64
+o 0 4 68 68
+~
+n inventory/holiday/christmas-lights-white
+s 666 1592 44 68
+o 14 0 68 68
+~
+n inventory/holiday/coffin
+s 1884 1634 34 66
+o 17 2 68 68
+~
+n inventory/holiday/cornucopia
+s 1261 1613 64 30
+o 2 21 68 68
+~
+n inventory/holiday/door-festive
+s 1045 1693 38 68
+o 11 0 68 68
+~
+n inventory/holiday/gift-large
+s 1653 4 68 68
+o 0 0 68 68
+~
+n inventory/holiday/gift-small
+s 1580 4 68 68
+o 0 0 68 68
+~
+n inventory/holiday/gift-tall
+s 1829 1354 34 68
+o 17 0 68 68
+~
+n inventory/holiday/gingerbread-house
+s 418 1150 64 62
+o 2 6 68 68
+~
+n inventory/holiday/holly-garland
+s 1141 1876 66 34
+o 2 17 68 68
+~
+n inventory/holiday/mistletoe
+s 2003 223 40 68
+o 14 0 68 68
+~
+n inventory/holiday/sleigh
+s 292 1813 66 42
+o 1 15 68 68
+~
+n inventory/holiday/snowflake
+s 1344 1794 46 44
+o 8 9 68 68
+~
+n inventory/holiday/stocking
+s 509 1911 40 62
+o 14 2 68 68
+~
+n inventory/holiday/stocking-onyx
+s 1151 1596 42 62
+o 14 4 68 68
+~
+n inventory/holiday/tree-charlie-brown
+s 1008 1292 54 62
+o 5 6 68 68
+~
+n inventory/holiday/wreath-large
+s 215 942 64 68
+o 2 0 68 68
+~
+n inventory/holiday/wreath-small
+s 288 937 64 68
+o 1 0 68 68
+~
+n inventory/industrial/chain
+s 935 726 12 68
+o 27 0 68 68
+~
+n inventory/industrial/chain-large
+s 1832 998 8 34
+o 27 17 68 68
+~
+n inventory/industrial/conveyor
+s 1682 1929 68 20
+o 0 25 68 68
+~
+n inventory/industrial/crane
+s 1441 797 52 68
+o 7 0 68 68
+~
+n inventory/industrial/crane-base
+s 1565 77 68 68
+o 0 0 68 68
+~
+n inventory/industrial/crane-base-large
+s 990 1919 68 34
+o 0 17 68 68
+~
+n inventory/industrial/crane-large
+s 65 1580 56 64
+o 8 0 68 68
+~
+n inventory/industrial/vat
+s 793 797 66 66
+o 0 2 68 68
+~
+n inventory/industrial/vat-acid
+s 1507 4 68 68
+o 0 0 68 68
+~
+n inventory/lighting/candle
+s 1906 1427 30 54
+o 19 0 68 68
+~
+n inventory/lighting/candlelabra
+s 1200 77 68 62
+o 0 6 68 68
+~
+n inventory/lighting/chandelier
+s 4 1781 50 68
+o 9 0 68 68
+~
+n inventory/lighting/fancy-lamp-1
+s 1473 144 68 68
+o 0 0 68 68
+~
+n inventory/lighting/fancy-lamp-2
+s 282 1081 62 68
+o 3 0 68 68
+~
+n inventory/lighting/fancy-lamp-3
+s 1537 436 22 68
+o 23 0 68 68
+~
+n inventory/lighting/fancy-lamp-4
+s 1770 1491 34 68
+o 17 0 68 68
+~
+n inventory/lighting/fancy-lamp-5
+s 1846 1708 34 66
+o 17 2 68 68
+~
+n inventory/lighting/fancy-lamp-6
+s 1434 4 68 68
+o 0 0 68 68
+~
+n inventory/lighting/fancy-lamp-7
+s 1127 77 68 62
+o 0 0 68 68
+~
+n inventory/lighting/fancy-lamp-8
+s 4 714 68 66
+o 0 0 68 68
+~
+n inventory/lighting/floorlamp
+s 1992 1829 24 66
+o 21 2 68 68
+~
+n inventory/lighting/grow-lamp
+s 1493 1063 68 52
+o 0 0 68 68
+~
+n inventory/lighting/industrial
+s 1400 144 68 68
+o 0 0 68 68
+~
+n inventory/lighting/industrial-cord
+s 641 868 10 68
+o 28 0 68 68
+~
+n inventory/lighting/lantern
+s 2003 150 40 68
+o 15 0 68 68
+~
+n inventory/lighting/paper
+s 1402 1433 52 54
+o 8 8 68 68
+~
+n inventory/lighting/streetlight
+s 1808 1273 16 68
+o 27 0 68 68
+~
+n inventory/lighting/streetlight-triple
+s 1765 1564 34 68
+o 17 0 68 68
+~
+n inventory/liquid/acid
+s 1361 4 68 68
+o 0 0 68 68
+~
+n inventory/liquid/magma
+s 1327 144 68 68
+o 0 0 68 68
+~
+n inventory/liquid/water
+s 1288 4 68 68
+o 0 0 68 68
+~
+n inventory/machines/gun-suppressor
+s 1215 4 68 68
+o 0 0 68 68
+~
+n inventory/machines/gun-suppressor-diamond
+s 1254 144 68 68
+o 0 0 68 68
+~
+n inventory/machines/gun-suppressor-onyx
+s 1254 144 68 68
+o 0 0 68 68
+~
+n inventory/machines/holograph
+s 981 77 68 62
+o 0 6 68 68
+~
+n inventory/machines/holograph-diamond
+s 1054 77 68 62
+o 0 3 68 68
+~
+n inventory/machines/holograph-onyx
+s 1054 77 68 62
+o 0 3 68 68
+~
+n inventory/machines/mass-spawner
+s 908 77 68 62
+o 0 6 68 68
+~
+n inventory/machines/mass-spawner-diamond
+s 408 1480 68 54
+o 0 6 68 68
+~
+n inventory/machines/mass-spawner-onyx
+s 408 1480 68 54
+o 0 6 68 68
+~
+n inventory/machines/mass-teleporter
+s 1481 1234 68 46
+o 0 22 68 68
+~
+n inventory/machines/mass-teleporter-diamond
+s 932 1962 68 34
+o 0 17 68 68
+~
+n inventory/machines/mass-teleporter-onyx
+s 932 1962 68 34
+o 0 17 68 68
+~
+n inventory/machines/weather-machine
+s 1181 144 68 68
+o 0 0 68 68
+~
+n inventory/machines/weather-machine-diamond
+s 465 1566 68 50
+o 0 8 68 68
+~
+n inventory/machines/weather-machine-onyx
+s 465 1566 68 50
+o 0 8 68 68
+~
+n inventory/mechanical/beacon
+s 1960 1557 28 68
+o 20 0 68 68
+~
+n inventory/mechanical/bomb
+s 167 1900 58 46
+o 4 22 68 68
+~
+n inventory/mechanical/bomb-acid
+s 1142 4 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/bomb-clown
+s 1108 144 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/bomb-dig
+s 951 1438 46 68
+o 12 0 68 68
+~
+n inventory/mechanical/bomb-electric
+s 952 939 60 66
+o 1 2 68 68
+~
+n inventory/mechanical/bomb-health
+s 126 1567 56 64
+o 4 4 68 68
+~
+n inventory/mechanical/bomb-incendiary
+s 722 797 66 66
+o 2 2 68 68
+~
+n inventory/mechanical/bomb-large
+s 365 868 64 68
+o 2 0 68 68
+~
+n inventory/mechanical/bomb-lava
+s 835 77 68 62
+o 0 6 68 68
+~
+n inventory/mechanical/bomb-mega
+s 455 1733 66 46
+o 0 11 68 68
+~
+n inventory/mechanical/bomb-smoke
+s 1017 866 62 64
+o 0 4 68 68
+~
+n inventory/mechanical/bomb-spawner
+s 1917 730 66 68
+o 1 0 68 68
+~
+n inventory/mechanical/bomb-spawner-large
+s 851 1365 56 60
+o 4 8 68 68
+~
+n inventory/mechanical/bomb-stink
+s 4 858 68 64
+o 0 4 68 68
+~
+n inventory/mechanical/bomb-suppressor
+s 1069 4 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/bomb-water
+s 1368 797 68 60
+o 0 8 68 68
+~
+n inventory/mechanical/butler-brass
+s 1701 801 66 62
+o 0 3 68 68
+~
+n inventory/mechanical/butler-diamond
+s 353 1077 62 68
+o 2 0 68 68
+~
+n inventory/mechanical/butler-onyx
+s 1630 801 66 62
+o 0 3 68 68
+~
+n inventory/mechanical/chemistry-set
+s 1035 144 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/collector
+s 996 4 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/compass
+s 1633 661 66 68
+o 0 0 68 68
+~
+n inventory/mechanical/compass-burned
+s 1846 730 66 68
+o 1 0 68 68
+~
+n inventory/mechanical/compass-dark
+s 1775 730 66 68
+o 1 0 68 68
+~
+n inventory/mechanical/compass-icy
+s 962 144 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/compass-sandy
+s 1704 661 66 68
+o 0 0 68 68
+~
+n inventory/mechanical/control-panel
+s 1731 1491 34 68
+o 17 0 68 68
+~
+n inventory/mechanical/control-panel-large
+s 923 4 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/dish
+s 4 1065 64 68
+o 4 0 68 68
+~
+n inventory/mechanical/dish-broken
+s 1562 661 66 68
+o 2 0 68 68
+~
+n inventory/mechanical/dish-giga
+s 1493 1006 68 52
+o 0 8 68 68
+~
+n inventory/mechanical/dish-large
+s 282 1154 62 64
+o 2 4 68 68
+~
+n inventory/mechanical/dish-mega
+s 762 77 68 62
+o 0 6 68 68
+~
+n inventory/mechanical/dish-micro
+s 1462 1641 44 48
+o 8 20 68 68
+~
+n inventory/mechanical/door
+s 920 1018 26 68
+o 22 0 68 68
+~
+n inventory/mechanical/door-beefy
+s 1450 655 66 68
+o 1 0 68 68
+~
+n inventory/mechanical/door-one-way
+s 920 1091 26 68
+o 17 0 68 68
+~
+n inventory/mechanical/engine
+s 1010 1777 68 34
+o 0 17 68 68
+~
+n inventory/mechanical/exploder
+s 223 656 68 66
+o 0 0 68 68
+~
+n inventory/mechanical/forge
+s 689 77 68 62
+o 0 6 68 68
+~
+n inventory/mechanical/friend-parts-boxing-gloves
+s 1271 1297 64 48
+o 2 20 68 68
+~
+n inventory/mechanical/friend-parts-foot
+s 1781 1899 50 18
+o 12 50 68 68
+~
+n inventory/mechanical/friend-parts-gear
+s 1473 1694 42 42
+o 12 26 68 68
+~
+n inventory/mechanical/friend-parts-head
+s 1144 1996 52 44
+o 8 24 68 68
+~
+n inventory/mechanical/friend-parts-joint
+s 1685 1854 38 40
+o 17 28 68 68
+~
+n inventory/mechanical/friend-parts-key
+s 1520 1522 42 48
+o 14 20 68 68
+~
+n inventory/mechanical/friend-parts-scissors
+s 1047 1626 44 62
+o 12 6 68 68
+~
+n inventory/mechanical/furnace
+s 1822 1783 34 66
+o 16 2 68 68
+~
+n inventory/mechanical/inhibitor
+s 889 144 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/lathe
+s 1136 1915 66 34
+o 0 17 68 68
+~
+n inventory/mechanical/loom
+s 849 1880 68 36
+o 0 21 68 68
+~
+n inventory/mechanical/magnet-large
+s 1222 728 64 64
+o 2 4 68 68
+~
+n inventory/mechanical/mill
+s 1379 655 66 68
+o 0 0 68 68
+~
+n inventory/mechanical/mini-tesla
+s 1701 734 66 62
+o 0 6 68 68
+~
+n inventory/mechanical/pipe
+s 1096 1657 38 68
+o 14 0 68 68
+~
+n inventory/mechanical/pipe-iron
+s 1806 1346 18 68
+o 24 0 68 68
+~
+n inventory/mechanical/platform
+s 1279 1874 68 30
+o 0 17 68 68
+~
+n inventory/mechanical/protector-enemy
+s 499 941 64 66
+o 0 2 68 68
+~
+n inventory/mechanical/protector-enemy-fancy
+s 566 1012 62 68
+o 1 0 68 68
+~
+n inventory/mechanical/rail
+s 621 1087 30 68
+o 16 0 68 68
+~
+n inventory/mechanical/relay
+s 219 800 68 64
+o 0 4 68 68
+~
+n inventory/mechanical/replenisher
+s 428 941 66 64
+o 0 4 68 68
+~
+n inventory/mechanical/science-bulb
+s 1630 734 66 62
+o 0 6 68 68
+~
+n inventory/mechanical/science-gadget
+s 864 726 66 66
+o 1 2 68 68
+~
+n inventory/mechanical/science-scrap
+s 1975 1008 66 58
+o 0 10 68 68
+~
+n inventory/mechanical/ship-wheel
+s 1308 655 66 68
+o 0 0 68 68
+~
+n inventory/mechanical/spawner
+s 296 655 68 66
+o 0 2 68 68
+~
+n inventory/mechanical/spawner-brain
+s 150 656 68 66
+o 0 2 68 68
+~
+n inventory/mechanical/spawner-small
+s 850 4 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/spikes
+s 335 1475 68 54
+o 0 14 68 68
+~
+n inventory/mechanical/spikes-small
+s 1275 1802 64 32
+o 2 36 68 68
+~
+n inventory/mechanical/stabilizer
+s 889 144 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/stand
+s 1836 1854 34 62
+o 17 6 68 68
+~
+n inventory/mechanical/steam-jet-large
+s 816 144 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/steam-jet-small
+s 777 4 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/suppressor
+s 1927 659 68 66
+o 0 2 68 68
+~
+n inventory/mechanical/switch
+s 552 1085 64 62
+o 2 6 68 68
+~
+n inventory/mechanical/switch-large
+s 786 1010 66 60
+o 0 8 68 68
+~
+n inventory/mechanical/switch-large-fancy
+s 784 1205 66 58
+o 0 10 68 68
+~
+n inventory/mechanical/switch-large-timed
+s 784 1075 66 60
+o 0 8 68 68
+~
+n inventory/mechanical/switch-timed
+s 349 1150 64 62
+o 2 6 68 68
+~
+n inventory/mechanical/teleporter
+s 616 77 68 62
+o 0 6 68 68
+~
+n inventory/mechanical/teleporter-mini
+s 1199 1844 68 26
+o 0 42 68 68
+~
+n inventory/mechanical/teleporter-mini-diamond
+s 1468 1610 66 24
+o 0 44 68 68
+~
+n inventory/mechanical/teleporter-mini-onyx
+s 1444 1581 66 24
+o 0 44 68 68
+~
+n inventory/mechanical/telescope
+s 481 1432 58 62
+o 3 6 68 68
+~
+n inventory/mechanical/tesla-coil
+s 1100 1592 46 60
+o 10 8 68 68
+~
+n inventory/mechanical/toolbox
+s 357 941 66 64
+o 0 4 68 68
+~
+n inventory/mechanical/touchplate
+s 420 1217 62 62
+o 3 3 68 68
+~
+n inventory/mechanical/touchplate-fancy
+s 71 1296 62 62
+o 3 3 68 68
+~
+n inventory/mechanical/touchplate-finish
+s 138 1291 62 62
+o 3 3 68 68
+~
+n inventory/mechanical/touchplate-timed
+s 418 1284 62 62
+o 3 3 68 68
+~
+n inventory/mechanical/touchplate-timed-fancy
+s 207 1228 62 62
+o 3 3 68 68
+~
+n inventory/mechanical/trap-electric
+s 743 144 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/trap-mine
+s 704 4 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/trapdoor-large
+s 1635 1904 68 20
+o 0 16 68 68
+~
+n inventory/mechanical/trapdoor-small
+s 761 1847 68 28
+o 0 0 68 68
+~
+n inventory/mechanical/turret-acid
+s 1352 1874 64 30
+o 2 18 68 68
+~
+n inventory/mechanical/turret-acid-mk2
+s 1330 1612 60 28
+o 4 18 68 68
+~
+n inventory/mechanical/turret-acid-mk3
+s 919 1921 66 36
+o 1 15 68 68
+~
+n inventory/mechanical/turret-dessicator
+s 862 868 66 64
+o 1 4 68 68
+~
+n inventory/mechanical/turret-dessicator-mk2
+s 1836 1079 62 52
+o 4 7 68 68
+~
+n inventory/mechanical/turret-dessicator-mk3
+s 1292 925 68 56
+o 0 6 68 68
+~
+n inventory/mechanical/turret-energy
+s 1493 1908 64 26
+o 4 21 68 68
+~
+n inventory/mechanical/turret-energy-mk2
+s 1215 1765 64 32
+o 1 18 68 68
+~
+n inventory/mechanical/turret-energy-mk3
+s 861 1962 66 36
+o 1 16 68 68
+~
+n inventory/mechanical/turret-fire
+s 1599 1414 68 38
+o 0 14 68 68
+~
+n inventory/mechanical/turret-fire-mk2
+s 1552 1735 52 30
+o 8 19 68 68
+~
+n inventory/mechanical/turret-fire-mk3
+s 931 2003 62 38
+o 3 17 68 68
+~
+n inventory/mechanical/turret-flame
+s 571 1973 66 32
+o 0 16 68 68
+~
+n inventory/mechanical/turret-flame-mk2
+s 1147 1954 62 36
+o 4 15 68 68
+~
+n inventory/mechanical/turret-flame-mk3
+s 359 1902 68 40
+o 0 14 68 68
+~
+n inventory/mechanical/turret-frost
+s 1276 1914 68 30
+o 0 19 68 68
+~
+n inventory/mechanical/turret-frost-mk2
+s 1484 1871 56 32
+o 4 18 68 68
+~
+n inventory/mechanical/turret-frost-mk3
+s 1757 1222 68 46
+o 0 11 68 68
+~
+n inventory/mechanical/turret-pistol
+s 846 1921 68 36
+o 0 17 68 68
+~
+n inventory/mechanical/turret-pistol-mk2
+s 1212 1875 62 34
+o 0 19 68 68
+~
+n inventory/mechanical/turret-pistol-mk3
+s 1078 1955 64 36
+o 2 16 68 68
+~
+n inventory/mechanical/turret-trap-acid
+s 1854 659 68 66
+o 0 2 68 68
+~
+n inventory/mechanical/turret-trap-bullet
+s 1781 659 68 66
+o 0 2 68 68
+~
+n inventory/mechanical/turret-trap-energy
+s 543 77 68 62
+o 0 6 68 68
+~
+n inventory/mechanical/turret-trap-flame
+s 670 144 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/turret-trap-frost
+s 274 1288 68 58
+o 0 10 68 68
+~
+n inventory/mechanical/turret-trap-steam
+s 1927 588 68 66
+o 0 2 68 68
+~
+n inventory/mechanical/typewriter
+s 1363 986 66 54
+o 0 14 68 68
+~
+n inventory/mechanical/vault
+s 631 4 68 68
+o 0 0 68 68
+~
+n inventory/mechanical/wine-press
+s 1854 588 68 66
+o 0 2 68 68
+~
+n inventory/mechanical/zone-teleporter
+s 1237 655 66 68
+o 0 0 68 68
+~
+n inventory/music/bass-drum
+s 1781 588 68 66
+o 0 2 68 68
+~
+n inventory/music/gong
+s 597 144 68 68
+o 0 0 68 68
+~
+n inventory/music/harp
+s 1204 1544 38 68
+o 15 0 68 68
+~
+n inventory/music/phonograph
+s 1495 1770 34 58
+o 17 10 68 68
+~
+n inventory/music/piano
+s 1619 1224 68 46
+o 0 11 68 68
+~
+n inventory/music/sheet-music
+s 4 4 96 136
+o 19 0 136 136
+~
+n inventory/music/snare-drum
+s 1914 1847 34 60
+o 17 8 68 68
+~
+n inventory/music/symphonium
+s 499 1012 62 68
+o 3 0 68 68
+~
+n inventory/music/synthesizer
+s 558 4 68 68
+o 0 0 68 68
+~
+n inventory/none
+s 1672 1411 50 50
+o 9 9 68 68
+~
+n inventory/parts/gun-barrel
+s 937 1791 68 20
+o 0 10 68 68
+~
+n inventory/parts/musket-stock
+s 1126 1845 68 26
+o 0 21 68 68
+~
+n inventory/parts/pistol-stock
+s 862 2003 64 38
+o 1 17 68 68
+~
+n inventory/prosthetics/brass-headset
+s 922 1880 68 34
+o 0 16 68 68
+~
+n inventory/prosthetics/brass-legs
+s 1295 797 68 60
+o 0 4 68 68
+~
+n inventory/prosthetics/brass-torso
+s 607 1532 68 50
+o 0 8 68 68
+~
+n inventory/prosthetics/diamond-headset
+s 317 1595 68 52
+o 0 7 68 68
+~
+n inventory/prosthetics/diamond-legs
+s 65 1436 56 68
+o 6 0 68 68
+~
+n inventory/prosthetics/diamond-torso
+s 1619 1173 68 46
+o 0 11 68 68
+~
+n inventory/prosthetics/onyx-headset
+s 1088 1730 68 30
+o 0 19 68 68
+~
+n inventory/prosthetics/onyx-legs
+s 146 800 68 64
+o 0 2 68 68
+~
+n inventory/prosthetics/onyx-torso
+s 392 1539 68 52
+o 0 8 68 68
+~
+n inventory/rubble/bone-pile
+s 470 77 68 62
+o 0 6 68 68
+~
+n inventory/rubble/bones-large
+s 1661 1723 44 30
+o 13 21 68 68
+~
+n inventory/rubble/bones-small
+s 536 1637 50 62
+o 6 6 68 68
+~
+n inventory/rubble/brass
+s 1745 1273 58 50
+o 4 18 68 68
+~
+n inventory/rubble/copper
+s 843 1568 52 56
+o 6 12 68 68
+~
+n inventory/rubble/gravestone
+s 1897 1254 46 64
+o 10 4 68 68
+~
+n inventory/rubble/hell-gravestone
+s 524 144 68 68
+o 0 0 68 68
+~
+n inventory/rubble/iron
+s 951 1302 52 64
+o 7 4 68 68
+~
+n inventory/rubble/skeleton
+s 1584 1571 64 24
+o 2 27 68 68
+~
+n inventory/rubble/stone-pile-1
+s 1755 1922 38 26
+o 15 25 68 68
+~
+n inventory/rubble/wood-1
+s 1276 1238 60 54
+o 3 14 68 68
+~
+n inventory/shields/acid
+s 485 4 68 68
+o 0 0 68 68
+~
+n inventory/shields/fire
+s 451 144 68 68
+o 0 0 68 68
+~
+n inventory/shields/force
+s 412 4 68 68
+o 0 0 68 68
+~
+n inventory/signs/brass-large
+s 356 1947 64 42
+o 2 13 68 68
+~
+n inventory/signs/brass-small
+s 1539 1604 64 24
+o 2 21 68 68
+~
+n inventory/signs/copper-large
+s 432 1921 64 42
+o 2 12 68 68
+~
+n inventory/signs/copper-small
+s 1483 1741 64 24
+o 2 21 68 68
+~
+n inventory/signs/guild
+s 1692 1500 34 68
+o 17 0 68 68
+~
+n inventory/signs/iron-large
+s 555 1883 64 42
+o 2 13 68 68
+~
+n inventory/signs/iron-small
+s 1515 1575 64 24
+o 2 21 68 68
+~
+n inventory/signs/mechanical
+s 609 1418 68 52
+o 0 8 68 68
+~
+n inventory/signs/note-scrawl
+s 1008 1359 54 60
+o 8 4 68 68
+~
+n inventory/signs/note-wall
+s 132 1429 56 68
+o 6 0 68 68
+~
+n inventory/signs/obelisk
+s 1615 1964 36 68
+o 16 0 68 68
+~
+n inventory/signs/plaque
+s 1962 1234 68 46
+o 0 10 68 68
+~
+n inventory/signs/plaque-landmark
+s 77 1990 68 46
+o 0 10 68 68
+~
+n inventory/signs/plaque-ruby
+s 4 1994 68 46
+o 0 11 68 68
+~
+n inventory/signs/pvp
+s 1615 1964 36 68
+o 16 0 68 68
+~
+n inventory/signs/wood-large
+s 1475 1285 68 44
+o 0 12 68 68
+~
+n inventory/signs/wood-small
+s 985 1816 68 24
+o 0 21 68 68
+~
+n inventory/swatch
+s 378 144 68 68
+o 0 0 68 68
+~
+n inventory/tabs/square/regular
+s 722 726 66 66
+o 1 0 68 68
+~
+n inventory/tabs/square/regular-faded
+s 793 726 66 66
+o 1 0 68 68
+~
+n inventory/tools/blunderbuss
+s 1708 1899 68 18
+o 0 25 68 68
+~
+n inventory/tools/blunderbuss-mk2
+s 1697 2027 68 16
+o 0 25 68 68
+~
+n inventory/tools/blunderbuss-mk3
+s 1710 1831 68 18
+o 0 25 68 68
+~
+n inventory/tools/cane
+s 1537 290 22 68
+o 23 0 68 68
+~
+n inventory/tools/cane-diamond
+s 633 1014 18 68
+o 25 0 68 68
+~
+n inventory/tools/cane-onyx
+s 1537 363 22 68
+o 22 0 68 68
+~
+n inventory/tools/cane-platinum
+s 1137 1158 20 68
+o 24 0 68 68
+~
+n inventory/tools/confetti-launcher
+s 436 1876 68 40
+o 0 14 68 68
+~
+n inventory/tools/confetti-launcher-mk2
+s 788 1963 68 36
+o 0 16 68 68
+~
+n inventory/tools/confetti-launcher-mk3
+s 770 1710 68 42
+o 0 12 68 68
+~
+n inventory/tools/gun-acid
+s 554 1930 68 38
+o 0 14 68 68
+~
+n inventory/tools/gun-acid-mk2
+s 1459 1436 66 38
+o 2 14 68 68
+~
+n inventory/tools/gun-acid-mk3
+s 1599 1371 68 38
+o 0 15 68 68
+~
+n inventory/tools/gun-energy
+s 715 1972 68 34
+o 0 16 68 68
+~
+n inventory/tools/gun-energy-mk2
+s 571 1838 68 40
+o 0 14 68 68
+~
+n inventory/tools/gun-energy-mk3
+s 766 1802 68 40
+o 0 13 68 68
+~
+n inventory/tools/gun-energy-pistol
+s 770 1757 68 40
+o 0 14 68 68
+~
+n inventory/tools/gun-energy-pistol-mk2
+s 1322 1442 68 42
+o 0 13 68 68
+~
+n inventory/tools/gun-energy-pistol-mk3
+s 368 1761 68 44
+o 0 12 68 68
+~
+n inventory/tools/gun-flame
+s 700 1933 68 34
+o 0 16 68 68
+~
+n inventory/tools/gun-flame-mk2
+s 1314 1489 68 40
+o 0 14 68 68
+~
+n inventory/tools/gun-flame-mk3
+s 571 1793 68 40
+o 0 14 68 68
+~
+n inventory/tools/gun-flame-pistol
+s 439 1831 68 40
+o 0 13 68 68
+~
+n inventory/tools/gun-flame-pistol-mk2
+s 363 1857 68 40
+o 0 14 68 68
+~
+n inventory/tools/gun-flame-pistol-mk3
+s 1607 1324 68 42
+o 0 13 68 68
+~
+n inventory/tools/gun-frost
+s 643 2011 68 30
+o 0 19 68 68
+~
+n inventory/tools/gun-frost-mk2
+s 498 1978 68 28
+o 0 19 68 68
+~
+n inventory/tools/gun-frost-mk3
+s 642 1972 68 34
+o 0 16 68 68
+~
+n inventory/tools/gun-frost-pistol
+s 627 1933 68 34
+o 0 16 68 68
+~
+n inventory/tools/gun-frost-pistol-mk2
+s 716 2011 68 30
+o 0 19 68 68
+~
+n inventory/tools/gun-frost-pistol-mk3
+s 776 1880 68 36
+o 0 15 68 68
+~
+n inventory/tools/gun-steam
+s 703 1881 68 36
+o 0 15 68 68
+~
+n inventory/tools/gun-steam-mk2
+s 1966 1183 68 46
+o 0 11 68 68
+~
+n inventory/tools/gun-steam-mk3
+s 178 90 68 50
+o 0 9 68 68
+~
+n inventory/tools/gun-steam-pistol
+s 773 1922 68 36
+o 0 16 68 68
+~
+n inventory/tools/gun-steam-pistol-mk2
+s 297 1707 68 48
+o 0 9 68 68
+~
+n inventory/tools/gun-steam-pistol-mk3
+s 105 90 68 50
+o 0 9 68 68
+~
+n inventory/tools/hatchet
+s 1171 801 46 68
+o 11 0 68 68
+~
+n inventory/tools/hatchet-diamond
+s 1576 943 44 68
+o 12 0 68 68
+~
+n inventory/tools/hatchet-onyx
+s 2000 661 44 68
+o 12 0 68 68
+~
+n inventory/tools/hatchet-platinum
+s 1008 1424 46 68
+o 11 0 68 68
+~
+n inventory/tools/musket
+s 1608 1600 68 18
+o 0 24 68 68
+~
+n inventory/tools/musket-mk2
+s 1637 1831 68 18
+o 0 24 68 68
+~
+n inventory/tools/musket-mk3
+s 839 1822 68 20
+o 0 24 68 68
+~
+n inventory/tools/net
+s 910 1456 36 68
+o 15 0 68 68
+~
+n inventory/tools/net-diamond
+s 1653 1500 34 68
+o 17 0 68 68
+~
+n inventory/tools/net-onyx
+s 1814 1946 34 68
+o 17 0 68 68
+~
+n inventory/tools/net-platinum
+s 1775 1953 34 68
+o 17 0 68 68
+~
+n inventory/tools/pickaxe
+s 657 799 60 68
+o 4 0 68 68
+~
+n inventory/tools/pickaxe-diamond
+s 1561 803 60 68
+o 4 0 68 68
+~
+n inventory/tools/pickaxe-fine
+s 77 1004 64 68
+o 2 0 68 68
+~
+n inventory/tools/pickaxe-onyx
+s 656 872 60 68
+o 4 0 68 68
+~
+n inventory/tools/pickaxe-platinum
+s 1498 728 58 68
+o 5 0 68 68
+~
+n inventory/tools/pistol
+s 780 1268 68 54
+o 0 7 68 68
+~
+n inventory/tools/pistol-mk2
+s 611 1359 68 54
+o 0 7 68 68
+~
+n inventory/tools/pistol-mk3
+s 1970 1132 68 46
+o 0 11 68 68
+~
+n inventory/tools/rapier
+s 1143 1012 16 68
+o 26 0 68 68
+~
+n inventory/tools/rapier-diamond
+s 1143 1085 16 68
+o 25 0 68 68
+~
+n inventory/tools/rapier-onyx
+s 637 941 14 68
+o 27 0 68 68
+~
+n inventory/tools/rapier-platinum
+s 1546 217 14 68
+o 27 0 68 68
+~
+n inventory/tools/shovel
+s 1129 1304 24 68
+o 22 0 68 68
+~
+n inventory/tools/shovel-diamond
+s 921 945 26 68
+o 21 0 68 68
+~
+n inventory/tools/shovel-onyx
+s 1971 1971 28 68
+o 19 0 68 68
+~
+n inventory/tools/shovel-platinum
+s 682 1446 32 68
+o 17 0 68 68
+~
+n inventory/tools/sledgehammer
+s 1537 582 20 68
+o 24 0 68 68
+~
+n inventory/tools/sledgehammer-diamond
+s 1124 1450 28 68
+o 19 0 68 68
+~
+n inventory/tools/sledgehammer-fine
+s 615 1160 36 68
+o 15 0 68 68
+~
+n inventory/tools/sledgehammer-onyx
+s 1132 1231 24 68
+o 22 0 68 68
+~
+n inventory/tools/sledgehammer-platinum
+s 1124 1377 28 68
+o 19 0 68 68
+~
+n inventory/tools/spade
+s 2002 369 42 68
+o 12 0 68 68
+~
+n inventory/tools/spade-diamond
+s 2002 515 42 68
+o 12 0 68 68
+~
+n inventory/tools/spade-onyx
+s 2002 442 42 68
+o 12 0 68 68
+~
+n inventory/tools/spade-platinum
+s 2000 588 44 68
+o 12 0 68 68
+~
+n inventory/tools/speargun
+s 980 1846 68 26
+o 0 21 68 68
+~
+n inventory/tools/speargun-mk2
+s 912 1817 68 24
+o 0 22 68 68
+~
+n inventory/tools/speargun-mk3
+s 1053 1845 68 26
+o 0 21 68 68
+~
+n inventory/tools/tesla-club
+s 1651 1764 34 62
+o 17 0 68 68
+~
+n inventory/tops/elf
+s 292 799 68 64
+o 0 2 68 68
+~
+n inventory/tops/santa
+s 1222 797 68 60
+o 0 4 68 68
+~
+n inventory/tops/vampire
+s 201 1366 56 68
+o 6 0 68 68
+~
+n inventory/unknown
+s 1727 1432 21 27
+o 6 2 33 33
+~
+n inventory/vegetation/cactus-small
+s 1971 1071 66 56
+o 0 12 68 68
+~
+n inventory/vegetation/flower-amaryllis
+s 4 1211 62 68
+o 4 0 68 68
+~
+n inventory/vegetation/flower-amaryllis-bulb
+s 1574 1978 36 66
+o 18 0 68 68
+~
+n inventory/vegetation/flower-asphodelus
+s 463 1676 64 52
+o 4 16 68 68
+~
+n inventory/vegetation/flower-asphodelus-bulb
+s 1139 1663 38 62
+o 14 0 68 68
+~
+n inventory/vegetation/flower-bird-of-paradise
+s 2002 296 42 68
+o 9 0 68 68
+~
+n inventory/vegetation/flower-bird-of-paradise-bulb
+s 2003 77 40 68
+o 14 0 68 68
+~
+n inventory/vegetation/flower-birds-foot-trefoil
+s 384 1706 66 50
+o 2 16 68 68
+~
+n inventory/vegetation/flower-birds-foot-trefoil-bulb
+s 1211 1327 44 66
+o 14 0 68 68
+~
+n inventory/vegetation/flower-cactus
+s 1449 1979 38 64
+o 15 4 68 68
+~
+n inventory/vegetation/flower-cactus-bulb
+s 1521 655 36 68
+o 14 0 68 68
+~
+n inventory/vegetation/flower-carnations
+s 1981 807 62 66
+o 4 0 68 68
+~
+n inventory/vegetation/flower-carnations-bulb
+s 719 1580 46 66
+o 11 0 68 68
+~
+n inventory/vegetation/flower-coxcomb
+s 1498 874 58 64
+o 7 3 68 68
+~
+n inventory/vegetation/flower-coxcomb-bulb
+s 4 1854 50 62
+o 9 0 68 68
+~
+n inventory/vegetation/flower-delphinium
+s 914 1310 32 68
+o 21 0 68 68
+~
+n inventory/vegetation/flower-delphinium-bulb
+s 1157 1527 42 64
+o 14 0 68 68
+~
+n inventory/vegetation/flower-echinacea
+s 1736 1954 34 68
+o 17 0 68 68
+~
+n inventory/vegetation/flower-echinacea-bulb
+s 63 1720 50 68
+o 4 0 68 68
+~
+n inventory/vegetation/flower-lobelia
+s 1507 943 64 58
+o 4 10 68 68
+~
+n inventory/vegetation/flower-lobelia-bulb
+s 894 1746 38 66
+o 16 0 68 68
+~
+n inventory/vegetation/flower-sunflower
+s 1533 1978 36 66
+o 17 2 68 68
+~
+n inventory/vegetation/flower-sunflower-bulb
+s 4 1424 56 68
+o 8 0 68 68
+~
+n inventory/vegetation/flower-trumpets
+s 71 1363 56 68
+o 4 0 68 68
+~
+n inventory/vegetation/flower-trumpets-bulb
+s 1168 874 48 68
+o 11 0 68 68
+~
+n inventory/vegetation/flower-tuberose
+s 1166 655 66 68
+o 2 0 68 68
+~
+n inventory/vegetation/flower-tuberose-bulb
+s 1282 1648 36 64
+o 17 0 68 68
+~
+n inventory/vegetation/grass
+s 424 2011 68 32
+o 0 36 68 68
+~
+n inventory/vegetation/jack-o-lantern
+s 324 77 68 62
+o 0 6 68 68
+~
+n inventory/vegetation/jack-o-lantern-lit
+s 397 77 68 62
+o 0 6 68 68
+~
+n inventory/vegetation/mushroom-acid
+s 1095 655 66 68
+o 2 0 68 68
+~
+n inventory/vegetation/mushroom-acid-tall
+s 1697 1954 34 68
+o 17 0 68 68
+~
+n inventory/vegetation/mushroom-amanita
+s 1024 655 66 68
+o 0 0 68 68
+~
+n inventory/vegetation/mushroom-amanita-stalk
+s 2018 4 26 68
+o 22 0 68 68
+~
+n inventory/vegetation/mushroom-anbaric
+s 339 4 68 68
+o 0 0 68 68
+~
+n inventory/vegetation/mushroom-anbaric-elder
+s 1875 1850 34 64
+o 17 4 68 68
+~
+n inventory/vegetation/mushroom-apostate
+s 715 1651 50 58
+o 8 10 68 68
+~
+n inventory/vegetation/mushroom-apostate-elder
+s 1966 1902 30 64
+o 16 4 68 68
+~
+n inventory/vegetation/mushroom-arctic
+s 193 1439 62 60
+o 4 8 68 68
+~
+n inventory/vegetation/mushroom-arctic-elder
+s 1612 1764 34 62
+o 17 6 68 68
+~
+n inventory/vegetation/mushroom-chanterelle
+s 1333 1391 64 46
+o 2 22 68 68
+~
+n inventory/vegetation/mushroom-devils-cigar
+s 1694 1059 64 54
+o 2 14 68 68
+~
+n inventory/vegetation/mushroom-hell
+s 532 1704 48 60
+o 8 8 68 68
+~
+n inventory/vegetation/mushroom-hell-elder
+s 1534 1770 34 56
+o 17 12 68 68
+~
+n inventory/vegetation/mushroom-lava
+s 187 1571 54 66
+o 6 2 68 68
+~
+n inventory/vegetation/mushroom-lava-elder
+s 914 1237 32 68
+o 17 0 68 68
+~
+n inventory/vegetation/mushroom-morel
+s 1542 1359 52 54
+o 6 14 68 68
+~
+n inventory/vegetation/mushroom-morel-elder
+s 1783 1783 34 66
+o 17 2 68 68
+~
+n inventory/vegetation/mushroom-oyster
+s 230 1921 56 46
+o 6 22 68 68
+~
+n inventory/vegetation/mushroom-porcini
+s 1471 1522 44 48
+o 11 20 68 68
+~
+n inventory/vegetation/mushroom-portabella
+s 353 1994 66 38
+o 0 30 68 68
+~
+n inventory/vegetation/mushroom-shade
+s 1914 803 62 66
+o 3 2 68 68
+~
+n inventory/vegetation/mushroom-willow
+s 1249 1505 60 44
+o 2 24 68 68
+~
+n inventory/vegetation/mushroom-willow-stalk
+s 1546 144 14 68
+o 26 0 68 68
+~
+n inventory/vegetation/mushrooms-tiny
+s 1719 1466 34 20
+o 9 48 68 68
+~
+n inventory/vegetation/pine-tree
+s 1614 1500 34 66
+o 17 2 68 68
+~
+n inventory/vegetation/pine-tree-festive
+s 912 1383 34 68
+o 17 0 68 68
+~
+n inventory/vegetation/pine-tree-festive-giant
+s 1690 1758 34 68
+o 17 0 68 68
+~
+n inventory/vegetation/pumpkin
+s 251 77 68 62
+o 0 6 68 68
+~
+n inventory/vegetation/pumpkin-giant
+s 1438 943 64 58
+o 2 10 68 68
+~
+n inventory/vegetation/pumpkin-seeds
+s 778 1327 68 52
+o 0 8 68 68
+~
+n inventory/vegetation/shrub-a
+s 146 938 64 68
+o 0 0 68 68
+~
+n inventory/vegetation/shrub-b
+s 953 655 66 68
+o 2 0 68 68
+~
+n inventory/vegetation/shrub-c
+s 323 1534 64 56
+o 0 6 68 68
+~
+n inventory/vegetation/shrub-d
+s 219 869 64 68
+o 0 0 68 68
+~
+n inventory/vegetation/shrub-dead
+s 73 1150 62 68
+o 2 0 68 68
+~
+n inventory/vegetation/shrub-e
+s 368 1810 66 42
+o 0 13 68 68
+~
+n inventory/vegetation/shrub-f
+s 1492 1978 36 66
+o 15 2 68 68
+~
+n inventory/vegetation/shrub-g
+s 77 931 64 68
+o 2 0 68 68
+~
+n inventory/vegetation/tree-bonsai
+s 1988 734 56 68
+o 8 0 68 68
+~
+n inventory/vegetation/tree-bonsai-bulb
+s 656 1091 58 66
+o 7 0 68 68
+~
+n inventory/vegetation/tree-dead-roots-1
+s 1711 150 68 68
+o 0 0 68 68
+~
+n inventory/vegetation/tree-dead-roots-2
+s 1711 150 68 68
+o 0 0 68 68
+~
+n inventory/vegetation/tree-dead-top-1
+s 1960 1630 32 60
+o 16 8 68 68
+~
+n inventory/vegetation/tree-dead-top-2
+s 1729 1617 30 44
+o 21 24 68 68
+~
+n inventory/vegetation/tree-dead-trunk
+s 77 858 64 68
+o 0 0 68 68
+~
+n inventory/vegetation/tree-hellish
+s 1158 1312 48 66
+o 8 2 68 68
+~
+n inventory/vegetation/tree-hellish-bulb
+s 1566 1679 40 44
+o 14 11 68 68
+~
+n inventory/vegetation/tumbleweed
+s 232 1749 58 54
+o 7 14 68 68
+~
+n shop/banner
+s 425 1968 68 38
+o 0 5 68 68
+~
+n shop/banner-diamond
+s 230 1868 56 48
+o 12 0 68 68
+~
+n shop/banner-text-diamond
+s 1653 1573 46 17
+o 21 14 68 69
+~
+n shop/banner-text-mini
+s 1798 1922 42 19
+o 22 12 68 69
+~
+n shop/banner-text-mk2
+s 1681 1595 44 17
+o 21 14 68 69
+~
+n shop/banner-text-mk3
+s 1770 2027 46 17
+o 20 14 68 69
+~
+n shop/banner-text-onyx
+s 1710 1718 42 17
+o 22 14 68 69
+~
+n shop/banner-text-sale
+s 1821 2019 44 18
+o 21 12 68 68
+~
+n shop/banner-text-xl
+s 1416 1746 62 27
+o 0 9 68 69
+~
+n shop/battle-pack
+s 1416 1260 54 54
+o 0 0 54 54
+~
+n shop/biome-arctic
+s 305 144 68 68
+o 0 0 68 68
+~
+n shop/biome-brain
+s 266 4 68 68
+o 0 0 68 68
+~
+n shop/biome-deep
+s 232 145 68 68
+o 0 0 68 68
+~
+n shop/biome-desert
+s 77 203 68 68
+o 0 0 68 68
+~
+n shop/biome-hell
+s 4 203 68 68
+o 0 0 68 68
+~
+n shop/biome-mini
+s 1763 1114 64 50
+o 2 7 68 68
+~
+n shop/biome-multi
+s 215 1015 62 68
+o 3 0 68 68
+~
+n shop/biome-normal
+s 193 4 68 68
+o 0 0 68 68
+~
+n shop/biome-ocean
+s 159 145 68 68
+o 0 0 68 68
+~
+n shop/biome-space
+s 791 868 66 64
+o 1 2 68 68
+~
+n shop/building-pack
+s 644 1880 54 48
+o 0 6 54 54
+~
+n shop/exploring-pack
+s 1541 1418 52 48
+o 0 4 54 54
+~
+n shop/mining-pack
+s 1251 1993 48 50
+o 3 3 54 54
+~
+n shop/outfit-admiral
+s 1323 1648 42 54
+o 6 0 54 54
+~
+n shop/outfit-android
+s 711 1714 54 50
+o 0 1 54 54
+~
+n shop/outfit-brain
+s 1548 1302 54 52
+o 0 1 54 54
+~
+n shop/outfit-diving
+s 1680 1352 52 54
+o 0 0 54 54
+~
+n shop/outfit-mystic
+s 1400 1984 44 54
+o 5 0 54 54
+~
+n shop/outfit-parka
+s 843 1629 52 54
+o 1 0 54 54
+~
+n shop/outfit-pirate
+s 1550 1939 54 34
+o 0 10 54 54
+~
+n shop/outfit-royalty
+s 1314 1534 54 46
+o 0 4 54 54
+~
+n shop/outfit-scientist
+s 709 1769 52 50
+o 1 2 54 54
+~
+n shop/private-world
+s 1446 1778 44 50
+o 4 4 54 54
+~

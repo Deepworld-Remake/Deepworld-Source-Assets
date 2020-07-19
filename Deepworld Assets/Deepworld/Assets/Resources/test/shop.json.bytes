@@ -1,0 +1,1422 @@
+{
+    "sections": [
+        {
+            "name": "Home",
+            "icon": "icon-home",
+            "banner": {
+                "image": null
+            },
+            "top_items": [
+                "private-world",
+                "power-up-pack"
+            ],
+            "items": [
+                "premium",
+                "crowns_tier_0",
+                "crowns_tier_1",
+                "crowns_tier_2",
+                "crowns_tier_3",
+                "crowns_tier_4",
+                "crowns_tier_5"
+            ]
+        },
+        {
+            "name": "Worlds and Development",
+            "icon": "icon-world",
+            "items": [
+                "private-world",
+                "private-world-arctic",
+                "private-world-desert",
+                "private-world-deep",
+                "private-world-hell",
+                "teleporter",
+                "giga-protector",
+                "mega-protector",
+                "large-protector",
+                "small-protector",
+                "micro-protector-pack",
+                "guild"
+            ]
+        },
+        {
+            "name": "Tools and Accessories",
+            "icon": "icon-profile-equipment",
+            "items": [
+                "power-pack",
+                "mining-pack",
+                "exploring-pack",
+                "survival-pack",
+                "engineering-pack",
+                "automata-pack",
+                "brass-exo-torso",
+                "brass-exo-legs",
+                "brass-exo-headset",
+                "diamond-exo-torso",
+                "diamond-exo-legs",
+                "diamond-exo-headset",
+                "onyx-exo-torso",
+                "onyx-exo-legs",
+                "onyx-exo-headset",
+                "exo-skin",
+                "dowsing-rod",
+                "toolbelt",
+                "rebreather",
+                "butler-extender",
+                "construction-claw"
+            ]
+        },
+        {
+            "name": "Weapons",
+            "icon": "icon-gun",
+            "items": [
+                "battle-pack",
+                "trap-pack",
+                "bomb-pack",
+                "pandora-pack",
+                "diamond-weapon-kit",
+                "onyx-weapon-kit",
+                "small-spawner",
+                "large-spawner"
+            ]
+        },
+        {
+            "name": "Avatar",
+            "icon": "icon-wardrobe",
+            "items": [
+                "name-change",
+                "wardrobe-pirate-pack",
+                "wardrobe-scientist-pack",
+                "wardrobe-admiral-pack",
+                "wardrobe-arctic-pack",
+                "wardrobe-diving-pack",
+                "wardrobe-mystic-pack",
+                "wardrobe-brain-pack",
+                "wardrobe-android-pack",
+                "wardrobe-royalty-pack",
+                "emotions-pack",
+                "dance-pack",
+                "dance-pack-2",
+                "dance-pack-3",
+                "makeup-kit"
+            ]
+        },
+        {
+            "name": "Resources",
+            "icon": "icon-swirl",
+            "items": [
+                "skill-book",
+                "brain-wine",
+                "skill-reset",
+                "building-pack",
+                "portable-teleporter-pack",
+                "stealth-pack",
+                "power-up-pack",
+                "cat-pack",
+                "dog-pack",
+                "brass-butler-pack",
+                "diamond-butler-pack",
+                "onyx-butler-pack"
+            ]
+        }
+    ],
+    "items": [
+        {
+            "key": "premium-pack",
+            "name": "Premium Pack",
+            "cost": 150,
+            "description": "Kickstart your Deepworld adventure with access to premium worlds, new skills, and a pack full of useful items! Note: this item is not tradeable.",
+            "image": "inventory/consumables/gift",
+            "inventory": [
+                [
+                    "consumables/premium-upgrade",
+                    1
+                ],
+                [
+                    "mechanical/dish",
+                    1
+                ],
+                [
+                    "mechanical/dish-micro",
+                    5
+                ],
+                [
+                    "consumables/jerky-power",
+                    10
+                ],
+                [
+                    "consumables/canister",
+                    10
+                ]
+            ]
+        },
+        {
+            "key": "private-world",
+            "name": "Private World",
+            "description": "Claim your own untouched world! Get all the resources, loot, and exploration you'll ever need. You can even invite friends to come visit and settle with you... or just keep it all to yourself!",
+            "cost": 500,
+            "image": "shop/biome-normal",
+            "category": "worlds"
+        },
+        {
+            "key": "private-world-arctic",
+            "name": "Private Arctic World",
+            "description": "Claim your own untouched arctic world! Get all the resources, loot, and unique arctic goodies you need. You can even invite friends to come visit and settle with you... or just keep it all to yourself!",
+            "cost": 500,
+            "image": "shop/biome-arctic",
+            "category": "worlds"
+        },
+        {
+            "key": "private-world-desert",
+            "name": "Private Desert World",
+            "description": "Claim your own untouched desert world! Get all the resources, loot, and unique desert goodies you need. You can even invite friends to come visit and settle with you... or just keep it all to yourself!",
+            "cost": 500,
+            "image": "shop/biome-desert",
+            "category": "worlds"
+        },
+        {
+            "key": "private-world-deep",
+            "name": "Private Deep World",
+            "description": "Claim your own untouched deep world! Get all the resources, loot, and unique deep goodies you need. Invite friends to come visit and settle with you, or just keep it all to yourself! Note: mining level 5 is required to do any digging in this world.",
+            "cost": 500,
+            "image": "shop/biome-deep",
+            "category": "worlds"
+        },
+        {
+            "key": "private-world-hell",
+            "name": "Private Hell World",
+            "description": "Claim your own untouched hell world! Get all the resources, loot, and unique hellish goodies you need. You can even invite friends to come visit and settle with you... or just keep it all to yourself!",
+            "cost": 500,
+            "image": "shop/biome-hell",
+            "category": "worlds"
+        },
+        {
+            "key": "power-pack",
+            "name": "Power Pack",
+            "cost": 400,
+            "description": "It's time to get serious! Kick major ass with this pack of powerful skill boosters - and the mighty energy cannon.",
+            "image": "inventory/accessories/glove-onyx",
+            "inventory": [
+                [
+                    "accessories/glove-onyx",
+                    1
+                ],
+                [
+                    "accessories/compressor-onyx",
+                    1
+                ],
+                [
+                    "accessories/rabbitfoot",
+                    1
+                ],
+                [
+                    "accessories/jetpack-brass",
+                    1
+                ],
+                [
+                    "tools/gun-energy",
+                    1
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "battle-pack",
+            "name": "Battle Pack",
+            "cost": 300,
+            "description": "It's dangerous out there! Prepare yourself for battle with this selection of guns and protective devices.",
+            "image": "shop/battle-pack",
+            "inventory": [
+                [
+                    "tools/gun-flame",
+                    1
+                ],
+                [
+                    "tools/gun-frost",
+                    1
+                ],
+                [
+                    "consumables/canister",
+                    15
+                ],
+                [
+                    "ammo/bullets",
+                    25
+                ],
+                [
+                    "shields/force",
+                    1
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "mining-pack",
+            "name": "Mining Pack",
+            "cost": 275,
+            "description": "Get a jumpstart on your spelunking adventures with this mining pack! Braving the depths is always easier with some hardy gear.",
+            "image": "shop/mining-pack",
+            "inventory": [
+                [
+                    "tools/pickaxe-onyx",
+                    1
+                ],
+                [
+                    "accessories/flashlight-onyx",
+                    1
+                ],
+                [
+                    "accessories/glove",
+                    1
+                ],
+                [
+                    "building/plug",
+                    25
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "exploring-pack",
+            "name": "Exploring Pack",
+            "cost": 300,
+            "description": "Getting around Deepworld is easier with the right tools. Get this awesome set of tools and be the next Magellan!",
+            "image": "shop/exploring-pack",
+            "inventory": [
+                [
+                    "accessories/jetpack-onyx",
+                    1
+                ],
+                [
+                    "accessories/pocketwatch-onyx",
+                    1
+                ],
+                [
+                    "shields/acid",
+                    1
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "survival-pack",
+            "name": "Survival Pack",
+            "cost": 300,
+            "description": "It's a tough world out there! Boost your survival and stamina and rock out a bit longer.",
+            "image": "inventory/accessories/army-knife-onyx",
+            "inventory": [
+                [
+                    "accessories/army-knife-onyx",
+                    1
+                ],
+                [
+                    "accessories/conch",
+                    1
+                ],
+                [
+                    "accessories/compressor",
+                    1
+                ],
+                [
+                    "consumables/jerky-power",
+                    25
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "engineering-pack",
+            "name": "Engineering Pack",
+            "cost": 300,
+            "description": "Bring your grand designs to life with this pack of building and engineering boosters. It's all for science!",
+            "image": "inventory/accessories/abacus",
+            "inventory": [
+                [
+                    "accessories/abacus",
+                    1
+                ],
+                [
+                    "accessories/t-square",
+                    1
+                ],
+                [
+                    "accessories/schematic",
+                    2
+                ],
+                [
+                    "ground/quartz-ore",
+                    25
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "automata-pack",
+            "name": "Automata Pack",
+            "cost": 300,
+            "description": "Tinker and experiment with the quirky mechanical creatures of Deepworld. Boost your automata skill and gain an android companion!",
+            "image": "inventory/accessories/memory",
+            "inventory": [
+                [
+                    "accessories/interface",
+                    1
+                ],
+                [
+                    "containers/android",
+                    1
+                ],
+                [
+                    "accessories/schematic",
+                    1
+                ],
+                [
+                    "ground/ectoplasm",
+                    25
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "trap-pack",
+            "name": "Trap Pack",
+            "cost": 200,
+            "description": "Other players bothering you? Pick up this trap pack and deck your creations out with a collection of nasty turrets and traps!",
+            "image": "inventory/mechanical/turret-flame",
+            "inventory": [
+                [
+                    "mechanical/turret-flame",
+                    3
+                ],
+                [
+                    "mechanical/turret-acid",
+                    5
+                ],
+                [
+                    "mechanical/turret-fire",
+                    5
+                ],
+                [
+                    "mechanical/turret-pistol",
+                    5
+                ],
+                [
+                    "mechanical/spikes",
+                    40
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "building-pack",
+            "name": "Building Pack",
+            "cost": 150,
+            "description": "Get started faster on your own personal town or city with this huge bundle of resources!",
+            "image": "shop/building-pack",
+            "inventory": [
+                [
+                    "building/wood",
+                    150
+                ],
+                [
+                    "building/iron",
+                    100
+                ],
+                [
+                    "building/brass",
+                    100
+                ],
+                [
+                    "building/copper",
+                    100
+                ],
+                [
+                    "ground/clay",
+                    100
+                ],
+                [
+                    "back/paper",
+                    100
+                ],
+                [
+                    "back/glass-divided",
+                    100
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "skill-book",
+            "name": "Skill Book",
+            "description": "Upgrade any skill by one point with this lovely tome of knowledge! Note: each skill can only be upgraded once via books, and only to Level 10.",
+            "image": "inventory/consumables/book-skill",
+            "cost": 100,
+            "inventory": [
+                [
+                    "consumables/book-skill",
+                    1
+                ]
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "brain-wine",
+            "name": "Brain Wine",
+            "description": "Upgrade any skill by one point with this carefully brewed essence of brain! Note: each skill can only be upgraded once via brain wine, and only to Level 10.",
+            "image": "inventory/consumables/brain-wine",
+            "cost": 100,
+            "inventory": [
+                [
+                    "consumables/brain-wine",
+                    1
+                ]
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "skill-reset",
+            "name": "Skill Reset",
+            "description": "Go back in time a little with this handy skill reset! Reclaim one skill point from each skill and re-apply them however you like.",
+            "image": "inventory/consumables/skill-reset",
+            "cost": 100,
+            "inventory": [
+                [
+                    "consumables/skill-reset",
+                    1
+                ]
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "guild",
+            "name": "Guild Obelisk",
+            "description": "Start your own guild with this imposing obelisk! Manage guild membership and get an official guild designation next to your name.",
+            "image": "inventory/signs/guild",
+            "cost": 250,
+            "inventory": [
+                [
+                    "signs/guild",
+                    1
+                ]
+            ],
+            "category": "social"
+        },
+        {
+            "key": "teleporter",
+            "name": "Teleporter",
+            "description": "Drop a teleporter to allow quick access to your home or anywhere else.",
+            "image": "inventory/mechanical/teleporter",
+            "cost": 40,
+            "inventory": [
+                [
+                    "mechanical/teleporter",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "giga-protector",
+            "name": "Giga Protector",
+            "description": "Protect your creations and valuables from being mined by other players.",
+            "image": "inventory/mechanical/dish-giga",
+            "cost": 225,
+            "inventory": [
+                [
+                    "mechanical/dish-giga",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "mega-protector",
+            "name": "Mega Protector",
+            "description": "Protect your creations and valuables from being mined by other players.",
+            "image": "inventory/mechanical/dish-mega",
+            "cost": 125,
+            "inventory": [
+                [
+                    "mechanical/dish-mega",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "large-protector",
+            "name": "Large Protector",
+            "description": "Protect your creations and valuables from being mined by other players.",
+            "image": "inventory/mechanical/dish-large",
+            "cost": 50,
+            "inventory": [
+                [
+                    "mechanical/dish-large",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "small-protector",
+            "name": "Small Protector",
+            "description": "Protect your creations and valuables from being mined by other players.",
+            "image": "inventory/mechanical/dish",
+            "cost": 20,
+            "inventory": [
+                [
+                    "mechanical/dish",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "micro-protector-pack",
+            "name": "Micro Protector Pack",
+            "description": "Protect your creations and valuables from being mined by other players.",
+            "image": "inventory/mechanical/dish-micro",
+            "cost": 20,
+            "inventory": [
+                [
+                    "mechanical/dish-micro",
+                    4
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "bomb-pack",
+            "name": "Bomb Pack",
+            "cost": 40,
+            "description": "Demolition has never been easier than with this grab bag of awesome explosives!",
+            "image": "inventory/mechanical/bomb-large",
+            "inventory": [
+                [
+                    "mechanical/bomb",
+                    5
+                ],
+                [
+                    "mechanical/bomb-incendiary",
+                    3
+                ],
+                [
+                    "mechanical/bomb-electric",
+                    3
+                ],
+                [
+                    "mechanical/bomb-large",
+                    2
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "pandora-pack",
+            "name": "Pandora's Box",
+            "cost": 40,
+            "description": "Unleash the chaos of Pandora to claim victory - and loot! Comes with bonus jerky to help survive the onslaught.",
+            "image": "inventory/containers/pandora",
+            "inventory": [
+                [
+                    "containers/pandora",
+                    1
+                ],
+                [
+                    "consumables/jerky-power",
+                    5
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "portable-teleporter-pack",
+            "name": "Portable Teleporter Pack",
+            "cost": 30,
+            "description": "Transmit yourself across great distances without worrying about lugging around a big ol' teleporter!",
+            "image": "inventory/consumables/teleporter",
+            "inventory": [
+                [
+                    "consumables/teleporter",
+                    6
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "stealth-pack",
+            "name": "Stealth Pack",
+            "cost": 30,
+            "description": "Sneak around like a pro with this collection of stealth cloaks. Those brains won't know you were ever there!",
+            "image": "inventory/consumables/cloak",
+            "inventory": [
+                [
+                    "consumables/cloak",
+                    8
+                ]
+            ]
+        },
+        {
+            "key": "power-up-pack",
+            "name": "Jerky Pack",
+            "cost": 10,
+            "description": "Grab a quick bite to eat and keep your place in battle with this stash of extra jerky!",
+            "image": "inventory/consumables/jerky",
+            "inventory": [
+                [
+                    "consumables/jerky",
+                    10
+                ],
+                [
+                    "consumables/jerky-power",
+                    5
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "cat-pack",
+            "name": "Mechanical Cat",
+            "cost": 125,
+            "description": "Get your very own feline friend with this handy cat crate. Guaranteed to be 100% as lazy as a living cat!",
+            "image": "inventory/containers/cat",
+            "inventory": [
+                [
+                    "containers/cat",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "dog-pack",
+            "name": "Mechanical Dog",
+            "cost": 125,
+            "description": "Get your very own canine friend with this handy dog crate. Just as fun as a real dog, but without having to pick up poop!",
+            "image": "inventory/containers/dog",
+            "inventory": [
+                [
+                    "containers/dog",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "diamond-weapon-kit",
+            "name": "Diamond Weapon Upgrade Kit",
+            "cost": 150,
+            "description": "Boost the power on your guns for an extra edge in combat! Upgrade from Mark I to Mark II, or Mark II to Mark III.",
+            "image": "inventory/consumables/weapon-upgrade-diamond",
+            "inventory": [
+                [
+                    "consumables/weapon-upgrade-diamond",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "onyx-weapon-kit",
+            "name": "Onyx Weapon Upgrade Kit",
+            "cost": 250,
+            "description": "Accelerate the power of any Mark I gun directly to Mark III! Nothing will stand in your way as you blast with impunity.",
+            "image": "inventory/consumables/weapon-upgrade-onyx",
+            "inventory": [
+                [
+                    "consumables/weapon-upgrade-onyx",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "brass-butler-pack",
+            "name": "Brass Butler Pack",
+            "cost": 150,
+            "description": "Need a hand? Butler Bot is here to help! Your new best friend can help you mine, build, blast, and more! (Requires automata skill 3)",
+            "image": "inventory/mechanical/butler-brass",
+            "inventory": [
+                [
+                    "mechanical/butler-brass",
+                    1
+                ],
+                [
+                    "accessories/program",
+                    2
+                ],
+                [
+                    "ground/ectoplasm",
+                    10
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "diamond-butler-pack",
+            "name": "Diamond Butler Pack",
+            "cost": 250,
+            "description": "Diamond Butler Bots are a faster and more advanced version of their brass cousin. Transport acid, blast, and more! (Requires automata skill 4)",
+            "image": "inventory/mechanical/butler-diamond",
+            "inventory": [
+                [
+                    "mechanical/butler-diamond",
+                    1
+                ],
+                [
+                    "accessories/program",
+                    2
+                ],
+                [
+                    "ground/ectoplasm",
+                    15
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "onyx-butler-pack",
+            "name": "Onyx Butler Pack",
+            "cost": 350,
+            "description": "Onyx Butler Bots are the finest of personal automata technology. Their advanced abilities and longevity are the envy of all other bots! (Requires automata skill 5)",
+            "image": "inventory/mechanical/butler-onyx",
+            "inventory": [
+                [
+                    "mechanical/butler-onyx",
+                    1
+                ],
+                [
+                    "accessories/program",
+                    2
+                ],
+                [
+                    "ground/ectoplasm",
+                    20
+                ]
+            ],
+            "category": "accessories"
+        },
+        {
+            "key": "brass-exo-torso",
+            "name": "Brass Exotorso",
+            "cost": 150,
+            "description": "Boost your staying power and look great with a shiny brass exotorso! Offers +1 to stamina and mining, plus faster health regeneration.",
+            "image": "inventory/prosthetics/brass-torso",
+            "inventory": [
+                [
+                    "prosthetics/brass-torso",
+                    1
+                ]
+            ],
+            "prohibit_inventory": [
+                "prosthetics/brass-torso",
+                "prosthetics/diamond-torso",
+                "prosthetics/onyx-torso"
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "brass-exo-legs",
+            "name": "Brass Exoleg",
+            "cost": 150,
+            "description": "Kick your agility and survival skills up +1 with these shiny brass exolegs. You'll also love the powerful new stomp attack and foot damage reduction.",
+            "image": "inventory/prosthetics/brass-legs",
+            "inventory": [
+                [
+                    "prosthetics/brass-legs",
+                    1
+                ]
+            ],
+            "prohibit_inventory": [
+                "prosthetics/brass-legs",
+                "prosthetics/diamond-legs",
+                "prosthetics/onyx-legs"
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "brass-exo-headset",
+            "name": "Brass Headset",
+            "cost": 125,
+            "description": "Give your perception and engineering skills a +1 bump and improve low-light visibility with this fancy brass headset!",
+            "image": "inventory/prosthetics/brass-headset",
+            "inventory": [
+                [
+                    "prosthetics/brass-headset",
+                    1
+                ]
+            ],
+            "prohibit_inventory": [
+                "prosthetics/brass-headset",
+                "prosthetics/diamond-headset",
+                "prosthetics/onyx-headset"
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "diamond-exo-torso",
+            "name": "Diamond Exotorso",
+            "cost": 250,
+            "description": "Double down on your stamina power with this glowing mantle of protection! Offers +2 stamina, +1 mining, and fast health regeneration.",
+            "image": "inventory/prosthetics/diamond-torso",
+            "inventory": [
+                [
+                    "prosthetics/diamond-torso",
+                    1
+                ]
+            ],
+            "prohibit_inventory": [
+                "prosthetics/diamond-torso",
+                "prosthetics/onyx-torso"
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "diamond-exo-legs",
+            "name": "Diamond Exoleg",
+            "cost": 250,
+            "description": "Max your speed and damage reductions with these brilliant leg attachments. Get +2 agility, +1 survival, and enhanced stomp attacks and foot protection.",
+            "image": "inventory/prosthetics/diamond-legs",
+            "inventory": [
+                [
+                    "prosthetics/diamond-legs",
+                    1
+                ]
+            ],
+            "prohibit_inventory": [
+                "prosthetics/diamond-legs",
+                "prosthetics/onyx-legs"
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "diamond-exo-headset",
+            "name": "Diamond Headset",
+            "cost": 225,
+            "description": "Blast your perception skill +2 into overdrive and engineering by +1. Your zoom view and low-light vision will give you the ultimate edge!",
+            "image": "inventory/prosthetics/diamond-headset",
+            "inventory": [
+                [
+                    "prosthetics/diamond-headset",
+                    1
+                ]
+            ],
+            "prohibit_inventory": [
+                "prosthetics/diamond-headset",
+                "prosthetics/onyx-headset"
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "onyx-exo-torso",
+            "name": "Onyx Exotorso",
+            "cost": 350,
+            "description": "Own the ultimate body suit and launch your stamina and mining skills with a +2 bonus. And with a triple-speed health regen rate, you'll be unstoppable on the battlefield!",
+            "image": "inventory/prosthetics/onyx-torso",
+            "inventory": [
+                [
+                    "prosthetics/onyx-torso",
+                    1
+                ]
+            ],
+            "prohibit_inventory": [
+                "prosthetics/onyx-torso"
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "onyx-exo-legs",
+            "name": "Onyx Exoleg",
+            "cost": 350,
+            "description": "Kick danger in the face with the finest exoleg available! Boost your agility and survival skills by +2 and deal powerful blows with your deadly feet.",
+            "image": "inventory/prosthetics/onyx-legs",
+            "inventory": [
+                [
+                    "prosthetics/onyx-legs",
+                    1
+                ]
+            ],
+            "prohibit_inventory": [
+                "prosthetics/onyx-legs"
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "onyx-exo-headset",
+            "name": "Onyx Headset",
+            "cost": 325,
+            "description": "Integrate your mind with the most powerful headgear around! Your +2 bonus to perception and engineering will leave even Google Glass feeling inadequate.",
+            "image": "inventory/prosthetics/onyx-headset",
+            "inventory": [
+                [
+                    "prosthetics/onyx-headset",
+                    1
+                ]
+            ],
+            "prohibit_inventory": [
+                "prosthetics/onyx-headset"
+            ],
+            "category": "skills"
+        },
+        {
+            "key": "small-spawner",
+            "name": "Spawner",
+            "description": "Summon guardians, pets, or just subjects for your mad experiments with this handy spawner! Pick from a variety of mobs and connect to a switch. Note: spawned mobs do not drop loot.",
+            "image": "inventory/mechanical/spawner-small",
+            "cost": 40,
+            "inventory": [
+                [
+                    "mechanical/spawner-small",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "large-spawner",
+            "name": "Large Spawner",
+            "description": "Summon guardians, pets, or just subjects for your mad experiments with this handy spawner! Pick from a variety of mobs and connect to a switch. Note: spawned mobs do not drop loot.",
+            "image": "inventory/mechanical/spawner",
+            "cost": 80,
+            "inventory": [
+                [
+                    "mechanical/spawner",
+                    1
+                ]
+            ],
+            "category": "consumables"
+        },
+        {
+            "key": "wardrobe-pirate-pack",
+            "name": "Pirate Pack",
+            "cost": 100,
+            "description": "Ahoy, matey! Every day is Talk Like a Pirate Day when you grab this pirate wardrobe pack. Pirate ship sold separately.",
+            "image": "shop/outfit-pirate",
+            "inventory": [
+                [
+                    "headgear/pirate",
+                    1
+                ],
+                [
+                    "facialgear/eyepatch",
+                    1
+                ],
+                [
+                    "tops/pirate",
+                    1
+                ],
+                [
+                    "tops/pirate-lady",
+                    1
+                ],
+                [
+                    "footwear/pirate-boots",
+                    1
+                ]
+            ],
+            "category": "wardrobe"
+        },
+        {
+            "key": "wardrobe-scientist-pack",
+            "name": "Mad Scientist Pack",
+            "cost": 100,
+            "description": "Show off your commitment to invention (and possibly world domination) with this pack of mad scientist apparel! You'll make Tesla proud.",
+            "image": "shop/outfit-scientist",
+            "inventory": [
+                [
+                    "headgear/mad-scientist",
+                    1
+                ],
+                [
+                    "tops/mad-scientist",
+                    1
+                ],
+                [
+                    "facialgear/mad-scientist",
+                    1
+                ]
+            ],
+            "category": "wardrobe"
+        },
+        {
+            "key": "wardrobe-admiral-pack",
+            "name": "Admiral Pack",
+            "cost": 100,
+            "description": "Project your innate leadership with this collection of fine military clothing. Guaranteed to make pirates shiver their timbers!",
+            "image": "shop/outfit-admiral",
+            "inventory": [
+                [
+                    "headgear/admiral",
+                    1
+                ],
+                [
+                    "tops/admiral",
+                    1
+                ],
+                [
+                    "bottoms/pants-dandy",
+                    1
+                ]
+            ],
+            "category": "wardrobe"
+        },
+        {
+            "key": "wardrobe-arctic-pack",
+            "name": "Arctic Pack",
+            "cost": 200,
+            "description": "Keep warm with this enviable pack of toasty threads! You can be both cozy and stylish without a breaking a sweat.",
+            "image": "shop/outfit-parka",
+            "inventory": [
+                [
+                    "headgear/parka",
+                    1
+                ],
+                [
+                    "tops/parka",
+                    1
+                ],
+                [
+                    "footwear/snow-boots",
+                    1
+                ]
+            ],
+            "category": "wardrobe"
+        },
+        {
+            "key": "wardrobe-diving-pack",
+            "name": "Diving Pack",
+            "cost": 200,
+            "description": "Brave the ocean deeps more easily with this functional diving gear! You'll be twenty thousand and one leagues under the sea in no time.",
+            "image": "shop/outfit-diving",
+            "inventory": [
+                [
+                    "headgear/diving-helmet",
+                    1
+                ],
+                [
+                    "tops/diving-suit",
+                    1
+                ],
+                [
+                    "bottoms/diving-suit",
+                    1
+                ],
+                [
+                    "footwear/diving-suit",
+                    1
+                ]
+            ],
+            "category": "wardrobe"
+        },
+        {
+            "key": "wardrobe-mystic-pack",
+            "name": "Mystic Pack",
+            "cost": 200,
+            "description": "Channel your inner spiritual powers with this fancy outfit! You might not scare revenants away, but at least you'll look like you can.",
+            "image": "shop/outfit-mystic",
+            "inventory": [
+                [
+                    "headgear/mystic",
+                    1
+                ],
+                [
+                    "facialgear/masks/venetian",
+                    1
+                ],
+                [
+                    "tops/mystic",
+                    1
+                ]
+            ],
+            "category": "wardrobe"
+        },
+        {
+            "key": "wardrobe-brain-pack",
+            "name": "Brain Pack",
+            "cost": 200,
+            "description": "Brains may have destroyed the world, but sometimes you just gotta love 'em. Show off your bizarre affection with these cerebral accents.",
+            "image": "shop/outfit-brain",
+            "inventory": [
+                [
+                    "headgear/brain-hat",
+                    1
+                ],
+                [
+                    "tops/brain-shirt",
+                    1
+                ]
+            ],
+            "category": "wardrobe"
+        },
+        {
+            "key": "wardrobe-android-pack",
+            "name": "Android Pack",
+            "cost": 200,
+            "description": "With this delightfully brassy clothing pack, you can disguise yourself as one of Deepworld's finest androids. Pithy one-liners not included.",
+            "image": "shop/outfit-android",
+            "inventory": [
+                [
+                    "headgear/android",
+                    1
+                ],
+                [
+                    "tops/android",
+                    1
+                ],
+                [
+                    "bottoms/android",
+                    1
+                ]
+            ],
+            "category": "wardrobe"
+        },
+        {
+            "key": "wardrobe-royalty-pack",
+            "name": "Royalty Pack",
+            "cost": 300,
+            "description": "Not everyone can be King, but you can at least be a Duke with these exceedingly rare royal robes. Sometimes you just have to flaunt it!",
+            "image": "shop/outfit-royalty",
+            "inventory": [
+                [
+                    "bottoms/royal",
+                    1
+                ],
+                [
+                    "tops/royal",
+                    1
+                ],
+                [
+                    "headgear/crown",
+                    1
+                ]
+            ],
+            "category": "wardrobe"
+        },
+        {
+            "key": "emotions-pack",
+            "name": "Emotion Pack",
+            "cost": 100,
+            "description": "Wear your heart on your sleeve with this collection of emotional emotes. Displaying your annoyance after a botched trade has never been easiser!",
+            "image": "inventory/emotes/tantrum",
+            "inventory": [
+                [
+                    "emotes/beg",
+                    1
+                ],
+                [
+                    "emotes/tantrum",
+                    1
+                ],
+                [
+                    "emotes/put-em-up",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "dance-pack",
+            "name": "Dance Pack I",
+            "cost": 100,
+            "description": "Dance the night away with this collection of groovin' emotes! Your fleet feet will be the envy of every other player on the dance floor.",
+            "image": "inventory/emotes/dance-singleladies",
+            "inventory": [
+                [
+                    "emotes/dance-monkey",
+                    1
+                ],
+                [
+                    "emotes/dance-swim",
+                    1
+                ],
+                [
+                    "emotes/dance-singleladies",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "dance-pack-2",
+            "name": "Dance Pack II",
+            "cost": 150,
+            "description": "Dance the night away with this collection of groovin' emotes! Your fleet feet will be the envy of every other player on the dance floor.",
+            "image": "inventory/emotes/dance-snoopy",
+            "inventory": [
+                [
+                    "emotes/dance-snoopy",
+                    1
+                ],
+                [
+                    "emotes/dance-peanuts-1",
+                    1
+                ],
+                [
+                    "emotes/dance-cancan",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "dance-pack-3",
+            "name": "Dance Pack III",
+            "cost": 200,
+            "description": "Dance the night away with these super agile emotes! Your fantastic flexibility will convince any naysayer that you're a world-class dancer.",
+            "image": "inventory/emotes/dance-splits",
+            "inventory": [
+                [
+                    "emotes/dance-splits",
+                    1
+                ],
+                [
+                    "emotes/dance-ballet",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "name-change",
+            "name": "Name Change",
+            "cost": 50,
+            "description": "Want to change your player name? Grab this handy name tag and get creative!",
+            "image": "inventory/consumables/name-change",
+            "inventory": [
+                [
+                    "consumables/name-change",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "makeup-kit",
+            "name": "Makeup Kit",
+            "cost": 350,
+            "description": "Revolutionize your look with all new skin tones and hair colors. Your friends will be green with envy once you're actually green! Notes: this item is not tradeable. Does not need to be equipped to function.",
+            "image": "inventory/accessories/makeup",
+            "inventory": [
+                [
+                    "accessories/makeup",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "exo-skin",
+            "name": "Exo Skin",
+            "cost": 500,
+            "description": "Avoid environmental and liquid damage with this powerful exo barrier. Acid swims and hellish rains will never feel more delightful! Note: this item is not tradeable.",
+            "image": "inventory/accessories/exo-skin",
+            "inventory": [
+                [
+                    "accessories/exo-skin",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "dowsing-rod",
+            "name": "Dowsing Rod",
+            "cost": 500,
+            "description": "Accelerate your mining gains with this dowsing rod! You'll come across rich veins of ore twice as frequently when equipped. Note: this item is not tradeable.",
+            "image": "inventory/accessories/dowsing-rod",
+            "inventory": [
+                [
+                    "accessories/dowsing-rod",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "toolbelt",
+            "name": "Toolbelt",
+            "cost": 500,
+            "description": "Unlock five additional accessory slots with this handy toolbelt. You'll never have to swap tools again to stay on top of your game! Note: this item is not tradeable. Does not need to be equipped to function.",
+            "image": "inventory/accessories/toolbelt",
+            "inventory": [
+                [
+                    "accessories/toolbelt",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "rebreather",
+            "name": "Rebreather",
+            "cost": 500,
+            "description": "Never lose breath with this highly efficient rebreather! Your ocean swims can be a nice relaxing time (just watch out for piranhas!) Note: this item is not tradeable.",
+            "image": "inventory/accessories/breathing-apparatus",
+            "inventory": [
+                [
+                    "accessories/breathing-apparatus",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "butler-extender",
+            "name": "Butler Charger",
+            "cost": 600,
+            "description": "Keep your Butler around for 50% longer per charge with this convenient device. It's always good to have a mechanical friend around! Notes: This item is not tradeable.",
+            "image": "inventory/accessories/butler-extender",
+            "inventory": [
+                [
+                    "accessories/butler-extender",
+                    1
+                ]
+            ]
+        },
+        {
+            "key": "construction-claw",
+            "name": "Construction Claw",
+            "cost": 750,
+            "description": "Double your placing and construction reach with this powerful tool! Be the best builder (or bomber) you can be. Note: this item is not tradeable.",
+            "image": "inventory/accessories/building-extender",
+            "inventory": [
+                [
+                    "accessories/building-extender",
+                    1
+                ]
+            ]
+        }
+    ],
+    "currency": {
+        "crowns_tier_0": {
+            "identifier": "crowns_tier_0",
+            "title": "100 crowns",
+            "price": "1.99",
+            "description": "100 crowns (can be used to obtain private worlds, protectors, and more)",
+            "quantity": 100
+        },
+        "crowns_tier_1": {
+            "identifier": "crowns_tier_1",
+            "title": "250 crowns",
+            "price": "4.99",
+            "description": "250 crowns (can be used to obtain private worlds, protectors, and more)",
+            "quantity": 250
+        },
+        "crowns_tier_3": {
+            "identifier": "crowns_tier_3",
+            "title": "500 crowns",
+            "price": "9.99",
+            "description": "650 crowns (can be used to obtain private worlds, protectors, and more)",
+            "quantity": 650
+        },
+        "crowns_tier_4": {
+            "identifier": "crowns_tier_4",
+            "title": "1100 crowns",
+            "price": "19.99",
+            "description": "1500 crowns (can be used to obtain private worlds, protectors, and more)",
+            "quantity": 1500
+        },
+        "crowns_tier_5": {
+            "identifier": "crowns_tier_5",
+            "title": "1600 crowns",
+            "price": "29.99",
+            "description": "2500 crowns (can be used to obtain private worlds, protectors, and more)",
+            "quantity": 2500
+        },
+        "crowns_tier_20": {
+            "identifier": "crowns_tier_20",
+            "title": "8000 crowns",
+            "price": "99.99",
+            "description": "8000 crowns (can be used to obtain private worlds, protectors, and more)",
+            "quantity": 8000
+        }
+    }
+}

@@ -1,0 +1,683 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1104736973420223}
+  m_IsPrefabAsset: 1
+--- !u!1 &1104736973420223
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4475142905192204}
+  - component: {fileID: 114147346313237785}
+  m_Layer: 0
+  m_Name: Pool Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4475142905192204
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1104736973420223}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4454986848809300}
+  - {fileID: 4122789432218225}
+  - {fileID: 4090658622277311}
+  - {fileID: 4066785225373926}
+  - {fileID: 4717948614501919}
+  - {fileID: 4349942342658780}
+  - {fileID: 4069808548403896}
+  - {fileID: 4352829532282939}
+  - {fileID: 4612757071376828}
+  - {fileID: 4418720348833429}
+  - {fileID: 4235109328133881}
+  - {fileID: 4050487055834276}
+  - {fileID: 4187619793260131}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114147346313237785
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1104736973420223}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39fbe226d5c5f7744a417f714fd01c15, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+--- !u!1 &1478413811426739
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4454986848809300}
+  - component: {fileID: 114750866738910915}
+  m_Layer: 0
+  m_Name: Zone Chunk Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4454986848809300
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1478413811426739}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114750866738910915
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1478413811426739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 475c4ace00dda3b40bb7a5432ad85846, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  patterns:
+  - key:
+    minFill: 50
+    desiredFill: 0
+    desiredFillRate: 0
+    maxFill: 0
+--- !u!1 &1454617162867181
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4122789432218225}
+  - component: {fileID: 114380441915758688}
+  m_Layer: 0
+  m_Name: Zone Scene Block Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4122789432218225
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1454617162867181}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114380441915758688
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1454617162867181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6f7f927bfa4228419455048fb9a038d, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  patterns:
+  - key:
+    minFill: 500
+    desiredFill: 0
+    desiredFillRate: 0
+    maxFill: 0
+--- !u!1 &1425025218581653
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4090658622277311}
+  - component: {fileID: 114326403387366048}
+  m_Layer: 0
+  m_Name: Block Collider Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4090658622277311
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1425025218581653}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114326403387366048
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1425025218581653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff7a04a0472f67419c047cf4a343eec, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  patterns:
+  - key: box
+    minFill: 100
+    desiredFill: 0
+    desiredFillRate: 0
+    maxFill: 0
+    prefab: {fileID: 1654650019645156, guid: c95cda2063ddd4448954397488eaf95c, type: 2}
+    autoPopulate: 0
+    setActive: 1
+    parentOnDespawn: 0
+--- !u!1 &1627066033627958
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4066785225373926}
+  - component: {fileID: 114554927452898072}
+  m_Layer: 0
+  m_Name: Block Sprite Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4066785225373926
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1627066033627958}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114554927452898072
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1627066033627958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e87a70f5b64e474d812c0cdec1fb810, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  prefab: {fileID: 1404036442468971, guid: 936defca701ce174c8cf48d2414dc62f, type: 2}
+  minFill: 1000
+  desiredFill: 2000
+  desiredFillRate: 1
+  maxFill: 50000
+  maxWarning: 1
+  setActive: 0
+  parentOnDespawn: 0
+  sendSpawnedMessage: 0
+  sendDespawnedMessage: 0
+  trackActive: 0
+  totalSpawned: 0
+--- !u!1 &1061757849177481
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4717948614501919}
+  - component: {fileID: 114419582710963996}
+  m_Layer: 0
+  m_Name: Zone Scene Text Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4717948614501919
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1061757849177481}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114419582710963996
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1061757849177481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00cc222253dcdae4092273c1318ec41d, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  prefab: {fileID: 1296400330955069, guid: f2b049c41c951314ba0b4d9ae1476637, type: 2}
+  minFill: 100
+  desiredFill: 0
+  desiredFillRate: 1
+  maxFill: 500
+  maxWarning: 1
+  setActive: 0
+  parentOnDespawn: 0
+  sendSpawnedMessage: 0
+  sendDespawnedMessage: 0
+  trackActive: 0
+  totalSpawned: 0
+--- !u!1 &1018072701669777
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4349942342658780}
+  - component: {fileID: 114979463621498776}
+  m_Layer: 0
+  m_Name: Particle Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4349942342658780
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1018072701669777}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114979463621498776
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1018072701669777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8590c13d985421b408ae60841e5ea2a7, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  prefab: {fileID: 1394017633717578, guid: 255a4b285dd039c4bb33d63fa4a3d414, type: 2}
+  minFill: 100
+  desiredFill: 300
+  desiredFillRate: 2
+  maxFill: 300
+  maxWarning: 0
+  setActive: 0
+  parentOnDespawn: 0
+  sendSpawnedMessage: 0
+  sendDespawnedMessage: 1
+  trackActive: 1
+  totalSpawned: 0
+--- !u!1 &1560676694377199
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4069808548403896}
+  - component: {fileID: 114465921770822594}
+  m_Layer: 0
+  m_Name: Entity Bullet Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4069808548403896
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1560676694377199}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114465921770822594
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1560676694377199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d839ffbe4692334dbb6cfe151ec1b6e, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  prefab: {fileID: 1953262840978296, guid: d36efb1677330e249be7c4082b7e52b4, type: 2}
+  minFill: 250
+  desiredFill: 250
+  desiredFillRate: 2
+  maxFill: 250
+  maxWarning: 0
+  setActive: 0
+  parentOnDespawn: 0
+  sendSpawnedMessage: 0
+  sendDespawnedMessage: 1
+  trackActive: 1
+  totalSpawned: 0
+--- !u!1 &1234654147052947
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4352829532282939}
+  - component: {fileID: 114641972760271441}
+  m_Layer: 0
+  m_Name: Quip Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4352829532282939
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1234654147052947}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114641972760271441
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1234654147052947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db59b2e33a32b934c81dd68836435950, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  prefab: {fileID: 1612260784871000, guid: 123b0cf326a81f04fae81d78c4562cf1, type: 2}
+  minFill: 100
+  desiredFill: 0
+  desiredFillRate: 1
+  maxFill: 200
+  maxWarning: 0
+  setActive: 0
+  parentOnDespawn: 0
+  sendSpawnedMessage: 0
+  sendDespawnedMessage: 0
+  trackActive: 1
+  totalSpawned: 0
+--- !u!1 &1668344781617724
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4612757071376828}
+  - component: {fileID: 114982396731673853}
+  m_Layer: 0
+  m_Name: Quip Bubble Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4612757071376828
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1668344781617724}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114982396731673853
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1668344781617724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 928bbb8280b56f541851bef1dab2f3c8, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  prefab: {fileID: 1673423268466991, guid: 00953e2b5a99f2c4ea0e15575680b1cb, type: 2}
+  minFill: 20
+  desiredFill: 0
+  desiredFillRate: 1
+  maxFill: 100
+  maxWarning: 0
+  setActive: 0
+  parentOnDespawn: 0
+  sendSpawnedMessage: 0
+  sendDespawnedMessage: 0
+  trackActive: 0
+  totalSpawned: 0
+--- !u!1 &1240443886349166
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4418720348833429}
+  - component: {fileID: 114625830355218613}
+  m_Layer: 0
+  m_Name: Entity Name Label Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4418720348833429
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1240443886349166}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114625830355218613
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1240443886349166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0d485de55249f4cb0da37372e3c799, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  prefab: {fileID: 1554989496634727, guid: f86262ff34de5b9468beddd6bc10c957, type: 2}
+  minFill: 100
+  desiredFill: 200
+  desiredFillRate: 1
+  maxFill: 1000
+  maxWarning: 1
+  setActive: 1
+  parentOnDespawn: 0
+  sendSpawnedMessage: 0
+  sendDespawnedMessage: 0
+  trackActive: 0
+  totalSpawned: 0
+--- !u!1 &1292459460033624
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4235109328133881}
+  - component: {fileID: 114865552290630103}
+  m_Layer: 0
+  m_Name: Player Listing Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4235109328133881
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1292459460033624}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114865552290630103
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1292459460033624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba5b4b515426ee34c997c26f32ac2090, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  prefab: {fileID: 1162206393675987, guid: 0bd7e9686eefec848bfe74a5429db335, type: 2}
+  minFill: 50
+  desiredFill: 0
+  desiredFillRate: 1
+  maxFill: 2000
+  maxWarning: 1
+  setActive: 1
+  parentOnDespawn: 1
+  sendSpawnedMessage: 0
+  sendDespawnedMessage: 0
+  trackActive: 0
+  totalSpawned: 0
+--- !u!1 &1414889934245050
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4050487055834276}
+  - component: {fileID: 114041411524467925}
+  m_Layer: 0
+  m_Name: Shield Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4050487055834276
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1414889934245050}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114041411524467925
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1414889934245050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec3db26260b5ab43b04709306e5b7c5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  prefab: {fileID: 1569998831027730, guid: b9f8fe459d6f3ab4ea77f67b0a89aab8, type: 2}
+  minFill: 0
+  desiredFill: 0
+  desiredFillRate: 0
+  maxFill: 500
+  maxWarning: 0
+  setActive: 1
+  parentOnDespawn: 0
+  sendSpawnedMessage: 0
+  sendDespawnedMessage: 1
+  trackActive: 0
+  totalSpawned: 0
+--- !u!1 &1286754276600074
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4187619793260131}
+  - component: {fileID: 114128255910537580}
+  m_Layer: 0
+  m_Name: Light Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4187619793260131
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1286754276600074}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4475142905192204}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114128255910537580
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1286754276600074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfa72b2e5aa4a3c439bec8b79d6be065, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  patterns:
+  - key:
+    minFill: 0
+    desiredFill: 30
+    desiredFillRate: 0
+    maxFill: 0
+    prefab: {fileID: 1401197113762062, guid: 4db514836c59ec64eb93c0fd8c03421e, type: 2}
+    autoPopulate: 0
+    setActive: 1
+    parentOnDespawn: 0

@@ -1,0 +1,280 @@
+i tk2d 1
+w 2048
+h 1024
+~
+n sign-font-small-1
+s 4 657 819 328
+o 0 0 819 410
+~
+n sign-font-small-1+hd
+s 4 4 1632 541
+o 1 0 1638 819
+~
+n signs/brass-large
+s 1465 816 220 148
+o 10 6 240 160
+~
+n signs/brass-small
+s 703 571 220 80
+o 10 0 240 80
+~
+n signs/copper-large
+s 1641 571 226 148
+o 7 2 240 160
+~
+n signs/copper-small
+s 247 571 226 80
+o 8 0 240 80
+~
+n signs/crests/android
+s 1810 948 56 56
+o 53 47 160 160
+~
+n signs/crests/apple
+s 1572 761 42 48
+o 64 53 160 160
+~
+n signs/crests/bird
+s 1315 571 70 74
+o 40 41 160 160
+~
+n signs/crests/bomb
+s 929 894 62 92
+o 49 26 160 160
+~
+n signs/crests/book
+s 1224 818 56 70
+o 50 42 160 160
+~
+n signs/crests/brain
+s 1009 818 74 70
+o 41 42 160 160
+~
+n signs/crests/club
+s 1088 818 64 70
+o 49 44 160 160
+~
+n signs/crests/crown
+s 1390 571 102 68
+o 26 42 160 160
+~
+n signs/crests/daisy
+s 1222 893 62 86
+o 48 36 160 160
+~
+n signs/crests/diamond
+s 1372 816 88 68
+o 39 43 160 160
+~
+n signs/crests/eye
+s 1497 550 84 50
+o 40 54 160 160
+~
+n signs/crests/face
+s 1872 657 62 62
+o 49 46 160 160
+~
+n signs/crests/fish
+s 1171 986 64 34
+o 46 64 160 160
+~
+n signs/crests/foot
+s 1370 893 44 82
+o 58 38 160 160
+~
+n signs/crests/frame-all
+s 996 894 78 90
+o 39 30 160 160
+~
+n signs/crests/frame-back
+s 828 894 96 114
+o 30 19 160 160
+~
+n signs/crests/frame-left
+s 1079 893 42 90
+o 37 33 160 160
+~
+n signs/crests/frame-lower
+s 1497 729 70 48
+o 42 76 160 160
+~
+n signs/crests/frame-lower-left
+s 1515 969 38 46
+o 42 78 160 160
+~
+n signs/crests/frame-lower-right
+s 1619 761 38 48
+o 76 80 160 160
+~
+n signs/crests/frame-right
+s 1126 893 40 90
+o 78 34 160 160
+~
+n signs/crests/frame-upper
+s 1497 605 78 48
+o 39 33 160 160
+~
+n signs/crests/frame-upper-left
+s 1419 942 40 48
+o 40 33 160 160
+~
+n signs/crests/frame-upper-right
+s 1419 889 40 48
+o 78 33 160 160
+~
+n signs/crests/gear
+s 1990 720 50 52
+o 56 54 160 160
+~
+n signs/crests/globe
+s 1733 724 58 66
+o 55 49 160 160
+~
+n signs/crests/gun
+s 1871 948 68 52
+o 49 56 160 160
+~
+n signs/crests/hammer
+s 1171 893 46 88
+o 59 36 160 160
+~
+n signs/crests/hand
+s 1990 657 54 58
+o 51 53 160 160
+~
+n signs/crests/hat
+s 1464 969 46 46
+o 59 59 160 160
+~
+n signs/crests/heart
+s 1951 777 56 52
+o 54 51 160 160
+~
+n signs/crests/lantern
+s 1892 724 54 62
+o 56 46 160 160
+~
+n signs/crests/lightning
+s 1855 724 32 64
+o 66 48 160 160
+~
+n signs/crests/lion
+s 1289 893 76 82
+o 41 39 160 160
+~
+n signs/crests/moon
+s 1939 657 46 62
+o 58 47 160 160
+~
+n signs/crests/mushroom
+s 1662 724 66 68
+o 48 45 160 160
+~
+n signs/crests/pickaxe
+s 1098 571 76 78
+o 44 40 160 160
+~
+n signs/crests/rose
+s 1737 948 68 56
+o 50 46 160 160
+~
+n signs/crests/scale
+s 1285 816 82 72
+o 44 38 160 160
+~
+n signs/crests/silverware
+s 1690 948 42 62
+o 63 45 160 160
+~
+n signs/crests/snake
+s 1586 550 50 68
+o 53 44 160 160
+~
+n signs/crests/spade
+s 1580 623 56 62
+o 53 45 160 160
+~
+n signs/crests/sun
+s 1572 690 64 66
+o 49 44 160 160
+~
+n signs/crests/terrapus
+s 928 571 82 78
+o 45 40 160 160
+~
+n signs/crests/tesla
+s 1179 571 70 76
+o 46 41 160 160
+~
+n signs/crests/tree
+s 1015 571 78 78
+o 44 37 160 160
+~
+n signs/iron-large
+s 1690 797 220 146
+o 10 8 240 160
+~
+n signs/iron-small
+s 478 571 220 80
+o 10 0 240 80
+~
+n signs/mechanical
+s 1641 4 318 240
+o 0 0 320 240
+~
+n signs/mechanical-letter-border
+s 1254 571 56 76
+o 13 1 80 80
+~
+n signs/mechanical-overlay
+s 828 657 176 232
+o 97 0 320 240
+~
+n signs/note-scrawl
+s 1157 818 62 70
+o 10 5 80 80
+~
+n signs/note-wall-1
+s 1886 249 64 80
+o 9 0 80 80
+~
+n signs/note-wall-2
+s 1796 724 54 64
+o 11 8 80 80
+~
+n signs/note-wall-3
+s 1497 658 70 66
+o 4 6 80 80
+~
+n signs/obelisk
+s 1964 4 80 160
+o 0 0 80 160
+~
+n signs/obelisk-dark
+s 1964 169 80 160
+o 0 0 80 160
+~
+n signs/obelisk-mega
+s 1886 334 158 318
+o 2 2 160 320
+~
+n signs/plaque
+s 1641 249 240 156
+o 0 4 240 160
+~
+n signs/plaque-landmark
+s 1009 657 240 156
+o 0 4 240 160
+~
+n signs/plaque-ruby
+s 1641 410 240 156
+o 0 4 240 160
+~
+n signs/wood-large
+s 1254 657 238 154
+o 0 3 240 160
+~
+n signs/wood-small
+s 4 571 238 80
+o 1 0 240 80
+~

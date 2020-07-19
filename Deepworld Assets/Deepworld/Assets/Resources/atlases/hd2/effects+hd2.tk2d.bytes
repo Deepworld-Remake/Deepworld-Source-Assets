@@ -1,0 +1,684 @@
+i tk2d 1
+w 1024
+h 2048
+~
+n block_white_gradient
+s 634 1934 100 100
+o 0 0 100 100
+~
+n bullets/bomb
+s 940 265 70 64
+o 15 17 100 100
+~
+n bullets/bomb-large
+s 943 4 74 76
+o 12 8 100 100
+~
+n bullets/bomb-magnet
+s 296 1610 88 80
+o 7 9 100 100
+~
+n bullets/railgun
+s 638 4 300 68
+o 0 27 300 120
+~
+n crack-1
+s 529 1934 100 100
+o 0 0 100 100
+~
+n crack-2
+s 424 1934 100 100
+o 0 0 100 100
+~
+n crack-3
+s 549 1829 100 100
+o 0 0 100 100
+~
+n debris/blob
+s 4 1829 20 20
+o 0 0 20 20
+~
+n explosions/boom-1
+s 783 1715 108 108
+o 46 44 200 200
+~
+n explosions/boom-2
+s 394 1320 178 164
+o 4 15 200 200
+~
+n explosions/boom-3
+s 207 729 196 184
+o 4 9 200 200
+~
+n explosions/boom-4
+s 607 1078 194 184
+o 6 8 200 200
+~
+n explosions/boom-5
+s 4 524 200 184
+o 0 10 200 200
+~
+n explosions/boom-6
+s 576 1611 110 108
+o 40 49 200 200
+~
+n explosions/boom-acid-1
+s 494 1669 60 58
+o 75 70 200 200
+~
+n explosions/boom-acid-2
+s 394 1489 116 112
+o 45 44 200 200
+~
+n explosions/boom-acid-3
+s 199 1316 190 190
+o 2 6 200 200
+~
+n explosions/boom-acid-4
+s 203 1117 192 194
+o 5 0 200 200
+~
+n explosions/boom-acid-5
+s 4 1320 182 200
+o 9 0 200 200
+~
+n explosions/boom-electric-1
+s 784 1371 162 164
+o 23 18 200 200
+~
+n explosions/boom-electric-2
+s 577 1452 150 154
+o 26 21 200 200
+~
+n explosions/boom-electric-3
+s 402 1115 192 200
+o 2 0 200 200
+~
+n explosions/boom-electric-4
+s 209 524 198 200
+o 2 0 200 200
+~
+n explosions/boom-electric-5
+s 4 1121 190 194
+o 7 2 200 200
+~
+n explosions/boom-electric-6
+s 806 1188 182 178
+o 10 8 200 200
+~
+n explosions/boom-frost-1
+s 843 445 88 108
+o 57 44 200 200
+~
+n explosions/boom-frost-2
+s 783 1540 146 170
+o 31 16 200 200
+~
+n explosions/boom-frost-3
+s 814 989 194 194
+o 2 3 200 200
+~
+n explosions/boom-frost-4
+s 209 319 200 200
+o 0 0 200 200
+~
+n explosions/boom-frost-5
+s 4 319 200 200
+o 0 0 200 200
+~
+n explosions/boom-frost-6
+s 4 713 198 198
+o 2 2 200 200
+~
+n explosions/boom-incendiary-1
+s 615 877 194 196
+o 4 1 200 200
+~
+n explosions/boom-incendiary-2
+s 824 784 196 200
+o 4 0 200 200
+~
+n explosions/boom-incendiary-3
+s 638 282 200 200
+o 0 0 200 200
+~
+n explosions/boom-incendiary-4
+s 638 77 200 200
+o 0 0 200 200
+~
+n explosions/boom-incendiary-5
+s 203 918 194 194
+o 6 0 200 200
+~
+n explosions/boom-incendiary-6
+s 408 916 194 194
+o 6 0 200 200
+~
+n explosions/boom-teleport-1
+s 619 684 200 188
+o 0 12 200 200
+~
+n explosions/boom-teleport-2
+s 414 520 200 190
+o 0 10 200 200
+~
+n explosions/boom-teleport-3
+s 619 487 200 192
+o 0 8 200 200
+~
+n explosions/boom-teleport-4
+s 414 319 200 196
+o 0 4 200 200
+~
+n explosions/boom-teleport-5
+s 412 715 198 196
+o 0 4 200 200
+~
+n explosions/boom-teleport-6
+s 824 579 196 200
+o 0 0 200 200
+~
+n explosions/boom-teleport-7
+s 599 1267 180 180
+o 9 9 200 200
+~
+n explosions/cloud-large-1
+s 4 916 194 200
+o 0 0 200 200
+~
+n explosions/cloud-small-1
+s 843 267 92 90
+o 3 8 100 100
+~
+n explosions/cloud-small-2
+s 296 1511 88 94
+o 6 4 100 100
+~
+n explosions/cloud-small-3
+s 843 77 94 88
+o 3 4 100 100
+~
+n explosions/cloud-small-4
+s 4 1854 98 86
+o 0 8 100 100
+~
+n explosions/muzzle-flash
+s 728 1717 48 38
+o 28 31 100 100
+~
+n giblets/antennae-1
+s 691 1836 28 13
+o 0 1 28 15
+~
+n giblets/antennae-2
+s 619 319 14 18
+o 1 0 16 18
+~
+n giblets/bat-1
+s 619 406 11 16
+o 0 0 11 16
+~
+n giblets/bat-2
+s 105 1525 23 17
+o 0 0 23 17
+~
+n giblets/bat-3
+s 200 1695 20 30
+o 0 0 20 30
+~
+n giblets/brain-1
+s 4 1695 40 31
+o 0 0 42 31
+~
+n giblets/brain-2
+s 732 1452 47 48
+o 2 1 51 52
+~
+n giblets/brain-button-1
+s 896 1715 22 20
+o 0 0 22 20
+~
+n giblets/brain-glass-1
+s 732 1505 46 46
+o 0 0 46 48
+~
+n giblets/brain-glass-2
+s 951 1418 35 44
+o 1 2 37 48
+~
+n giblets/brain-glass-3
+s 784 1267 15 11
+o 0 0 15 11
+~
+n giblets/brain-tank-1
+s 934 1693 50 42
+o 0 0 50 42
+~
+n giblets/brain-tube-1
+s 824 558 38 16
+o 0 0 38 16
+~
+n giblets/brain-tube-2
+s 105 1731 21 53
+o 4 1 27 55
+~
+n giblets/crow-feather-1
+s 133 1525 52 80
+o 18 3 100 100
+~
+n giblets/crow-feather-2
+s 934 1559 50 72
+o 24 14 100 100
+~
+n giblets/crow-feather-3
+s 942 85 78 82
+o 13 6 100 100
+~
+n giblets/feather-bluejay
+s 940 334 68 92
+o 17 4 100 100
+~
+n giblets/feather-cardinal
+s 515 1580 56 84
+o 26 12 100 100
+~
+n giblets/feather-crow
+s 940 172 70 88
+o 13 7 100 100
+~
+n giblets/feather-gray
+s 515 1489 56 86
+o 27 4 100 100
+~
+n giblets/guts-1
+s 989 1709 28 30
+o 14 12 50 50
+~
+n giblets/guts-2
+s 691 1746 28 28
+o 13 12 50 50
+~
+n giblets/guts-3
+s 691 1697 32 44
+o 9 4 50 50
+~
+n giblets/guts-4
+s 951 1467 34 44
+o 12 1 50 50
+~
+n giblets/machine-1
+s 897 558 34 11
+o 0 0 34 11
+~
+n giblets/machine-2
+s 867 558 25 16
+o 0 0 25 16
+~
+n giblets/machine-3
+s 619 382 11 19
+o 0 0 11 19
+~
+n giblets/machine-4
+s 154 1695 41 30
+o 0 0 41 30
+~
+n giblets/machine-5
+s 691 1681 33 11
+o 1 0 37 11
+~
+n giblets/machine-6
+s 107 1850 21 18
+o 0 0 21 18
+~
+n giblets/machine-7
+s 1001 502 19 24
+o 0 0 19 24
+~
+n giblets/terrapus-1
+s 1001 554 16 20
+o 0 0 16 20
+~
+n giblets/terrapus-2
+s 29 1829 23 19
+o 0 0 23 19
+~
+n particles/acid-1
+s 183 1661 24 26
+o 39 37 100 100
+~
+n particles/acid-2
+s 989 1810 28 28
+o 39 37 100 100
+~
+n particles/acid-3
+s 989 1777 28 28
+o 36 36 100 100
+~
+n particles/acid-4
+s 989 1597 30 28
+o 34 36 100 100
+~
+n particles/acid-bubble-1
+s 664 1761 22 26
+o 39 33 100 100
+~
+n particles/acid-bubble-2
+s 619 427 10 12
+o 47 42 100 100
+~
+n particles/acid-bubble-3
+s 619 363 14 14
+o 44 42 100 100
+~
+n particles/ash-1
+s 732 1609 44 46
+o 14 28 100 100
+~
+n particles/ash-2
+s 691 1646 34 30
+o 29 33 100 100
+~
+n particles/ash-3
+s 951 1371 36 42
+o 32 31 100 100
+~
+n particles/ash-4
+s 197 1789 42 40
+o 37 28 100 100
+~
+n particles/bone-1
+s 245 1616 44 40
+o 34 30 100 100
+~
+n particles/bone-2
+s 739 1873 38 22
+o 29 37 100 100
+~
+n particles/bone-3
+s 989 1630 28 35
+o 44 24 100 99
+~
+n particles/bone-4
+s 691 1779 28 25
+o 38 39 100 101
+~
+n particles/bubble-1
+s 664 1724 22 32
+o 42 29 100 100
+~
+n particles/bubble-2
+s 1001 531 18 18
+o 40 43 100 100
+~
+n particles/bubble-3
+s 619 342 14 16
+o 45 38 100 100
+~
+n particles/bullet-1
+s 105 1576 22 22
+o 38 39 100 100
+~
+n particles/crack-1
+s 386 1816 100 100
+o 0 0 100 100
+~
+n particles/crack-2
+s 178 1834 100 100
+o 0 0 100 100
+~
+n particles/crack-3
+s 387 1711 100 100
+o 0 0 100 100
+~
+n particles/diamond-1
+s 4 1626 40 50
+o 28 20 100 100
+~
+n particles/diamond-2
+s 724 1760 54 55
+o 23 20 100 99
+~
+n particles/diamond-3
+s 131 1732 52 52
+o 23 23 100 100
+~
+n particles/diamond-4
+s 989 1564 30 28
+o 38 35 100 100
+~
+n particles/drop-1
+s 1013 334 6 26
+o 0 0 6 26
+~
+n particles/ember-1
+s 152 1789 40 34
+o 31 33 100 100
+~
+n particles/ember-2
+s 105 1789 42 34
+o 32 34 100 100
+~
+n particles/ember-3
+s 283 1905 38 34
+o 32 39 100 100
+~
+n particles/energy-1
+s 282 1695 100 100
+o 0 0 100 100
+~
+n particles/energy-2
+s 49 1626 100 100
+o 0 0 100 100
+~
+n particles/energy-3
+s 783 1828 100 100
+o 0 0 100 100
+~
+n particles/energy-4
+s 739 1933 98 100
+o 0 0 100 100
+~
+n particles/fire-1
+s 319 1946 100 96
+o 0 2 100 100
+~
+n particles/fire-2
+s 109 1946 100 98
+o 0 0 100 100
+~
+n particles/fire-3
+s 4 1946 100 98
+o 0 0 100 100
+~
+n particles/fire-4
+s 283 1800 98 100
+o 0 0 100 100
+~
+n particles/ice-1
+s 492 1732 54 46
+o 21 29 100 100
+~
+n particles/ice-2
+s 492 1783 52 46
+o 24 28 100 100
+~
+n particles/ice-3
+s 154 1616 52 40
+o 17 34 100 100
+~
+n particles/ice-4
+s 732 1556 44 48
+o 30 27 100 100
+~
+n particles/ink-1
+s 993 1188 26 26
+o 40 35 100 100
+~
+n particles/ink-2
+s 691 1611 34 30
+o 34 35 100 100
+~
+n particles/ink-3
+s 951 1516 34 38
+o 33 30 100 100
+~
+n particles/ink-4
+s 491 1834 42 44
+o 28 27 100 100
+~
+n particles/music-1
+s 107 1873 42 67
+o 27 15 100 99
+~
+n particles/music-2
+s 225 1661 52 63
+o 25 18 100 99
+~
+n particles/music-3
+s 991 1463 28 61
+o 32 23 100 101
+~
+n particles/music-4
+s 992 1397 28 61
+o 42 13 100 101
+~
+n particles/sand-cloud-1
+s 559 1724 100 100
+o 0 0 100 100
+~
+n particles/sand-cloud-2
+s 4 1525 96 96
+o 0 1 100 100
+~
+n particles/sand-cloud-3
+s 896 1740 88 96
+o 5 4 100 100
+~
+n particles/sand-cloud-4
+s 4 1732 96 92
+o 3 7 100 100
+~
+n particles/sand-cloud-small-1
+s 691 1809 28 22
+o 10 14 50 50
+~
+n particles/sand-cloud-small-10
+s 993 1306 26 24
+o 11 14 50 50
+~
+n particles/sand-cloud-small-11
+s 989 1843 24 22
+o 14 14 50 50
+~
+n particles/sand-cloud-small-12
+s 105 1547 22 24
+o 13 12 50 50
+~
+n particles/sand-cloud-small-13
+s 989 1670 28 34
+o 13 6 50 50
+~
+n particles/sand-cloud-small-14
+s 989 1744 28 28
+o 11 11 50 50
+~
+n particles/sand-cloud-small-15
+s 154 1661 24 26
+o 12 11 50 50
+~
+n particles/sand-cloud-small-16
+s 990 1529 30 30
+o 11 6 50 50
+~
+n particles/sand-cloud-small-2
+s 993 1366 24 26
+o 14 11 50 50
+~
+n particles/sand-cloud-small-3
+s 993 1277 26 24
+o 13 12 50 50
+~
+n particles/sand-cloud-small-4
+s 993 1248 26 24
+o 13 12 50 50
+~
+n particles/sand-cloud-small-5
+s 664 1821 22 24
+o 13 11 50 50
+~
+n particles/sand-cloud-small-6
+s 993 1335 24 26
+o 13 11 50 50
+~
+n particles/sand-cloud-small-7
+s 993 1219 26 24
+o 9 11 50 50
+~
+n particles/sand-cloud-small-8
+s 664 1792 22 24
+o 15 10 50 50
+~
+n particles/sand-cloud-small-9
+s 211 1616 24 22
+o 11 14 50 50
+~
+n particles/snow-1
+s 730 1660 48 52
+o 6 4 60 60
+~
+n particles/snow-2
+s 188 1730 52 54
+o 4 2 60 60
+~
+n particles/snow-3
+s 934 1636 50 52
+o 4 4 60 60
+~
+n particles/snow-4
+s 724 1820 54 48
+o 3 6 60 60
+~
+n particles/spark-1
+s 936 502 60 60
+o 20 19 100 100
+~
+n particles/spark-2
+s 940 431 66 66
+o 16 16 100 100
+~
+n particles/spark-3
+s 843 362 92 78
+o 4 10 100 100
+~
+n particles/spark-4
+s 843 170 92 92
+o 0 4 100 100
+~
+n particles/star
+s 133 1829 40 38
+o 0 0 40 40
+~
+n particles/steam-1
+s 389 1606 100 100
+o 0 0 100 100
+~
+n particles/steam-2
+s 191 1511 100 100
+o 0 0 100 100
+~
+n particles/steam-3
+s 214 1946 100 96
+o 0 0 100 100
+~
+n particles/steam-4
+s 888 1841 96 100
+o 0 0 100 100
+~
+n shields/full-1
+s 321 4 312 310
+o 45 42 400 400
+~
+n shields/full-2
+s 4 4 312 310
+o 42 45 400 400
+~

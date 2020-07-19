@@ -1,0 +1,452 @@
+i tk2d 1
+w 1024
+h 2048
+~
+n back/adobe
+s 169 1154 160 160
+o 0 0 160 160
+~
+n back/bloodstone
+s 329 4 320 320
+o 0 0 320 320
+~
+n back/brass
+s 4 1154 160 160
+o 0 0 160 160
+~
+n back/brick
+s 334 989 160 160
+o 0 0 160 160
+~
+n back/brick-blue
+s 829 994 160 160
+o 0 0 160 160
+~
+n back/brick-mixed
+s 664 994 160 160
+o 0 0 160 160
+~
+n back/brick-tan
+s 499 994 160 160
+o 0 0 160 160
+~
+n back/chromatic
+s 169 989 160 160
+o 0 0 160 160
+~
+n back/cobblestone-gray
+s 4 989 160 160
+o 0 0 160 160
+~
+n back/cobblestone-tan
+s 829 829 160 160
+o 0 0 160 160
+~
+n back/copper
+s 664 829 160 160
+o 0 0 160 160
+~
+n back/cork
+s 499 829 160 160
+o 0 0 160 160
+~
+n back/earth-brick
+s 334 824 160 160
+o 0 0 160 160
+~
+n back/glass
+s 4 824 160 160
+o 0 0 160 160
+~
+n back/glass-divided
+s 169 824 160 160
+o 0 0 160 160
+~
+n back/iron
+s 829 664 160 160
+o 0 0 160 160
+~
+n back/limestone
+s 664 664 160 160
+o 0 0 160 160
+~
+n back/marble
+s 499 664 160 160
+o 0 0 160 160
+~
+n back/paper
+s 334 659 160 160
+o 0 0 160 160
+~
+n back/sandstone
+s 169 659 160 160
+o 0 0 160 160
+~
+n back/scaffold
+s 4 659 160 160
+o 0 0 160 160
+~
+n back/scaffold-decayed
+s 4 4 320 320
+o 0 0 320 320
+~
+n back/scaffold-wood
+s 259 1919 80 80
+o 0 0 80 80
+~
+n back/stone
+s 829 499 160 160
+o 0 0 160 160
+~
+n back/wallpaper-1
+s 664 499 160 160
+o 0 0 160 160
+~
+n back/wallpaper-10
+s 499 499 160 160
+o 0 0 160 160
+~
+n back/wallpaper-11
+s 334 494 160 160
+o 0 0 160 160
+~
+n back/wallpaper-12
+s 169 494 160 160
+o 0 0 160 160
+~
+n back/wallpaper-2
+s 4 494 160 160
+o 0 0 160 160
+~
+n back/wallpaper-3
+s 804 334 160 160
+o 0 0 160 160
+~
+n back/wallpaper-4
+s 639 334 160 160
+o 0 0 160 160
+~
+n back/wallpaper-5
+s 334 329 160 160
+o 0 0 160 160
+~
+n back/wallpaper-6
+s 169 329 160 160
+o 0 0 160 160
+~
+n back/wallpaper-7
+s 4 329 160 160
+o 0 0 160 160
+~
+n back/wallpaper-8
+s 819 169 160 160
+o 0 0 160 160
+~
+n back/wallpaper-9
+s 654 169 160 160
+o 0 0 160 160
+~
+n back/wood
+s 654 4 160 160
+o 0 0 160 160
+~
+n back/wood-panel
+s 334 1154 160 80
+o 0 0 160 80
+~
+n back/wood-panel-decorative
+s 819 4 160 160
+o 0 0 160 160
+~
+n borders/adobe-back-all
+s 259 1834 80 80
+o 0 0 80 80
+~
+n borders/adobe-back-nub
+s 999 114 8 8
+o 72 0 80 80
+~
+n borders/adobe-back-top
+s 769 1329 80 8
+o 0 0 80 80
+~
+n borders/adobe-back-top-right
+s 259 1664 80 80
+o 0 0 80 80
+~
+n borders/adobe-back-top-right-bottom
+s 259 1749 80 80
+o 0 0 80 80
+~
+n borders/bloodstone-back-all
+s 259 1579 80 80
+o 0 0 80 80
+~
+n borders/bloodstone-back-nub
+s 1012 114 6 6
+o 74 0 80 80
+~
+n borders/bloodstone-back-top
+s 89 2038 80 6
+o 0 0 80 80
+~
+n borders/bloodstone-back-top-right
+s 259 1409 80 80
+o 0 0 80 80
+~
+n borders/bloodstone-back-top-right-bottom
+s 259 1494 80 80
+o 0 0 80 80
+~
+n borders/brass-back-all
+s 174 1914 80 80
+o 0 0 80 80
+~
+n borders/brass-back-nub
+s 984 73 14 14
+o 66 0 80 80
+~
+n borders/brass-back-top
+s 259 2023 80 14
+o 0 0 80 80
+~
+n borders/brass-back-top-right
+s 174 1744 80 80
+o 0 0 80 80
+~
+n borders/brass-back-top-right-bottom
+s 174 1829 80 80
+o 0 0 80 80
+~
+n borders/brick-back-all
+s 174 1659 80 80
+o 0 0 80 80
+~
+n borders/brick-back-nub
+s 984 107 10 10
+o 70 0 80 80
+~
+n borders/brick-back-top
+s 599 1329 80 10
+o 0 0 80 80
+~
+n borders/brick-back-top-right
+s 174 1489 80 80
+o 0 0 80 80
+~
+n borders/brick-back-top-right-bottom
+s 174 1574 80 80
+o 0 0 80 80
+~
+n borders/brick-gray-back-all
+s 89 1914 80 80
+o 0 0 80 80
+~
+n borders/brick-gray-back-nub
+s 1001 99 10 10
+o 70 0 80 80
+~
+n borders/brick-gray-back-top
+s 514 1329 80 10
+o 0 0 80 80
+~
+n borders/brick-gray-back-top-right
+s 89 1744 80 80
+o 0 0 80 80
+~
+n borders/brick-gray-back-top-right-bottom
+s 89 1829 80 80
+o 0 0 80 80
+~
+n borders/chromatic-back-all
+s 89 1659 80 80
+o 0 0 80 80
+~
+n borders/chromatic-back-top
+s 174 2020 80 16
+o 0 0 80 80
+~
+n borders/chromatic-back-top-right
+s 89 1489 80 80
+o 0 0 80 80
+~
+n borders/chromatic-back-top-right-bottom
+s 89 1574 80 80
+o 0 0 80 80
+~
+n borders/copper-back-all
+s 4 1914 80 80
+o 0 0 80 80
+~
+n borders/copper-back-nub
+s 984 54 14 14
+o 66 0 80 80
+~
+n borders/copper-back-top
+s 259 2004 80 14
+o 0 0 80 80
+~
+n borders/copper-back-top-right
+s 4 1744 80 80
+o 0 0 80 80
+~
+n borders/copper-back-top-right-bottom
+s 4 1829 80 80
+o 0 0 80 80
+~
+n borders/copper-back-top-right-bottom[Conflict]
+s 4 1829 80 80
+o 0 0 80 80
+~
+n borders/cork-all
+s 4 1659 80 80
+o 0 0 80 80
+~
+n borders/cork-nub
+s 1005 33 14 44
+o 66 0 80 80
+~
+n borders/cork-top
+s 4 1999 80 44
+o 0 0 80 80
+~
+n borders/cork-top-right
+s 4 1489 80 80
+o 0 0 80 80
+~
+n borders/cork-top-right-bottom
+s 4 1574 80 80
+o 0 0 80 80
+~
+n borders/crosshatch-all
+s 929 1244 80 80
+o 0 0 80 80
+~
+n borders/crosshatch-top
+s 684 1329 80 8
+o 0 0 80 80
+~
+n borders/crosshatch-top-right
+s 759 1244 80 80
+o 0 0 80 80
+~
+n borders/crosshatch-top-right-bottom
+s 844 1244 80 80
+o 0 0 80 80
+~
+n borders/iron-back-all
+s 674 1244 80 80
+o 0 0 80 80
+~
+n borders/iron-back-nub
+s 984 33 16 16
+o 64 0 80 80
+~
+n borders/iron-back-top
+s 174 1999 80 16
+o 0 0 80 80
+~
+n borders/iron-back-top-right
+s 504 1244 80 80
+o 0 0 80 80
+~
+n borders/iron-back-top-right-bottom
+s 589 1244 80 80
+o 0 0 80 80
+~
+n borders/marble-back-all
+s 174 1404 80 80
+o 0 0 80 80
+~
+n borders/marble-back-nub
+s 984 92 12 10
+o 68 0 80 80
+~
+n borders/marble-back-top
+s 429 1329 80 12
+o 0 0 80 80
+~
+n borders/marble-back-top-right
+s 4 1404 80 80
+o 0 0 80 80
+~
+n borders/marble-back-top-right-bottom
+s 89 1404 80 80
+o 0 0 80 80
+~
+n borders/medium-all
+s 259 1324 80 80
+o 0 0 80 80
+~
+n borders/medium-top
+s 839 1159 80 80
+o 0 0 80 80
+~
+n borders/medium-top-right
+s 924 1159 80 80
+o 0 0 80 80
+~
+n borders/medium-top-right-bottom
+s 419 1244 80 80
+o 0 0 80 80
+~
+n borders/stone-back-all
+s 754 1159 80 80
+o 0 0 80 80
+~
+n borders/stone-back-nub
+s 984 4 28 24
+o 52 0 80 80
+~
+n borders/stone-back-top
+s 344 1329 80 70
+o 0 0 80 80
+~
+n borders/stone-back-top-right
+s 584 1159 80 80
+o 0 0 80 80
+~
+n borders/stone-back-top-right-bottom
+s 669 1159 80 80
+o 0 0 80 80
+~
+n borders/wallpaper-all
+s 174 1319 80 80
+o 0 0 80 80
+~
+n borders/wallpaper-nub
+s 584 329 50 80
+o 30 0 80 80
+~
+n borders/wallpaper-top
+s 334 1239 80 80
+o 0 0 80 80
+~
+n borders/wallpaper-top-right
+s 4 1319 80 80
+o 0 0 80 80
+~
+n borders/wallpaper-top-right-bottom
+s 89 1319 80 80
+o 0 0 80 80
+~
+n borders/wood-thin-all
+s 499 1159 80 80
+o 0 0 80 80
+~
+n borders/wood-thin-nub
+s 1003 82 12 12
+o 68 0 80 80
+~
+n borders/wood-thin-top
+s 89 1999 80 34
+o 0 0 80 80
+~
+n borders/wood-thin-top-right
+s 499 329 80 80
+o 0 0 80 80
+~
+n borders/wood-thin-top-right-bottom
+s 499 414 80 80
+o 0 0 80 80
+~

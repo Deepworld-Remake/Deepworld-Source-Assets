@@ -1,0 +1,40 @@
+i tk2d 1
+w 1024
+h 1024
+~
+n liquid/acid-1
+s 4 829 400 160
+o 0 0 400 160
+~
+n liquid/acid-2
+s 4 664 400 160
+o 0 0 400 160
+~
+n liquid/acid-3
+s 4 499 400 160
+o 0 0 400 160
+~
+n liquid/magma-1
+s 409 334 400 160
+o 0 0 400 160
+~
+n liquid/magma-2
+s 4 334 400 160
+o 0 0 400 160
+~
+n liquid/magma-3
+s 409 169 400 160
+o 0 0 400 160
+~
+n liquid/water-1
+s 4 169 400 160
+o 0 0 400 160
+~
+n liquid/water-2
+s 409 4 400 160
+o 0 0 400 160
+~
+n liquid/water-3
+s 4 4 400 160
+o 0 0 400 160
+~

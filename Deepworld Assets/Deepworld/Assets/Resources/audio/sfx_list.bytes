@@ -1,0 +1,238 @@
+Audio/Music/scarescape/beat-2a
+Audio/Music/scarescape/beat-2b
+Audio/SFX/primary/creatures/terrapus-chatter-1
+Audio/SFX/primary/creatures/terrapus-chatter-2
+Audio/SFX/primary/gui/chime-1
+Audio/SFX/primary/gui/click
+Audio/SFX/primary/gui/place
+Audio/SFX/primary/gui/craft
+Audio/SFX/primary/gui/error
+Audio/SFX/primary/gui/notification
+Audio/SFX/primary/gui/whoosh
+Audio/SFX/primary/hits/dirt-1
+Audio/SFX/primary/hits/dirt-2
+Audio/SFX/primary/hits/dirt-3
+Audio/SFX/primary/hits/dirt-4
+Audio/SFX/primary/hits/dirt-5
+Audio/SFX/primary/hits/HitBody
+Audio/SFX/primary/hits/HitHard
+Audio/SFX/primary/hits/HitHard1
+Audio/SFX/primary/hits/HitHard2
+Audio/SFX/primary/hits/HitHard3
+Audio/SFX/primary/hits/HitHard4
+Audio/SFX/primary/hits/HitMech
+Audio/SFX/primary/hits/HitMetal1
+Audio/SFX/primary/hits/HitMetal2
+Audio/SFX/primary/hits/HitMetal3
+Audio/SFX/primary/hits/HitMetal4
+Audio/SFX/primary/hits/HitPunch
+Audio/SFX/primary/hits/metal_med_misc_impact_01
+Audio/SFX/primary/hits/metal_med_misc_impact_02
+Audio/SFX/primary/hits/metal_med_misc_impact_03
+Audio/SFX/primary/hits/metal_med_misc_impact_06
+Audio/SFX/primary/hits/ThudBasic
+Audio/SFX/primary/hits/ThudOnBack
+Audio/SFX/primary/hits/ThudOnBody
+Audio/SFX/primary/hits/ThudOnClothes
+Audio/SFX/primary/hits/ThudOnTorso
+Audio/SFX/primary/hits/ThudOnWood
+Audio/SFX/primary/loops/jetpack
+Audio/SFX/primary/player/hurt
+Audio/SFX/primary/player/teleport
+Audio/SFX/secondary/ambient/bats-1
+Audio/SFX/secondary/ambient/bats-2
+Audio/SFX/secondary/ambient/bats-3
+Audio/SFX/secondary/ambient/drip-1
+Audio/SFX/secondary/ambient/drip-2
+Audio/SFX/secondary/ambient/drip-3
+Audio/SFX/secondary/ambient/drip-4
+Audio/SFX/secondary/ambient/drip-5
+Audio/SFX/secondary/ambient/drip-6
+Audio/SFX/secondary/ambient/rockfall-1
+Audio/SFX/secondary/ambient/rockfall-2
+Audio/SFX/secondary/ambient/rockfall-3
+Audio/SFX/secondary/ambient/rockfall-4
+Audio/SFX/secondary/ambient/rockfall-5
+Audio/SFX/secondary/atmosphere/bubbling
+Audio/SFX/secondary/atmosphere/crickets_amb_03_15
+Audio/SFX/secondary/atmosphere/earthquake_rumble
+Audio/SFX/secondary/atmosphere/forest_rain_01_15
+Audio/SFX/secondary/atmosphere/hallway_of_fear_sub_air_dark_hollow_wide_01_10
+Audio/SFX/secondary/atmosphere/rain_forest_02_15
+Audio/SFX/secondary/atmosphere/thunder02
+Audio/SFX/secondary/atmosphere/thunder03
+Audio/SFX/secondary/atmosphere/thunder_14
+Audio/SFX/secondary/atmosphere/wind_desert_01_30
+Audio/SFX/secondary/atmosphere/wind_harsh_mountain_01_30_loop
+Audio/SFX/secondary/atmosphere/windgust02
+Audio/SFX/secondary/atmosphere/windgust03
+Audio/SFX/secondary/atmosphere/windgust07
+Audio/SFX/secondary/automata/automata-chatter-1
+Audio/SFX/secondary/automata/automata-chatter-2
+Audio/SFX/secondary/automata/automata-chatter-3
+Audio/SFX/secondary/automata/automata-chatter-4
+Audio/SFX/secondary/automata/powerdown-bib-ss04325
+Audio/SFX/secondary/automata/powerdown-bib-ss04815
+Audio/SFX/secondary/automata/powerdown-blfx-10997-quiet
+Audio/SFX/secondary/automata/powerdown-blfx-10997
+Audio/SFX/secondary/automata/powerdown_02
+Audio/SFX/secondary/automata/scifielectronic10-bit
+Audio/SFX/secondary/automata/scifielectronic10
+Audio/SFX/secondary/brains/butler-talk-1
+Audio/SFX/secondary/brains/butler-talk-2
+Audio/SFX/secondary/brains/hiss_beast_growl_01
+Audio/SFX/secondary/brains/hiss_beast_growl_02
+Audio/SFX/secondary/brains/hiss_beast_growl_03
+Audio/SFX/secondary/brains/hiss_beast_screech_03
+Audio/SFX/secondary/brains/hiss_beast_screech_04
+Audio/SFX/secondary/creatures/bat-chatter-1
+Audio/SFX/secondary/creatures/bat-chatter-2
+Audio/SFX/secondary/creatures/bat-chatter-3
+Audio/SFX/secondary/creatures/bat-die
+Audio/SFX/secondary/creatures/blue_jay_squawk_02
+Audio/SFX/secondary/creatures/crow-chatter-1
+Audio/SFX/secondary/creatures/crow-chatter-2
+Audio/SFX/secondary/creatures/crow-die
+Audio/SFX/secondary/creatures/large_creature_09_hiss_01
+Audio/SFX/secondary/creatures/large_creature_09_snarl_01
+Audio/SFX/secondary/creatures/rat_hit_02
+Audio/SFX/secondary/creatures/rat_idle_01
+Audio/SFX/secondary/creatures/seagull_01
+Audio/SFX/secondary/creatures/seagull_03
+Audio/SFX/secondary/creatures/seagull_10
+Audio/SFX/secondary/creatures/small_creature_screech03
+Audio/SFX/secondary/creatures/small_creature_screech06
+Audio/SFX/secondary/explosions/electrical_burst_01
+Audio/SFX/secondary/explosions/electrical_fuse_burst_08
+Audio/SFX/secondary/explosions/ExplosionDistant
+Audio/SFX/secondary/explosions/ExplosionIncendiary
+Audio/SFX/secondary/explosions/ExplosionPip
+Audio/SFX/secondary/explosions/ExplosionPop
+Audio/SFX/secondary/gui/karma-negative
+Audio/SFX/secondary/gui/match-end
+Audio/SFX/secondary/gui/match-start
+Audio/SFX/secondary/gui/sfx-flourish-1
+Audio/SFX/secondary/gui/sfx-flourish-2
+Audio/SFX/secondary/hits/bone_crush_03
+Audio/SFX/secondary/hits/bone_crush_05
+Audio/SFX/secondary/hits/bone_snap_small_03
+Audio/SFX/secondary/hits/DroppedGlass
+Audio/SFX/secondary/hits/electric-hit
+Audio/SFX/secondary/hits/metal_impact02
+Audio/SFX/secondary/hits/metal_impact05
+Audio/SFX/secondary/hits/metal_impact10
+Audio/SFX/secondary/hits/metal_impact18
+Audio/SFX/secondary/hits/metal_impact21
+Audio/SFX/secondary/hits/metal_med_hollow_impact_06
+Audio/SFX/secondary/hits/Mining
+Audio/SFX/secondary/hits/squish-1
+Audio/SFX/secondary/hits/squish-2
+Audio/SFX/secondary/hits/terrapus-die
+Audio/SFX/secondary/hits/TwigSnap1
+Audio/SFX/secondary/hits/TwigSnap2
+Audio/SFX/secondary/hits/whoosh-1
+Audio/SFX/secondary/items/clothing_rustle_nylon_07
+Audio/SFX/secondary/liquid/underwater-splash-1
+Audio/SFX/secondary/liquid/underwater-splash-2
+Audio/SFX/secondary/liquid/underwater-splash-3
+Audio/SFX/secondary/liquid/water-splash-in
+Audio/SFX/secondary/liquid/water-splash-out
+Audio/SFX/secondary/loops/direct
+Audio/SFX/secondary/loops/electric-arc-1
+Audio/SFX/secondary/loops/fire_05_loop10
+Audio/SFX/secondary/loops/fire_woodstove01_15
+Audio/SFX/secondary/loops/jetpack
+Audio/SFX/secondary/loops/steam_leak_01
+Audio/SFX/secondary/machines/centrifugal_rotor_idle_v01_10
+Audio/SFX/secondary/machines/cricketpulse
+Audio/SFX/secondary/machines/deflectorhum
+Audio/SFX/secondary/machines/fire_furnace02
+Audio/SFX/secondary/machines/forboding
+Audio/SFX/secondary/machines/generator_hum03
+Audio/SFX/secondary/machines/generatorpulse
+Audio/SFX/secondary/machines/grandfather_clock_chime_half_hour
+Audio/SFX/secondary/machines/old_compressor
+Audio/SFX/secondary/machines/razorwire
+Audio/SFX/secondary/machines/record_needle_static_loop_06
+Audio/SFX/secondary/machines/sleestack
+Audio/SFX/secondary/machines/spooky07
+Audio/SFX/secondary/machines/squishy
+Audio/SFX/secondary/machines/wobble_02
+Audio/SFX/secondary/mechanical/door_unlock01
+Audio/SFX/secondary/mechanical/metal_door_08
+Audio/SFX/secondary/mechanical/metal_door_09
+Audio/SFX/secondary/mechanical/metal_lever_movement_08
+Audio/SFX/secondary/mechanical/metal_lever_movement_37
+Audio/SFX/secondary/mechanical/respawn
+Audio/SFX/secondary/mechanical/screendoor_wood_shut01
+Audio/SFX/secondary/mechanical/screendoor_wood_shut02
+Audio/SFX/secondary/mechanical/stealth-off-old1
+Audio/SFX/secondary/mechanical/stealth-off
+Audio/SFX/secondary/mechanical/stealth-on
+Audio/SFX/secondary/mechanical/tick-tock
+Audio/SFX/secondary/player/chomp-1
+Audio/SFX/secondary/player/chomp-2
+Audio/SFX/secondary/player/chomp-3
+Audio/SFX/secondary/player/chomp-4
+Audio/SFX/secondary/player/chomp-5
+Audio/SFX/secondary/player/ouch-female-1
+Audio/SFX/secondary/player/ouch-female-2
+Audio/SFX/secondary/player/ouch-female-3
+Audio/SFX/secondary/player/ouch-female-4
+Audio/SFX/secondary/player/ouch-female-5
+Audio/SFX/secondary/player/ouch-male-1
+Audio/SFX/secondary/player/ouch-male-2
+Audio/SFX/secondary/player/ouch-male-3
+Audio/SFX/secondary/player/ouch-male-4
+Audio/SFX/secondary/player/ouch-male-5
+Audio/SFX/secondary/shields/forcefield_magnetic_loop_03
+Audio/SFX/secondary/shots/fireball_flame_01
+Audio/SFX/secondary/shots/gun_22pistol_05
+Audio/SFX/secondary/shots/gun_22pistol_06
+Audio/SFX/secondary/shots/radio_static_11
+Audio/SFX/secondary/shots/steam_whoosh
+Audio/SFX/secondary/shots/torch_whoosh06
+Audio/SFX/secondary/shots/torch_whoosh12
+Audio/SFX/secondary/supernatural/ghost-whisper-short
+Audio/SFX/secondary/supernatural/revenant-ambient-1
+Audio/SFX/secondary/supernatural/revenant-ambient-2
+Audio/SFX/footsteps/carpet_running 1_1
+Audio/SFX/footsteps/carpet_running 1_2
+Audio/SFX/footsteps/carpet_running 1_3
+Audio/SFX/footsteps/carpet_running 1_4
+Audio/SFX/footsteps/carpet_running 1_5
+Audio/SFX/footsteps/carpet_running 1_6
+Audio/SFX/footsteps/carpet_running 1_7
+Audio/SFX/footsteps/carpet_running 1_8
+Audio/SFX/footsteps/carpet_running 1_9
+Audio/SFX/footsteps/carpet_running 1_10
+Audio/SFX/footsteps/concrete normal_running 2_1
+Audio/SFX/footsteps/concrete normal_running 2_2
+Audio/SFX/footsteps/concrete normal_running 2_3
+Audio/SFX/footsteps/concrete normal_running 2_4
+Audio/SFX/footsteps/concrete normal_running 2_5
+Audio/SFX/footsteps/concrete normal_running 2_6
+Audio/SFX/footsteps/concrete normal_running 2_7
+Audio/SFX/footsteps/concrete normal_running 2_8
+Audio/SFX/footsteps/concrete normal_running 2_9
+Audio/SFX/footsteps/concrete normal_running 2_10
+Audio/SFX/footsteps/metal running 1_1
+Audio/SFX/footsteps/metal running 1_2
+Audio/SFX/footsteps/metal running 1_3
+Audio/SFX/footsteps/metal running 1_4
+Audio/SFX/footsteps/metal running 1_5
+Audio/SFX/footsteps/metal running 1_6
+Audio/SFX/footsteps/metal running 1_7
+Audio/SFX/footsteps/metal running 1_8
+Audio/SFX/footsteps/metal running 1_9
+Audio/SFX/footsteps/metal running 1_10
+Audio/SFX/footsteps/wood_running 2_1
+Audio/SFX/footsteps/wood_running 2_2
+Audio/SFX/footsteps/wood_running 2_3
+Audio/SFX/footsteps/wood_running 2_4
+Audio/SFX/footsteps/wood_running 2_5
+Audio/SFX/footsteps/wood_running 2_6
+Audio/SFX/footsteps/wood_running 2_7
+Audio/SFX/footsteps/wood_running 2_8
+Audio/SFX/footsteps/wood_running 2_9
+Audio/SFX/footsteps/wood_running 2_10

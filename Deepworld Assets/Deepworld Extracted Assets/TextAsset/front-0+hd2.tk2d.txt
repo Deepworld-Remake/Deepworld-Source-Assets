@@ -1,0 +1,2116 @@
+i tk2d 1
+w 4096
+h 2048
+~
+n borders/trap-electric-top
+s 145 1559 80 14
+o 0 0 80 80
+~
+n brain/pipe
+s 3382 1567 58 160
+o 13 0 80 160
+~
+n brain/tank-brass-top
+s 2091 1125 80 54
+o 0 26 80 80
+~
+n brain/tank-brass-top-left
+s 2006 1125 80 54
+o 0 26 80 80
+~
+n building/bloodstone-column
+s 2398 4 146 160
+o 8 0 160 160
+~
+n building/bridge-rope-end
+s 1602 1184 160 106
+o 0 54 160 160
+~
+n building/door-brass
+s 2992 4 128 160
+o 15 0 160 160
+~
+n building/door-brass-open
+s 1785 1819 160 160
+o 0 0 160 160
+~
+n building/door-wood
+s 3524 1817 42 160
+o 16 0 80 160
+~
+n building/door-wood-open
+s 2747 638 80 160
+o 0 0 80 160
+~
+n building/fence-iron-1
+s 1342 239 80 76
+o 0 4 80 80
+~
+n building/fence-iron-tall-1
+s 3463 441 80 156
+o 0 4 80 160
+~
+n building/fence-iron-tall-2
+s 4012 1629 80 156
+o 0 4 80 160
+~
+n building/fence-wood-tall-1
+s 2942 960 80 160
+o 0 0 80 160
+~
+n building/fence-wood-tall-2
+s 2832 638 80 160
+o 0 0 80 160
+~
+n building/gargoyle-large-demon-front
+s 3587 800 92 154
+o 30 6 160 160
+~
+n building/gargoyle-large-demon-side
+s 2562 483 138 150
+o 11 10 160 160
+~
+n building/hanger
+s 1391 553 160 80
+o 0 0 160 80
+~
+n building/mailbox
+s 2917 638 80 160
+o 0 0 80 160
+~
+n building/marble-column
+s 2549 4 146 160
+o 8 0 160 160
+~
+n building/marble-column-base
+s 2989 1732 160 80
+o 0 0 160 80
+~
+n building/pedestal-bloodstone
+s 3109 316 76 160
+o 2 0 80 160
+~
+n building/pedestal-marble
+s 3087 636 74 160
+o 2 0 80 160
+~
+n building/scarecrow
+s 1499 1296 160 160
+o 0 0 160 160
+~
+n building/staircase
+s 4 4 160 320
+o 0 0 160 320
+~
+n building/statue-bloodstone-1
+s 3855 1817 78 158
+o 2 2 80 160
+~
+n building/statue-bloodstone-2
+s 3855 133 78 156
+o 1 4 80 160
+~
+n building/statue-bloodstone-large-1
+s 2551 803 132 152
+o 12 8 160 160
+~
+n building/statue-figurine-2
+s 3416 634 42 80
+o 19 0 80 80
+~
+n building/statue-figurine-large-4
+s 3219 272 66 80
+o 9 0 80 80
+~
+n building/statue-gothic-front
+s 2958 803 80 152
+o 0 8 80 160
+~
+n building/statue-gothic-side
+s 3043 803 78 152
+o 0 8 80 160
+~
+n building/statue-marble-1
+s 3411 1288 80 158
+o 0 2 80 160
+~
+n building/statue-marble-2
+s 3855 294 78 156
+o 1 4 80 160
+~
+n building/statue-marble-large-1
+s 2688 803 132 152
+o 9 8 160 160
+~
+n building/statue-marble-large-2
+s 3385 282 134 154
+o 14 6 160 160
+~
+n building/tinman
+s 1658 960 160 160
+o 0 0 160 160
+~
+n building/wood-pile-1
+s 875 1545 78 24
+o 1 56 80 80
+~
+n chromatic/beacon
+s 703 966 156 240
+o 1 0 160 240
+~
+n chromatic/flag
+s 2943 318 78 160
+o 2 0 80 160
+~
+n chromatic/spikes-small
+s 279 1547 80 26
+o 0 54 80 80
+~
+n chromatic/turret-large
+s 3861 1310 160 136
+o 0 0 160 160
+~
+n chromatic/turret-large-base
+s 2133 1523 46 44
+o 57 59 160 160
+~
+n chromatic/turret-small-base
+s 2133 1523 46 44
+o 17 19 80 80
+~
+n containers/barrel-pitch
+s 1548 1129 74 50
+o 4 0 80 80
+~
+n containers/barrel-porthole-full
+s 4046 822 44 36
+o 18 26 80 80
+~
+n containers/barrel-porthole-used
+s 2697 1522 36 42
+o 22 20 80 80
+~
+n containers/barrel-tall
+s 3027 960 80 160
+o 0 0 80 160
+~
+n containers/bucket
+s 3855 455 68 80
+o 6 0 80 80
+~
+n containers/canned-food
+s 1823 960 160 160
+o 0 0 160 160
+~
+n containers/chest-industrial
+s 1664 1295 160 160
+o 0 0 160 160
+~
+n containers/chest-large
+s 3319 1732 158 80
+o 1 0 160 80
+~
+n containers/chest-mechanical-large
+s 3154 1732 160 80
+o 0 0 160 80
+~
+n containers/crate-industrial-large
+s 1829 1295 160 160
+o 0 0 160 160
+~
+n containers/crate-industrial-small-label-cat
+s 2558 1983 64 60
+o 7 9 80 80
+~
+n containers/crate-industrial-small-label-dog
+s 2765 1983 62 60
+o 8 10 80 80
+~
+n containers/crate-industrial-small-open
+s 4026 1395 66 78
+o 5 2 80 80
+~
+n containers/crate-large-1
+s 1790 1572 160 160
+o 0 0 160 160
+~
+n containers/crate-large-2
+s 1955 1572 160 160
+o 0 0 160 160
+~
+n containers/pandora-box-closed
+s 1950 1818 160 160
+o 0 0 160 160
+~
+n containers/pandora-box-open
+s 2115 1818 160 160
+o 0 0 160 160
+~
+n containers/sack-large-1
+s 1994 1293 160 160
+o 0 0 160 160
+~
+n containers/stamp-large-2
+s 1758 855 132 100
+o 14 47 160 160
+~
+n containers/stamp-large-3
+s 1556 523 140 110
+o 5 41 160 160
+~
+n containers/stamp-small-1
+s 3704 1980 54 64
+o 10 12 80 80
+~
+n containers/stamp-small-2
+s 2484 1454 76 64
+o 3 8 80 80
+~
+n containers/wine-label-1
+s 3982 2021 26 20
+o 27 33 80 80
+~
+n furniture/bathtub
+s 1990 511 200 122
+o 21 38 240 160
+~
+n furniture/bathtub-bubbles-1
+s 2682 1734 126 78
+o 66 16 240 160
+~
+n furniture/bathtub-bubbles-2
+s 930 559 174 74
+o 39 20 240 160
+~
+n furniture/bathtub-bubbles-3
+s 167 1225 170 72
+o 51 22 240 160
+~
+n furniture/bed
+s 1381 1185 216 106
+o 12 54 240 160
+~
+n furniture/bidet-water-1
+s 4026 1478 66 78
+o 10 1 80 80
+~
+n furniture/blueprint-background-large
+s 458 967 240 240
+o 0 0 240 240
+~
+n furniture/blueprint-background-small
+s 2120 1572 160 160
+o 0 0 160 160
+~
+n furniture/blueprint-butlerbot
+s 1375 855 104 102
+o 28 29 160 160
+~
+n furniture/blueprint-compressor
+s 2233 191 122 122
+o 18 18 160 160
+~
+n furniture/blueprint-dish
+s 3567 959 120 122
+o 20 18 160 160
+~
+n furniture/blueprint-frame-brass
+s 3571 1817 16 160
+o 144 0 160 160
+~
+n furniture/blueprint-frame-diamond
+s 3634 1817 14 160
+o 146 0 160 160
+~
+n furniture/blueprint-frame-onyx
+s 3592 1817 16 160
+o 144 0 160 160
+~
+n furniture/blueprint-gun-suppressor
+s 4 1852 190 190
+o 25 25 240 240
+~
+n furniture/blueprint-holograph
+s 1465 962 188 162
+o 26 39 240 240
+~
+n furniture/blueprint-knife
+s 2100 191 128 122
+o 16 19 160 160
+~
+n furniture/blueprint-large-frame-brass
+s 869 1300 22 240
+o 218 0 240 240
+~
+n furniture/blueprint-large-frame-diamond
+s 799 320 20 240
+o 220 0 240 240
+~
+n furniture/blueprint-large-frame-onyx
+s 840 1300 24 240
+o 216 0 240 240
+~
+n furniture/blueprint-mass-spawner
+s 1637 320 190 188
+o 25 26 240 240
+~
+n furniture/blueprint-mass-teleporter
+s 1710 4 200 184
+o 20 28 240 240
+~
+n furniture/blueprint-scope
+s 3804 1730 120 82
+o 20 38 160 160
+~
+n furniture/blueprint-weather-machine
+s 1832 318 184 188
+o 28 26 240 240
+~
+n furniture/bookshelf-books
+s 169 323 1 1
+o 0 0 160 320
+~
+n furniture/bookshelf-books-1
+s 655 4 144 290
+o 7 27 160 320
+~
+n furniture/bookshelf-books-2
+s 494 4 156 290
+o 0 27 160 320
+~
+n furniture/bookshelf-tall
+s 4 329 156 320
+o 2 0 160 320
+~
+n furniture/brass-throne
+s 893 638 150 232
+o 43 7 240 240
+~
+n furniture/brazier
+s 3929 1730 78 82
+o 1 78 80 160
+~
+n furniture/brazier-flame-3
+s 3219 384 80 92
+o 0 6 80 160
+~
+n furniture/butterfly-mounted-green
+s 2234 1983 78 60
+o 1 10 80 80
+~
+n furniture/butterfly-mounted-rumanzovia
+s 1894 1984 80 60
+o 0 8 80 80
+~
+n furniture/chair-a-side
+s 3566 602 74 122
+o 3 38 80 160
+~
+n furniture/chair-b
+s 2939 483 78 150
+o 2 10 80 160
+~
+n furniture/chair-fine-2
+s 3290 282 76 96
+o 2 43 80 160
+~
+n furniture/chair-plush
+s 2610 638 132 160
+o 11 0 160 160
+~
+n furniture/clock-giant-back
+s 484 323 310 310
+o 5 6 320 320
+~
+n furniture/clock-giant-front
+s 804 4 282 284
+o 15 22 320 320
+~
+n furniture/clock-giant-gear-large-1
+s 3031 1453 66 64
+o 145 182 320 320
+~
+n furniture/clock-giant-hour-hand
+s 3904 1536 38 124
+o 140 52 320 320
+~
+n furniture/clock-giant-minute-hand
+s 1454 1296 40 164
+o 139 11 320 320
+~
+n furniture/daguerreotype-frame-large
+s 3110 1567 148 160
+o 6 0 160 160
+~
+n furniture/daguerreotype-image-1
+s 1316 1185 60 110
+o 47 25 160 160
+~
+n furniture/daguerreotype-image-10
+s 1844 1184 68 106
+o 44 26 160 160
+~
+n furniture/daguerreotype-image-11
+s 1241 1185 70 110
+o 43 27 160 160
+~
+n furniture/daguerreotype-image-3
+s 1597 207 72 108
+o 45 22 160 160
+~
+n furniture/daguerreotype-image-6
+s 3219 169 66 98
+o 44 31 160 160
+~
+n furniture/daguerreotype-image-7
+s 1484 855 54 102
+o 52 27 160 160
+~
+n furniture/daguerreotype-image-8
+s 3426 1124 90 98
+o 20 21 160 160
+~
+n furniture/daguerreotype-image-9
+s 3524 256 58 96
+o 54 33 160 160
+~
+n furniture/davenport
+s 3648 1310 208 136
+o 16 24 240 160
+~
+n furniture/davenport-2
+s 1028 1197 208 98
+o 16 34 240 160
+~
+n furniture/davenport-3
+s 1543 855 210 100
+o 14 29 240 160
+~
+n furniture/easel
+s 2819 1288 154 160
+o 0 0 160 160
+~
+n furniture/easel-tall
+s 1203 638 154 228
+o 0 12 160 240
+~
+n furniture/fainting
+s 3692 880 232 118
+o 5 42 240 160
+~
+n furniture/fainting-2
+s 2288 1735 230 78
+o 4 47 240 160
+~
+n furniture/fainting-3
+s 571 883 232 78
+o 5 48 240 160
+~
+n furniture/fireplace-dark
+s 3871 1980 40 64
+o 19 87 80 160
+~
+n furniture/fireplace-flame-1
+s 3997 1239 52 66
+o 14 0 80 80
+~
+n furniture/fireplace-flame-3
+s 3818 1980 48 64
+o 20 2 80 80
+~
+n furniture/fireplace-large
+s 3126 801 160 154
+o 0 6 160 160
+~
+n furniture/fireplace-large-dark
+s 1302 1753 98 62
+o 30 88 160 160
+~
+n furniture/globe
+s 2825 803 128 152
+o 14 8 160 160
+~
+n furniture/grandfather-clock
+s 896 1300 80 226
+o 0 14 80 240
+~
+n furniture/grandfather-clock-hour-hand
+s 771 299 10 18
+o 34 40 80 240
+~
+n furniture/grandfather-clock-minute-hand
+s 1539 523 10 22
+o 34 36 80 240
+~
+n furniture/hatrack
+s 1060 1300 118 220
+o 20 100 160 320
+~
+n furniture/head-bear
+s 2648 169 132 144
+o 14 10 160 160
+~
+n furniture/head-deer
+s 3653 1817 98 158
+o 30 1 160 160
+~
+n furniture/head-fish
+s 3411 729 160 66
+o 0 7 160 80
+~
+n furniture/head-jackalope
+s 3291 800 150 154
+o 4 0 160 160
+~
+n furniture/head-mammoth
+s 1027 964 188 228
+o 22 7 240 240
+~
+n furniture/head-predator
+s 3324 481 134 148
+o 18 6 160 160
+~
+n furniture/head-tiger
+s 2705 483 138 150
+o 11 8 160 160
+~
+n furniture/head-zebra
+s 3263 1567 114 160
+o 20 0 160 160
+~
+n furniture/map
+s 2429 1125 286 158
+o 16 0 320 160
+~
+n furniture/mars
+s 2978 1288 126 160
+o 17 0 160 160
+~
+n furniture/mirror-wall
+s 3756 1817 94 158
+o 32 0 160 160
+~
+n furniture/moon
+s 3416 135 100 120
+o 30 40 160 160
+~
+n furniture/painting-alpaca
+s 2280 1818 160 160
+o 0 0 160 160
+~
+n furniture/painting-autumn
+s 1789 638 160 160
+o 0 0 160 160
+~
+n furniture/painting-back-1
+s 1988 960 160 160
+o 0 0 160 160
+~
+n furniture/painting-back-2
+s 1954 638 160 160
+o 0 0 160 160
+~
+n furniture/painting-back-3
+s 2119 638 160 160
+o 0 0 160 160
+~
+n furniture/painting-back-4
+s 2153 960 160 160
+o 0 0 160 160
+~
+n furniture/painting-back-5
+s 2159 1289 160 160
+o 0 0 160 160
+~
+n furniture/painting-building-1
+s 799 565 126 68
+o 5 92 160 160
+~
+n furniture/painting-building-3
+s 2516 318 144 160
+o 5 0 160 160
+~
+n furniture/painting-building-4
+s 3181 481 138 148
+o 11 12 160 160
+~
+n furniture/painting-building-5
+s 1274 557 112 76
+o 22 84 160 160
+~
+n furniture/painting-digdug
+s 2318 960 160 160
+o 0 0 160 160
+~
+n furniture/painting-distress
+s 2324 1289 160 160
+o 0 0 160 160
+~
+n furniture/painting-frame
+s 3613 1817 16 160
+o 144 0 160 160
+~
+n furniture/painting-gashlycrumb
+s 2285 1570 160 160
+o 0 0 160 160
+~
+n furniture/painting-leapquest
+s 2445 1818 160 160
+o 0 0 160 160
+~
+n furniture/painting-mayflower
+s 2450 1570 160 160
+o 0 0 160 160
+~
+n furniture/painting-northerners
+s 2489 1288 160 160
+o 0 0 160 160
+~
+n furniture/painting-notch
+s 2654 1288 160 160
+o 0 0 160 160
+~
+n furniture/painting-outling
+s 2615 1569 160 160
+o 0 0 160 160
+~
+n furniture/painting-smasheroid
+s 2610 1818 160 160
+o 0 0 160 160
+~
+n furniture/painting-son-of-man
+s 2780 1569 160 160
+o 0 0 160 160
+~
+n furniture/painting-surfer
+s 2775 1817 160 160
+o 0 0 160 160
+~
+n furniture/painting-une-pipe
+s 2940 1817 160 160
+o 0 0 160 160
+~
+n furniture/park-bench
+s 3276 1003 240 116
+o 0 44 240 160
+~
+n furniture/pinned-bee
+s 3298 1982 66 62
+o 7 10 80 80
+~
+n furniture/pinned-dragonfly
+s 3937 1154 150 80
+o 7 0 160 80
+~
+n furniture/pinned-tarantula
+s 1427 239 80 76
+o 0 1 80 80
+~
+n furniture/shelf
+s 449 1547 80 26
+o 0 0 80 80
+~
+n furniture/shelf-end
+s 364 1547 80 26
+o 0 0 80 80
+~
+n furniture/ship-in-bottle
+s 1437 1524 78 44
+o 1 36 80 80
+~
+n furniture/sink
+s 1767 1184 72 106
+o 4 54 80 160
+~
+n furniture/stuffed-brain
+s 1988 1737 72 76
+o 0 4 80 80
+~
+n furniture/stuffed-crow
+s 3102 1453 66 64
+o 4 16 80 80
+~
+n furniture/wardrobe
+s 951 1820 156 222
+o 1 18 160 240
+~
+n furniture/wastebasket
+s 2184 1523 36 44
+o 22 36 80 80
+~
+n furniture/wine-rack
+s 3776 1154 156 80
+o 1 0 160 80
+~
+n furniture/wine-rack-large
+s 2945 1567 160 160
+o 0 0 160 160
+~
+n ground/beehive-hanging
+s 2401 1454 78 64
+o 0 0 80 80
+~
+n ground/bloodstone-ore-2
+s 1763 1523 72 44
+o 3 36 80 80
+~
+n ground/bloodstone-ore-3
+s 2994 1982 72 62
+o 3 18 80 80
+~
+n ground/crystal-blue-3
+s 4054 1239 38 46
+o 19 34 80 80
+~
+n ground/crystal-blue-4
+s 981 1300 74 226
+o 5 14 80 240
+~
+n ground/crystal-purple-large
+s 3648 1165 50 140
+o 13 20 80 160
+~
+n ground/crystal-rainbow
+s 1166 320 142 232
+o 11 8 160 240
+~
+n ground/diamond-ore-2
+s 3443 1522 70 40
+o 4 40 80 80
+~
+n ground/dug-neutral
+s 3105 1817 160 160
+o 0 0 160 160
+~
+n ground/filet
+s 3593 1522 68 40
+o 5 40 80 80
+~
+n ground/fire-salt-1
+s 494 299 78 18
+o 0 62 80 80
+~
+n ground/fire-salt-2
+s 3397 959 80 38
+o 0 42 80 80
+~
+n ground/fur-2
+s 3482 959 80 38
+o 0 42 80 80
+~
+n ground/fur-3
+s 1979 1983 80 60
+o 0 20 80 80
+~
+n ground/guano-2
+s 3362 1522 76 40
+o 1 40 80 80
+~
+n ground/guano-3
+s 3576 729 78 66
+o 0 12 80 80
+~
+n ground/iron-ore-2
+s 2176 1125 80 54
+o 0 26 80 80
+~
+n ground/lead-ore-1
+s 3385 441 72 34
+o 3 46 80 80
+~
+n ground/marble-ore-2
+s 2400 1983 76 60
+o 1 20 80 80
+~
+n ground/platinum-ore-1
+s 3666 1522 66 40
+o 7 40 80 80
+~
+n ground/quartz-ore-2
+s 1465 1129 78 50
+o 2 30 80 80
+~
+n ground/resin-3
+s 1826 1737 76 76
+o 3 4 80 80
+~
+n ground/salt-1
+s 2102 483 76 20
+o 3 60 80 80
+~
+n ground/salt-2
+s 1520 1524 78 44
+o 1 36 80 80
+~
+n ground/salt-3
+s 2064 1983 80 60
+o 0 20 80 80
+~
+n ground/salt-crystal-2
+s 2727 1453 74 64
+o 2 16 80 80
+~
+n ground/salt-crystal-4
+s 169 323 1 1
+o 0 0 80 80
+~
+n ground/stone-2
+s 1918 1460 80 58
+o 0 22 80 80
+~
+n ground/sulfur-ore-2
+s 2346 1125 78 54
+o 1 26 80 80
+~
+n ground/terrapus-egg-cracked
+s 2832 1982 78 62
+o 2 18 80 80
+~
+n ground/terrapus-egg-large
+s 2665 318 138 160
+o 10 0 160 160
+~
+n ground/zinc-ore-1
+s 3938 415 80 34
+o 0 46 80 80
+~
+n holiday/candy-cane-large-2
+s 3565 1227 78 142
+o 2 18 80 160
+~
+n holiday/christmas-lights-reindeer
+s 2849 4 138 160
+o 4 0 160 160
+~
+n holiday/christmas-lights-sleigh
+s 2244 483 160 150
+o 0 10 160 160
+~
+n holiday/christmas-lights-white-top-right-bottom
+s 4026 1310 66 80
+o 14 0 80 80
+~
+n holiday/cornucopia
+s 1102 243 150 72
+o 4 8 160 80
+~
+n holiday/door-festive-open
+s 3947 1536 74 88
+o 3 5 80 160
+~
+n holiday/gift-large-1
+s 3263 1125 158 158
+o 2 2 160 160
+~
+n holiday/gift-large-2
+s 2021 318 160 160
+o 0 0 160 160
+~
+n holiday/gift-small-3
+s 3819 1665 62 60
+o 7 20 80 80
+~
+n holiday/gift-tall-1
+s 3649 1567 80 158
+o 0 2 80 160
+~
+n holiday/holly-garland
+s 3938 737 152 80
+o 6 0 160 80
+~
+n holiday/sleigh
+s 3692 578 232 146
+o 4 14 240 160
+~
+n holiday/tree-charlie-brown
+s 2785 169 124 144
+o 14 16 160 160
+~
+n holiday/wreath-large
+s 3270 1817 148 160
+o 6 0 160 160
+~
+n industrial/chain-large
+s 3819 1567 18 80
+o 64 0 160 80
+~
+n industrial/conveyor-belt-1
+s 3447 1451 240 66
+o 0 14 240 80
+~
+n industrial/conveyor-belt-2
+s 3166 729 240 66
+o 0 14 240 80
+~
+n industrial/crane-base-large
+s 3482 1732 158 80
+o 0 0 160 80
+~
+n industrial/vat-acid-1
+s 1111 1525 160 44
+o 0 0 160 160
+~
+n industrial/vat-acid-2
+s 3494 1567 150 158
+o 2 0 160 160
+~
+n industrial/vat-acid-3
+s 3819 729 114 136
+o 16 0 160 160
+~
+n industrial/vat-acid-4
+s 2360 169 144 144
+o 14 0 160 160
+~
+n keys/gem-head
+s 3291 135 120 142
+o 0 8 120 160
+~
+n lighting/candle-flames-1
+s 1870 803 20 22
+o 30 0 80 80
+~
+n lighting/candle-flames-2
+s 725 299 18 18
+o 32 0 80 80
+~
+n lighting/candlelabra
+s 342 1225 160 72
+o 0 8 160 80
+~
+n lighting/candlelabra-flames-2
+s 1276 1524 156 44
+o 2 0 160 80
+~
+n lighting/chandelier
+s 1606 1819 174 160
+o 32 0 240 160
+~
+n lighting/chandelier-flames-2
+s 3916 1980 174 36
+o 32 52 240 160
+~
+n lighting/fancy-lamp-3
+s 824 320 76 238
+o 2 2 80 240
+~
+n lighting/fancy-lamp-4
+s 3109 1288 80 160
+o 0 0 80 160
+~
+n lighting/fancy-lamp-5
+s 4012 1790 80 156
+o 0 4 80 160
+~
+n lighting/fancy-lamp-8-flames-2
+s 786 299 148 16
+o 4 61 160 160
+~
+n lighting/floorlamp
+s 808 638 80 234
+o 0 6 80 240
+~
+n lighting/grow-lamp
+s 1137 1753 160 62
+o 0 0 160 80
+~
+n lighting/grow-lamp-glow-1
+s 958 1531 148 38
+o 7 25 160 80
+~
+n lighting/grow-lamp-glow-2
+s 3124 1522 148 40
+o 8 24 160 80
+~
+n lighting/industrial-flames-2
+s 1840 1523 68 44
+o 5 36 80 80
+~
+n lighting/lantern-flame-1
+s 3190 444 18 28
+o 30 30 80 80
+~
+n lighting/lantern-flame-2
+s 1487 523 16 24
+o 32 34 80 80
+~
+n lighting/paper-1
+s 3369 1982 62 62
+o 8 10 80 80
+~
+n lighting/paper-2
+s 3436 1982 62 62
+o 8 10 80 80
+~
+n lighting/paper-3
+s 3503 1982 62 62
+o 8 10 80 80
+~
+n lighting/paper-4
+s 3570 1982 62 62
+o 8 10 80 80
+~
+n lighting/streetlight
+s 89 654 72 318
+o 8 2 80 320
+~
+n lighting/streetlight-triple
+s 4 979 158 318
+o 1 2 160 320
+~
+n machines/gun-suppressor-base
+s 169 4 320 314
+o 0 6 320 320
+~
+n machines/holograph-base-1
+s 905 320 256 234
+o 0 86 480 320
+~
+n machines/holograph-base-2
+s 2720 1125 208 158
+o 237 138 480 320
+~
+n machines/holograph-diamond-1
+s 1895 803 164 152
+o 207 157 480 320
+~
+n machines/holograph-onyx
+s 972 1574 118 178
+o 325 142 480 320
+~
+n machines/holograph-spinner-2
+s 3315 1453 64 64
+o 182 96 480 320
+~
+n machines/holograph-spinner-4
+s 2650 1522 42 42
+o 105 182 480 320
+~
+n machines/mass-spawner-base
+s 166 650 400 312
+o 0 8 400 320
+~
+n machines/mass-spawner-diamond-1
+s 145 1302 122 252
+o 15 68 400 320
+~
+n machines/mass-spawner-diamond-2
+s 4 1579 114 268
+o 283 52 400 320
+~
+n machines/mass-spawner-onyx-1
+s 1469 1465 222 54
+o 104 264 400 320
+~
+n machines/mass-spawner-onyx-2
+s 477 1838 228 202
+o 101 7 400 320
+~
+n machines/mass-spawner-spinner-1
+s 2627 1983 64 60
+o 30 20 400 320
+~
+n machines/mass-spawner-spinner-2
+s 2627 1983 64 60
+o 328 20 400 320
+~
+n machines/mass-teleporter-base-1
+s 1362 638 422 212
+o 0 188 480 400
+~
+n machines/mass-teleporter-base-2
+s 507 1212 320 84
+o 83 121 480 400
+~
+n machines/mass-teleporter-diamond
+s 3446 800 136 154
+o 39 246 480 400
+~
+n machines/mass-teleporter-onyx
+s 3518 4 332 126
+o 83 34 480 400
+~
+n machines/weather-machine-base-1
+s 123 1579 354 254
+o 0 146 400 400
+~
+n machines/weather-machine-base-2
+s 167 978 286 242
+o 68 24 400 400
+~
+n machines/weather-machine-diamond
+s 4 1302 136 272
+o 10 102 400 400
+~
+n machines/weather-machine-onyx
+s 3645 1730 154 82
+o 154 26 400 400
+~
+n mechanical/beacon
+s 3279 1288 66 160
+o 7 0 80 160
+~
+n mechanical/bomb-mega
+s 1557 1573 228 160
+o 3 0 240 160
+~
+n mechanical/bomb-spawner-large
+s 3084 169 130 142
+o 10 18 160 160
+~
+n mechanical/bomb-stink
+s 1512 239 80 76
+o 0 4 80 80
+~
+n mechanical/bomb-suppressor
+s 2186 318 160 160
+o 0 0 160 160
+~
+n mechanical/collector
+s 482 1578 240 240
+o 0 0 240 240
+~
+n mechanical/composter-chamber
+s 3291 4 222 126
+o 62 114 320 240
+~
+n mechanical/composter-cover
+s 2140 1184 98 100
+o 125 125 320 240
+~
+n mechanical/composter-fuel-tank
+s 1369 1300 80 166
+o 231 68 320 240
+~
+n mechanical/composter-output
+s 3304 384 76 92
+o 3 133 320 240
+~
+n mechanical/control-panel
+s 3734 1567 80 158
+o 0 2 80 160
+~
+n mechanical/control-panel-large
+s 2284 638 160 160
+o 0 0 160 160
+~
+n mechanical/dish-arc-1
+s 2245 169 56 16
+o 11 0 80 80
+~
+n mechanical/dish-arc-2
+s 577 299 66 18
+o 7 0 80 80
+~
+n mechanical/dish-giga
+s 272 1302 318 240
+o 0 0 320 240
+~
+n mechanical/dish-giga-arc-1
+s 2225 1523 162 42
+o 79 4 320 240
+~
+n mechanical/dish-giga-arc-2
+s 2969 1522 150 40
+o 94 3 320 240
+~
+n mechanical/dish-large
+s 2409 483 148 150
+o 4 10 160 160
+~
+n mechanical/dish-large-arc-1
+s 3276 960 116 38
+o 23 7 160 160
+~
+n mechanical/dish-mega
+s 710 1823 236 220
+o 2 20 240 240
+~
+n mechanical/dish-mega-arc-1
+s 2026 4 214 182
+o 13 10 240 240
+~
+n mechanical/dish-mega-arc-2
+s 1095 1574 216 174
+o 10 14 240 240
+~
+n mechanical/door-beefy-closed
+s 2449 638 156 160
+o 2 0 160 160
+~
+n mechanical/door-beefy-open
+s 2483 960 160 160
+o 0 0 160 160
+~
+n mechanical/door-closed
+s 3350 1288 56 160
+o 16 0 80 160
+~
+n mechanical/door-color-blue
+s 2021 483 22 22
+o 29 68 80 160
+~
+n mechanical/door-color-green
+s 674 1546 26 26
+o 30 67 80 160
+~
+n mechanical/door-color-red
+s 1508 523 26 22
+o 25 65 80 160
+~
+n mechanical/door-open
+s 3194 1288 80 160
+o 0 0 80 160
+~
+n mechanical/engine
+s 1281 1820 320 160
+o 0 0 320 160
+~
+n mechanical/exploder-acid
+s 2003 1458 78 60
+o 20 53 160 160
+~
+n mechanical/exploder-electric
+s 1714 1984 86 60
+o 18 54 160 160
+~
+n mechanical/exploder-flame
+s 2086 1458 78 60
+o 20 51 160 160
+~
+n mechanical/exploder-frost
+s 1805 1984 84 60
+o 20 51 160 160
+~
+n mechanical/exploder-normal
+s 2317 1983 78 60
+o 20 51 160 160
+~
+n mechanical/forge
+s 1220 962 240 218
+o 0 22 240 240
+~
+n mechanical/friend-parts-foot
+s 939 293 58 22
+o 15 58 80 80
+~
+n mechanical/furnace
+s 3026 318 78 160
+o 0 0 80 160
+~
+n mechanical/furnace-glow
+s 832 1211 56 84
+o 24 51 80 160
+~
+n mechanical/geck-cog-large
+s 3777 1003 146 146
+o 102 92 400 240
+~
+n mechanical/geck-cog-small
+s 1284 871 86 86
+o 234 75 400 240
+~
+n mechanical/geck-hoses
+s 1099 875 180 82
+o 119 158 400 240
+~
+n mechanical/geck-tree-base
+s 893 1199 130 96
+o 22 144 400 240
+~
+n mechanical/geck-tub
+s 808 877 286 82
+o 61 158 400 240
+~
+n mechanical/lathe-anim-1
+s 169 323 1 1
+o 0 0 320 160
+~
+n mechanical/lathe-anim-2
+s 1701 513 284 120
+o 20 4 320 160
+~
+n mechanical/loom
+s 3855 4 236 124
+o 0 36 240 160
+~
+n mechanical/loom-anim-1
+s 1674 207 224 106
+o 16 38 240 160
+~
+n mechanical/loom-anim-2
+s 1917 1184 218 104
+o 16 40 240 160
+~
+n mechanical/magnet-trap-large
+s 3022 483 154 148
+o 1 12 160 160
+~
+n mechanical/mill
+s 2648 960 156 160
+o 0 0 160 160
+~
+n mechanical/mill-anim-1
+s 169 323 1 1
+o 0 0 160 160
+~
+n mechanical/mill-anim-2
+s 2523 1735 154 78
+o 0 18 160 160
+~
+n mechanical/periscope-tile
+s 3190 316 24 80
+o 29 0 80 80
+~
+n mechanical/pipe
+s 3445 1567 44 160
+o 17 0 80 160
+~
+n mechanical/pipe-cap
+s 2601 1522 44 42
+o 17 38 80 80
+~
+n mechanical/pipe-end
+s 230 1559 44 12
+o 18 68 80 80
+~
+n mechanical/pipe-iron
+s 2401 1184 22 80
+o 29 0 80 80
+~
+n mechanical/pipe-top-right
+s 3886 1665 60 60
+o 20 0 80 80
+~
+n mechanical/platform
+s 1109 559 160 74
+o 0 0 160 80
+~
+n mechanical/rail-cap-1
+s 2738 1522 28 42
+o 26 38 80 80
+~
+n mechanical/rail-cap-2
+s 2771 1522 28 42
+o 26 38 80 80
+~
+n mechanical/recycler-gear
+s 2902 1734 82 78
+o 125 198 240 320
+~
+n mechanical/recycler-gear-base
+s 3929 455 162 136
+o 78 174 240 320
+~
+n mechanical/recycler-pipe
+s 1535 4 170 198
+o 54 41 240 320
+~
+n mechanical/recycler-pipe-base
+s 1183 1300 64 170
+o 162 36 240 320
+~
+n mechanical/recycler-tubes
+s 1334 4 196 230
+o 0 0 240 320
+~
+n mechanical/replenisher
+s 2390 803 156 152
+o 0 8 160 160
+~
+n mechanical/replenisher-overlay
+s 2401 1269 10 12
+o 16 7 160 160
+~
+n mechanical/science-bulb
+s 3565 1374 78 72
+o 0 8 80 80
+~
+n mechanical/science-gadget
+s 1660 1738 78 76
+o 1 4 80 80
+~
+n mechanical/ship-wheel
+s 3938 133 154 154
+o 2 2 160 160
+~
+n mechanical/spawner
+s 2227 803 158 152
+o 1 8 160 160
+~
+n mechanical/spawner-brain
+s 2064 803 158 152
+o 1 8 160 160
+~
+n mechanical/spawner-emblem-2
+s 1065 293 32 22
+o 101 130 160 160
+~
+n mechanical/spawner-emblem-4
+s 3916 2021 28 20
+o 102 129 160 160
+~
+n mechanical/spawner-small-emblem-brain
+s 3949 2021 28 20
+o 26 52 80 80
+~
+n mechanical/spawner-small-emblem-terrapus
+s 1065 293 32 22
+o 25 52 80 80
+~
+n mechanical/spikes
+s 2316 1454 80 64
+o 0 16 80 80
+~
+n mechanical/stabilizer
+s 595 1301 240 240
+o 0 0 240 240
+~
+n mechanical/steam-jet-large
+s 727 1575 240 240
+o 0 0 240 240
+~
+n mechanical/steam-jet-small
+s 2351 318 160 160
+o 0 0 160 160
+~
+n mechanical/suppressor
+s 3692 135 158 156
+o 0 4 160 160
+~
+n mechanical/switch-color-blue
+s 675 299 20 18
+o 32 58 80 80
+~
+n mechanical/switch-color-green
+s 2048 483 22 22
+o 30 56 80 80
+~
+n mechanical/switch-color-red
+s 4013 2021 22 20
+o 29 55 80 80
+~
+n mechanical/switch-large-fancy-on
+s 3692 296 158 136
+o 2 24 160 160
+~
+n mechanical/switch-large-on
+s 3692 437 158 136
+o 2 24 160 160
+~
+n mechanical/switch-large-timer-on
+s 3587 327 100 52
+o 30 96 160 160
+~
+n mechanical/switch-timer-off
+s 1535 207 56 20
+o 12 56 80 80
+~
+n mechanical/switch-timer-on
+s 2183 483 56 20
+o 11 56 80 80
+~
+n mechanical/swtich-large-timer-off
+s 3587 384 100 52
+o 29 96 160 160
+~
+n mechanical/teleporter
+s 864 964 158 230
+o 0 10 160 240
+~
+n mechanical/teleporter-mini-base
+s 972 1757 160 58
+o 0 102 160 160
+~
+n mechanical/teleporter-mini-diamond-base
+s 1112 1987 156 56
+o 0 104 160 160
+~
+n mechanical/teleporter-mini-motes-1
+s 3938 292 154 118
+o 0 7 160 160
+~
+n mechanical/teleporter-mini-motes-3
+s 3928 1031 156 118
+o 0 8 160 160
+~
+n mechanical/teleporter-mini-onyx-base
+s 1273 1987 154 56
+o 0 104 160 160
+~
+n mechanical/telescope
+s 2509 169 134 144
+o 8 16 160 160
+~
+n mechanical/tesla-coil
+s 199 1838 156 206
+o 0 34 160 240
+~
+n mechanical/thinking-cap
+s 2700 4 144 160
+o 5 0 160 160
+~
+n mechanical/toolbox
+s 1743 1738 78 76
+o 0 4 80 80
+~
+n mechanical/touchplate-blue
+s 700 299 20 18
+o 30 31 80 80
+~
+n mechanical/touchplate-green
+s 4040 2021 22 20
+o 28 30 80 80
+~
+n mechanical/touchplate-red
+s 4067 2021 22 20
+o 29 28 80 80
+~
+n mechanical/trap-electric-arc-top-right-bottom-3
+s 3938 1817 68 80
+o 12 0 80 80
+~
+n mechanical/trap-spout
+s 2392 1523 80 42
+o 0 38 80 80
+~
+n mechanical/trapdoor-large-closed
+s 1183 1475 160 44
+o 0 0 160 80
+~
+n mechanical/trapdoor-large-color-blue
+s 1870 830 20 20
+o 9 4 160 80
+~
+n mechanical/trapdoor-large-color-green
+s 2075 483 22 22
+o 6 3 160 80
+~
+n mechanical/trapdoor-large-color-red
+s 3548 558 22 20
+o 7 3 160 80
+~
+n mechanical/trapdoor-small-color-blue
+s 748 299 18 18
+o 0 0 80 80
+~
+n mechanical/trapdoor-small-color-green
+s 3219 357 20 20
+o 0 0 80 80
+~
+n mechanical/trapdoor-small-color-red
+s 648 299 22 18
+o 0 0 80 80
+~
+n mechanical/turret-base-mark-2
+s 3173 1453 66 64
+o 7 7 80 80
+~
+n mechanical/turret-base-mark-3
+s 2958 1453 68 64
+o 5 7 80 80
+~
+n mechanical/turret-trap-acid
+s 1405 1738 80 76
+o 0 4 80 80
+~
+n mechanical/turret-trap-bullet
+s 1490 1738 80 76
+o 0 4 80 80
+~
+n mechanical/typewriter
+s 2565 1453 76 64
+o 2 16 80 80
+~
+n mechanical/vault
+s 165 329 314 316
+o 6 2 320 320
+~
+n mechanical/vault-glass
+s 1112 1820 164 162
+o 75 76 320 320
+~
+n mechanical/winepress-base
+s 1091 4 238 234
+o 0 6 240 240
+~
+n mechanical/winepress-piston
+s 3521 135 166 116
+o 37 10 240 240
+~
+n mechanical/zone-teleporter
+s 571 638 232 240
+o 2 0 240 240
+~
+n music/bass-drum
+s 3929 870 160 156
+o 0 4 160 160
+~
+n music/gong
+s 2933 1125 160 158
+o 0 2 160 160
+~
+n music/harp
+s 360 1838 112 204
+o 28 36 160 240
+~
+n music/music-box-ballerina
+s 3938 822 18 40
+o 29 2 80 80
+~
+n music/music-box-ballerina-2
+s 3548 515 22 38
+o 30 1 80 80
+~
+n music/music-box-ballerina-4
+s 3190 401 24 38
+o 29 0 80 80
+~
+n music/music-box-key
+s 166 967 18 6
+o 0 0 18 6
+~
+n music/piano
+s 1316 1573 236 160
+o 1 0 240 160
+~
+n music/snare-drum
+s 3951 1629 56 96
+o 11 64 80 160
+~
+n music/synthesizer
+s 3098 1125 160 158
+o 0 2 160 160
+~
+n parts/gun-barrel
+s 705 1546 80 24
+o 0 12 80 80
+~
+n parts/pistol-stock
+s 1684 1524 74 44
+o 2 21 80 80
+~
+n rubble/bone-pile-1
+s 3961 822 80 38
+o 0 42 80 80
+~
+n rubble/bones-large-2
+s 1432 1985 140 58
+o 8 22 160 80
+~
+n rubble/copper
+s 3865 1239 62 66
+o 6 14 80 80
+~
+n rubble/gravestone-4
+s 3384 1453 58 64
+o 9 16 80 80
+~
+n rubble/scrap-metal-1
+s 3836 1451 64 66
+o 7 14 80 80
+~
+n rubble/scrap-metal-10
+s 3426 1227 134 56
+o 12 24 160 80
+~
+n rubble/scrap-metal-3
+s 2477 1523 66 42
+o 7 38 80 80
+~
+n rubble/scrap-metal-4
+s 4026 1561 66 58
+o 7 22 80 80
+~
+n rubble/scrap-metal-5
+s 3843 1522 56 138
+o 10 22 80 160
+~
+n rubble/scrap-metal-7
+s 3905 1451 116 80
+o 7 0 160 80
+~
+n rubble/scrap-metal-9
+s 3566 1086 132 74
+o 12 6 160 80
+~
+n rubble/skeleton-1
+s 1704 1125 148 54
+o 6 26 160 80
+~
+n rubble/skeleton-2
+s 1577 1985 132 58
+o 8 22 160 80
+~
+n rubble/skeleton-3
+s 1696 1460 124 58
+o 16 22 160 80
+~
+n rubble/skeleton-4
+s 3521 1166 122 56
+o 19 24 160 80
+~
+n rubble/stone-pile-1
+s 1825 1460 88 58
+o 36 22 160 80
+~
+n rubble/stone-pile-4
+s 3071 1982 72 62
+o 3 18 80 80
+~
+n rubble/stone-pile-6
+s 3855 540 60 32
+o 8 48 80 80
+~
+n rubble/stone-pile-7
+s 2169 1454 142 64
+o 9 16 160 80
+~
+n rubble/stone-pile-8
+s 1857 1125 144 54
+o 6 26 160 80
+~
+n rubble/wood-1
+s 2883 1453 70 64
+o 4 16 80 80
+~
+n rubble/wood-2
+s 1627 1129 72 50
+o 3 30 80 80
+~
+n rubble/wood-6
+s 2328 1184 68 100
+o 6 60 80 160
+~
+n rubble/wood-stake-1
+s 3496 1288 64 126
+o 7 34 80 160
+~
+n vegetation/cactus-small-1
+s 3703 1239 78 66
+o 0 14 80 80
+~
+n vegetation/cactus-small-2
+s 3692 1003 80 78
+o 0 2 80 80
+~
+n vegetation/cactus-small-3
+s 2261 1125 80 54
+o 0 26 80 80
+~
+n vegetation/flower-amaryllis-1
+s 3763 1980 50 64
+o 20 15 80 80
+~
+n vegetation/flower-amaryllis-bulb
+s 3521 1002 40 78
+o 22 0 80 80
+~
+n vegetation/flower-asphodelus-2
+s 2915 1982 74 62
+o 6 18 80 80
+~
+n vegetation/flower-bird-of-paradise-1
+s 2806 1453 72 64
+o 4 16 80 80
+~
+n vegetation/flower-bird-of-paradise-3
+s 3423 1817 96 160
+o 5 0 120 160
+~
+n vegetation/flower-cactus-3
+s 2848 483 86 150
+o 19 10 120 160
+~
+n vegetation/flower-cactus-bulb
+s 3645 602 42 80
+o 17 0 80 80
+~
+n vegetation/flower-delphinium-1
+s 3548 438 22 72
+o 30 7 80 80
+~
+n vegetation/flower-echinacea-3
+s 3125 4 78 160
+o 21 0 120 160
+~
+n vegetation/flower-hyacinth-1
+s 3659 726 28 60
+o 26 19 80 80
+~
+n vegetation/flower-hyacinth-bulb
+s 2142 1737 68 76
+o 5 0 80 80
+~
+n vegetation/flower-lobelia-2
+s 3786 1239 74 66
+o 6 13 80 80
+~
+n vegetation/flower-lobelia-bulb
+s 2195 508 44 76
+o 19 0 80 80
+~
+n vegetation/flower-trumpets-1
+s 3938 1902 68 72
+o 12 8 80 80
+~
+n vegetation/flower-trumpets-3
+s 2808 318 130 160
+o 2 0 140 160
+~
+n vegetation/flower-tuberose-bulb
+s 3521 1085 40 76
+o 22 0 80 80
+~
+n vegetation/grass
+s 2804 1522 160 40
+o 0 40 160 80
+~
+n vegetation/mushroom-acid-tall
+s 3002 638 80 160
+o 0 0 80 160
+~
+n vegetation/mushroom-anbaric-2
+s 1575 1738 80 76
+o 0 4 80 80
+~
+n vegetation/mushroom-apostate-elder
+s 3703 1086 68 148
+o 0 12 80 160
+~
+n vegetation/mushroom-arctic-elder
+s 2914 169 80 144
+o 0 16 80 160
+~
+n vegetation/mushroom-chanterelle-3
+s 1603 1524 76 44
+o 2 36 80 80
+~
+n vegetation/mushroom-devils-cigar-1
+s 2646 1453 76 64
+o 2 16 80 80
+~
+n vegetation/mushroom-devils-cigar-2
+s 3765 1451 66 66
+o 12 14 80 80
+~
+n vegetation/mushroom-grey-2
+s 2065 1737 72 76
+o 5 4 80 80
+~
+n vegetation/mushroom-grey-3
+s 1907 1737 76 76
+o 3 4 80 80
+~
+n vegetation/mushroom-lava-2
+s 3692 1451 68 66
+o 12 14 80 80
+~
+n vegetation/mushroom-lava-3
+s 3524 357 58 76
+o 8 4 80 80
+~
+n vegetation/mushroom-lava-elder
+s 3197 960 74 160
+o 1 0 80 160
+~
+n vegetation/mushroom-morel-1
+s 3637 1982 62 62
+o 7 18 80 80
+~
+n vegetation/mushroom-morel-3
+s 3244 1453 66 64
+o 6 16 80 80
+~
+n vegetation/mushroom-porcini-2
+s 3932 1239 60 66
+o 7 14 80 80
+~
+n vegetation/mushroom-portabella-1
+s 1789 803 76 46
+o 1 34 80 80
+~
+n vegetation/mushroom-portabella-3
+s 2481 1983 72 60
+o 4 20 80 80
+~
+n vegetation/mushrooms-tiny-1
+s 1442 523 40 24
+o 11 56 80 80
+~
+n vegetation/mushrooms-tiny-3
+s 534 1547 70 26
+o 2 54 80 80
+~
+n vegetation/pine-tree-festive-1
+s 3208 4 78 160
+o 0 0 80 160
+~
+n vegetation/pine-tree-festive-2
+s 3112 960 80 160
+o 0 0 80 160
+~
+n vegetation/pine-tree-festive-4
+s 2999 169 80 144
+o 0 16 80 160
+~
+n vegetation/pine-tree-festive-giant
+s 1048 638 150 232
+o 4 8 160 240
+~
+n vegetation/pumpkin-1
+s 2195 589 44 40
+o 16 40 80 80
+~
+n vegetation/pumpkin-giant
+s 3938 596 152 136
+o 4 24 160 160
+~
+n vegetation/pumpkin-lantern-1
+s 2027 1523 48 44
+o 16 30 80 80
+~
+n vegetation/pumpkin-lantern-2
+s 2548 1523 48 42
+o 16 31 80 80
+~
+n vegetation/pumpkin-lantern-3
+s 1913 1523 52 44
+o 14 30 80 80
+~
+n vegetation/pumpkin-lantern-lit-1
+s 2080 1523 48 44
+o 16 30 80 80
+~
+n vegetation/pumpkin-lantern-lit-2
+s 3792 1522 46 40
+o 17 32 80 80
+~
+n vegetation/pumpkin-lantern-lit-3
+s 1970 1523 52 44
+o 14 30 80 80
+~
+n vegetation/pumpkin-seeds
+s 2149 1983 80 60
+o 0 10 80 80
+~
+n vegetation/shrub-a-2
+s 3737 1522 50 40
+o 10 40 80 80
+~
+n vegetation/shrub-b-3
+s 2696 1983 64 60
+o 8 20 80 80
+~
+n vegetation/shrub-c-2
+s 609 1546 60 26
+o 7 54 80 80
+~
+n vegetation/shrub-c-4
+s 3587 256 100 66
+o 10 14 120 80
+~
+n vegetation/shrub-d-2
+s 3645 687 42 34
+o 20 46 80 80
+~
+n vegetation/shrub-d-3
+s 2813 1734 84 78
+o 20 2 120 80
+~
+n vegetation/shrub-d-5
+s 2245 4 148 160
+o 2 0 160 160
+~
+n vegetation/shrub-dead-4
+s 3277 1522 80 40
+o 0 40 80 80
+~
+n vegetation/shrub-dead-5
+s 790 1546 80 24
+o 0 56 80 80
+~
+n vegetation/shrub-e-2
+s 1002 293 58 22
+o 12 58 80 80
+~
+n vegetation/shrub-e-3
+s 1348 1471 116 48
+o 2 32 120 80
+~
+n vegetation/shrub-e-4
+s 3166 636 134 88
+o 12 72 160 160
+~
+n vegetation/shrub-e-5
+s 1903 193 192 120
+o 2 40 200 160
+~
+n vegetation/shrub-f-2
+s 4023 415 54 34
+o 12 46 80 80
+~
+n vegetation/shrub-f-3
+s 2243 1184 80 100
+o 0 60 80 160
+~
+n vegetation/shrub-f-4
+s 1915 4 106 184
+o 11 56 120 240
+~
+n vegetation/shrub-f-5
+s 1313 320 124 228
+o 16 12 160 240
+~
+n vegetation/shrub-g-2
+s 3518 1522 70 40
+o 4 40 80 80
+~
+n vegetation/shrub-g-4
+s 3692 729 122 146
+o 12 14 160 160
+~
+n vegetation/shrub-g-5
+s 1442 320 190 198
+o 5 42 200 240
+~
+n vegetation/tree-bonsai-1
+s 1257 243 80 72
+o 0 8 80 80
+~
+n vegetation/tree-bonsai-2
+s 3305 634 106 90
+o 14 70 120 160
+~
+n vegetation/tree-bonsai-3
+s 2809 960 128 160
+o 12 0 140 160
+~
+n vegetation/tree-dead-top-1
+s 1252 1300 112 166
+o 53 74 240 240
+~
+n vegetation/tree-dead-top-2
+s 3463 602 98 122
+o 76 118 240 240
+~
+n vegetation/tree-dead-trunk
+s 4 654 80 320
+o 0 0 80 400
+~
+n vegetation/tree-hellish-3
+s 3576 441 110 156
+o 0 4 120 160
+~
+n vegetation/tree-hellish-bulb
+s 2215 1737 68 76
+o 27 0 120 80
+~
+n vegetation/tumbleweed-1
+s 3225 1982 68 62
+o 8 18 80 80
+~
+n vegetation/tumbleweed-2
+s 3148 1982 72 62
+o 3 17 80 80
+~

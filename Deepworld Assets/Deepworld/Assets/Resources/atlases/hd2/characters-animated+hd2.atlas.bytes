@@ -1,0 +1,5338 @@
+characters-animated+hd2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tops/pirate-arm-lower
+  rotate: false
+  xy: 680, 1489
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+tools/sledgehammer
+  rotate: false
+  xy: 841, 1008
+  size: 18, 71
+  orig: 18, 71
+  offset: 0, 0
+  index: -1
+tools/pickaxe-fine
+  rotate: false
+  xy: 864, 841
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+tops/coat-red
+  rotate: false
+  xy: 777, 1075
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+headgear/knight-helmet
+  rotate: false
+  xy: 284, 252
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+headgear/brass-helmet
+  rotate: false
+  xy: 358, 752
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+hair/secret-agent
+  rotate: false
+  xy: 864, 1329
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+footwear/flying-shoes-upper
+  rotate: false
+  xy: 800, 1374
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+tops/brain
+  rotate: false
+  xy: 248, 933
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+android-head-back2
+  rotate: false
+  xy: 686, 1453
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+facialgear/ski-glasses
+  rotate: false
+  xy: 410, 1152
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+bottoms/reaper-leg-lower
+  rotate: false
+  xy: 79, 1742
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+hair/che
+  rotate: false
+  xy: 659, 868
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+prosthetics/brass-foot-upper
+  rotate: false
+  xy: 157, 1424
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+footwear/samaurai-boot-lower
+  rotate: false
+  xy: 274, 1659
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+bottoms/valkyrie-leg-lower
+  rotate: false
+  xy: 104, 1709
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+facialgear/hazmat
+  rotate: false
+  xy: 866, 776
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+tops/pirate-lady
+  rotate: false
+  xy: 864, 1128
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+tools/rapier-platinum
+  rotate: false
+  xy: 923, 1034
+  size: 19, 102
+  orig: 19, 102
+  offset: 0, 0
+  index: -1
+facialgear/butterfly
+  rotate: false
+  xy: 547, 1526
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+avatar/hand
+  rotate: false
+  xy: 154, 1728
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+tops/vampire
+  rotate: false
+  xy: 670, 478
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+headgear/bucket
+  rotate: false
+  xy: 475, 916
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+bottoms/winter-skirt-r
+  rotate: false
+  xy: 947, 1354
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+headgear/cat
+  rotate: false
+  xy: 95, 160
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+bottoms/dress-green-m
+  rotate: false
+  xy: 122, 843
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+tops/coat-blue-arm-upper
+  rotate: false
+  xy: 534, 1598
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+headgear/terrapus
+  rotate: false
+  xy: 4, 674
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+tools/cane-diamond
+  rotate: false
+  xy: 1000, 1326
+  size: 20, 91
+  orig: 20, 91
+  offset: 0, 0
+  index: -1
+headgear/aloha
+  rotate: false
+  xy: 882, 612
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+tools/gun-steam-mk2
+  rotate: false
+  xy: 851, 149
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+tools/musket-mk3
+  rotate: false
+  xy: 392, 85
+  size: 87, 25
+  orig: 87, 25
+  offset: 0, 0
+  index: -1
+headgear/constable-hat
+  rotate: false
+  xy: 597, 693
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+headgear/lampshade
+  rotate: false
+  xy: 92, 394
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-gun-frost-pistol
+  rotate: false
+  xy: 271, 94
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+headgear/cthulhu
+  rotate: false
+  xy: 4, 160
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+bottoms/winter-skirt-l
+  rotate: false
+  xy: 657, 1141
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+tools/bayonet
+  rotate: false
+  xy: 382, 75
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+hair/pop-starlet
+  rotate: false
+  xy: 947, 1268
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+bottoms/brass-leg-lower
+  rotate: false
+  xy: 585, 1381
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+avatar/jetpack-brass
+  rotate: false
+  xy: 711, 1223
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+tops/coat-blue
+  rotate: false
+  xy: 539, 697
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+headgear/sombrero
+  rotate: false
+  xy: 167, 163
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+headgear/helmet
+  rotate: false
+  xy: 812, 558
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+hair/cornrows
+  rotate: false
+  xy: 800, 1341
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+tools/cane
+  rotate: false
+  xy: 179, 924
+  size: 26, 93
+  orig: 26, 93
+  offset: 0, 0
+  index: -1
+bottoms/prepgirl-skirt-l
+  rotate: false
+  xy: 556, 1344
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+hair/grease
+  rotate: false
+  xy: 247, 1085
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+facialgear/earrings-hoop
+  rotate: false
+  xy: 130, 718
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+bottoms/plant-leg-upper
+  rotate: false
+  xy: 843, 938
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+tops/rain
+  rotate: false
+  xy: 959, 577
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+tops/cheerleader-arm-upper
+  rotate: false
+  xy: 126, 777
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+tools/gun-flame-pistol-mk3
+  rotate: false
+  xy: 670, 433
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+footwear/boot-heeled-lower
+  rotate: false
+  xy: 67, 1588
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+headgear/paper
+  rotate: false
+  xy: 366, 385
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+tops/parka-arm-lower
+  rotate: false
+  xy: 394, 1584
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+facialgear/masks/comedy
+  rotate: false
+  xy: 919, 207
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+tools/gun-frost-mk3
+  rotate: false
+  xy: 680, 145
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+tops/brass
+  rotate: false
+  xy: 657, 1246
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+tops/rainbow
+  rotate: false
+  xy: 579, 1077
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+tops/aviation-arm-lower
+  rotate: false
+  xy: 61, 1608
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+tops/cheerleader
+  rotate: false
+  xy: 312, 635
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+headgear/headphones
+  rotate: false
+  xy: 947, 919
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+tools/gun-energy-mk2
+  rotate: false
+  xy: 691, 49
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1
+tops/coat-red-arm-upper
+  rotate: false
+  xy: 878, 1533
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+tops/brain-shirt-arm-upper
+  rotate: false
+  xy: 473, 1607
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+tops/vampire-arm-lower
+  rotate: false
+  xy: 601, 1534
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+hair/back-bun
+  rotate: false
+  xy: 4, 934
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+bottoms/brass-leg-upper
+  rotate: false
+  xy: 221, 1546
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+hair/joker
+  rotate: false
+  xy: 657, 1047
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+bottoms/reaper-skirt-l
+  rotate: false
+  xy: 247, 1219
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+tools/gun-energy-pistol-mk3
+  rotate: false
+  xy: 359, 608
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+footwear/shoe-lower
+  rotate: false
+  xy: 188, 1478
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+footwear/watermelon-shoe-lower
+  rotate: false
+  xy: 401, 1503
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+avatar/eye-surprised
+  rotate: false
+  xy: 869, 1458
+  size: 30, 14
+  orig: 48, 32
+  offset: 4, 5
+  index: -1
+facialgear/clown
+  rotate: false
+  xy: 130, 742
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+avatar/eye
+  rotate: false
+  xy: 641, 1498
+  size: 30, 18
+  orig: 48, 32
+  offset: 4, 4
+  index: -1
+facialhair/anchor
+  rotate: false
+  xy: 701, 1391
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+facialgear/masks/amon
+  rotate: false
+  xy: 208, 1379
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+tools/confetti-launcher-mk3
+  rotate: false
+  xy: 285, 75
+  size: 92, 55
+  orig: 92, 55
+  offset: 0, 0
+  index: -1
+headgear/helmet-onyx
+  rotate: false
+  xy: 664, 765
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tops/jacket-lady-green
+  rotate: false
+  xy: 959, 348
+  size: 61, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+hair/superman
+  rotate: false
+  xy: 412, 1115
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+facialgear/rainbow
+  rotate: false
+  xy: 731, 1419
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+tops/parka-orange-arm-lower
+  rotate: false
+  xy: 186, 1649
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+tops/mad-scientist-arm-upper
+  rotate: false
+  xy: 819, 1511
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+tops/santa-arm-upper
+  rotate: false
+  xy: 597, 1586
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+bottoms/dress-pink-l
+  rotate: false
+  xy: 248, 574
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+tops/magician-arm-upper
+  rotate: false
+  xy: 198, 1583
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+tools/pickaxe-onyx
+  rotate: false
+  xy: 537, 909
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+bottoms/santa-upper
+  rotate: false
+  xy: 925, 929
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+facialgear/reading-glasses
+  rotate: false
+  xy: 4, 1303
+  size: 47, 13
+  orig: 47, 13
+  offset: 0, 0
+  index: -1
+tools/hatchet-diamond
+  rotate: false
+  xy: 174, 1149
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+hair/mohawk
+  rotate: false
+  xy: 4, 1278
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+tops/android-arm-lower
+  rotate: false
+  xy: 650, 1589
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+facialgear/rouge
+  rotate: false
+  xy: 529, 1423
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+bottoms/prepgirl-skirt-r
+  rotate: false
+  xy: 605, 1356
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+headgear/bandana
+  rotate: false
+  xy: 665, 632
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+tops/coat-yellow
+  rotate: false
+  xy: 864, 1005
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+avatar/mouth-male
+  rotate: false
+  xy: 375, 175
+  size: 8, 4
+  orig: 16, 8
+  offset: 0, 2
+  index: -1
+hair/helmet
+  rotate: false
+  xy: 711, 1155
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+headgear/diablo
+  rotate: false
+  xy: 755, 268
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+headgear/baseball
+  rotate: false
+  xy: 597, 270
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+hair/crew-cut
+  rotate: false
+  xy: 60, 1242
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+hair/balding
+  rotate: false
+  xy: 845, 1373
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+hair/medium
+  rotate: false
+  xy: 523, 1140
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+hair/brat
+  rotate: false
+  xy: 947, 1219
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+hair/spiky
+  rotate: false
+  xy: 95, 236
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+prosthetics/brass-leg-lower
+  rotate: false
+  xy: 397, 1525
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+bottoms/karate-leg-upper
+  rotate: false
+  xy: 126, 810
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+footwear/boot-heeled-upper
+  rotate: false
+  xy: 518, 1555
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+footwear/diving-suit-foot-lower
+  rotate: false
+  xy: 837, 1409
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+footwear/vampire-boot-lower
+  rotate: false
+  xy: 168, 1512
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+tool
+  rotate: false
+  xy: 659, 923
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+tops/xmas-arm-upper
+  rotate: false
+  xy: 339, 1570
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+tops/suspenders-arm-upper
+  rotate: false
+  xy: 29, 1737
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+tops/waistcoat-reeses-lady-arm-upper
+  rotate: false
+  xy: 653, 1521
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+headgear/hibiscus
+  rotate: false
+  xy: 279, 1532
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+headgear/helmet-camo
+  rotate: false
+  xy: 248, 619
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+tops/indy-arm-upper
+  rotate: false
+  xy: 4, 1767
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+headgear/bunny-ears
+  rotate: false
+  xy: 746, 390
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+avatar/eye-male-happy
+  rotate: false
+  xy: 155, 1466
+  size: 28, 16
+  orig: 48, 32
+  offset: 6, 4
+  index: -1
+facialhair/soul-patch
+  rotate: false
+  xy: 271, 67
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tops/camo-arm-lower
+  rotate: false
+  xy: 865, 1477
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+headgear/mad-scientist
+  rotate: false
+  xy: 167, 322
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+tops/camo-arm-upper
+  rotate: false
+  xy: 800, 1546
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+tops/plant-arm-upper
+  rotate: false
+  xy: 397, 1551
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+headgear/mudder
+  rotate: false
+  xy: 739, 603
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+facialhair/muttonchop
+  rotate: false
+  xy: 184, 1716
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+tops/karate-arm-lower
+  rotate: false
+  xy: 137, 1672
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+hair/pulledback
+  rotate: false
+  xy: 61, 1072
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+hair/lady-slick
+  rotate: false
+  xy: 4, 1101
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+bottoms/dress-r
+  rotate: false
+  xy: 782, 926
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+headgear/mystic
+  rotate: false
+  xy: 285, 4
+  size: 102, 66
+  orig: 102, 66
+  offset: 0, 0
+  index: -1
+bottoms/pants-camo-lower
+  rotate: false
+  xy: 167, 1563
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+tops/valkyrie
+  rotate: false
+  xy: 960, 4
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+facialgear/frankenstein-bolt
+  rotate: false
+  xy: 585, 1405
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+tops/diving-suit-arm-upper
+  rotate: false
+  xy: 572, 1597
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+facialgear/hypnotic
+  rotate: false
+  xy: 794, 1404
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+bottoms/kilt-m
+  rotate: false
+  xy: 692, 1416
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+tops/chicken-arm-upper
+  rotate: false
+  xy: 506, 1602
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+tops/parka-arm-upper
+  rotate: false
+  xy: 29, 1703
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+facialgear/ice-queen-make-up
+  rotate: false
+  xy: 311, 734
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+headgear/buckingham
+  rotate: false
+  xy: 673, 337
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+footwear/brass-boot-lower
+  rotate: false
+  xy: 547, 1582
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-foot-upper
+  rotate: false
+  xy: 301, 1632
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-gun-steam
+  rotate: false
+  xy: 200, 1512
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+tools/shovel-diamond
+  rotate: false
+  xy: 55, 1359
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+tops/waistcoat-reeses-arm-lower
+  rotate: false
+  xy: 764, 1555
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+tops/corset-black-arm-upper
+  rotate: false
+  xy: 489, 1537
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+tops/diving-suit-arm-lower
+  rotate: false
+  xy: 349, 1690
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+facialgear/camo
+  rotate: false
+  xy: 316, 499
+  size: 38, 43
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+tops/watermelon-arm-lower
+  rotate: false
+  xy: 4, 1696
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-headset-glow
+  rotate: false
+  xy: 478, 1470
+  size: 35, 22
+  orig: 35, 24
+  offset: 0, 1
+  index: -1
+tops/aviation-arm-upper
+  rotate: false
+  xy: 212, 1649
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+tops/jailbird-arm-lower
+  rotate: false
+  xy: 472, 1641
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+facialgear/brass-knight-helmet
+  rotate: false
+  xy: 4, 988
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+bottoms/plant-skirt-l
+  rotate: false
+  xy: 494, 1354
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+hair/bruce
+  rotate: false
+  xy: 864, 1181
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+avatar/eye-male-angry
+  rotate: false
+  xy: 247, 1447
+  size: 28, 16
+  orig: 48, 32
+  offset: 5, 6
+  index: -1
+footwear/cheerleader-shoe-lower
+  rotate: false
+  xy: 131, 1590
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+bottoms/cheerleader-leg-upper
+  rotate: false
+  xy: 131, 651
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+avatar/eye-male
+  rotate: false
+  xy: 155, 1445
+  size: 28, 16
+  orig: 48, 32
+  offset: 5, 4
+  index: -1
+avatar/eye-male-surprised
+  rotate: false
+  xy: 280, 1454
+  size: 28, 14
+  orig: 48, 32
+  offset: 5, 5
+  index: -1
+avatar/eye-blink
+  rotate: false
+  xy: 830, 1461
+  size: 30, 14
+  orig: 48, 32
+  offset: 4, 6
+  index: -1
+bottoms/watermelon-leg-lower
+  rotate: false
+  xy: 558, 1631
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+tops/clown
+  rotate: false
+  xy: 475, 495
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+tools/gun-frost-pistol
+  rotate: false
+  xy: 733, 663
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+avatar/aquapack-brass
+  rotate: false
+  xy: 303, 1125
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+tools/tesla-club-glow
+  rotate: false
+  xy: 538, 767
+  size: 54, 66
+  orig: 56, 80
+  offset: 1, 14
+  index: -1
+headgear/admiral
+  rotate: false
+  xy: 167, 67
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+facialhair/pirate
+  rotate: false
+  xy: 339, 1467
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-pistol
+  rotate: false
+  xy: 89, 1359
+  size: 29, 42
+  orig: 39, 44
+  offset: 7, 2
+  index: -1
+tops/admiral-arm-lower
+  rotate: false
+  xy: 917, 1410
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+tops/mystic
+  rotate: false
+  xy: 597, 502
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+headgear/shark
+  rotate: false
+  xy: 4, 577
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-torso
+  rotate: false
+  xy: 765, 1140
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+bottoms/clown-leg-upper
+  rotate: false
+  xy: 175, 1108
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+tools/gun-steam-mk3-glow
+  rotate: false
+  xy: 572, 1562
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+tops/waistcoat-gray
+  rotate: false
+  xy: 121, 940
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+tools/confetti-launcher
+  rotate: false
+  xy: 475, 226
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+headgear/santa
+  rotate: false
+  xy: 680, 187
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+bottoms/clown-leg-lower
+  rotate: false
+  xy: 311, 674
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+tops/tesla-arm-lower
+  rotate: false
+  xy: 651, 1555
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+tops/waistcoat-gray-lady-arm-upper
+  rotate: false
+  xy: 978, 1464
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+headgear/nessie
+  rotate: false
+  xy: 4, 346
+  size: 83, 99
+  orig: 83, 99
+  offset: 0, 0
+  index: -1
+tops/winter-arm-upper
+  rotate: false
+  xy: 89, 1406
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+tops/indy-arm-lower
+  rotate: false
+  xy: 264, 1677
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+tops/magician
+  rotate: false
+  xy: 148, 771
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+tops/mystic-arm-upper
+  rotate: false
+  xy: 362, 1625
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+tops/tuxedo-arm-lower
+  rotate: false
+  xy: 54, 1736
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+headgear/plant-head
+  rotate: false
+  xy: 167, 456
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+tops/flamenco
+  rotate: false
+  xy: 597, 341
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+avatar/arm-upper
+  rotate: false
+  xy: 159, 1693
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+facialgear/braveheart
+  rotate: false
+  xy: 312, 593
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-headset
+  rotate: false
+  xy: 410, 1180
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+hair/slick
+  rotate: false
+  xy: 579, 1127
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+tops/reaper-arm-lower
+  rotate: false
+  xy: 491, 1497
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+hair/folk
+  rotate: false
+  xy: 597, 844
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+tops/indy
+  rotate: false
+  xy: 809, 655
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+bottoms/trooper-skirt-r
+  rotate: false
+  xy: 247, 1283
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+facialhair/beard-large
+  rotate: false
+  xy: 293, 1397
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+bottoms/santa-lower
+  rotate: false
+  xy: 70, 1528
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+facialgear/tattoo-3
+  rotate: false
+  xy: 586, 33
+  size: 6, 32
+  orig: 6, 32
+  offset: 0, 0
+  index: -1
+hair/lady-burns
+  rotate: false
+  xy: 419, 894
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-headset
+  rotate: false
+  xy: 507, 1317
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+bottoms/cheerleader-m
+  rotate: false
+  xy: 575, 1219
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+tools/pistol-mk3
+  rotate: false
+  xy: 62, 943
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-headset-glow
+  rotate: false
+  xy: 355, 1188
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-foot-lower
+  rotate: false
+  xy: 288, 1698
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+headgear/tophat
+  rotate: false
+  xy: 366, 261
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+tops/mad-scientist-arm-lower
+  rotate: false
+  xy: 368, 1505
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+android-torso3
+  rotate: false
+  xy: 657, 1307
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+tops/tuxedo-arm-upper
+  rotate: false
+  xy: 221, 1510
+  size: 21, 31
+  orig: 23, 31
+  offset: 2, 0
+  index: -1
+tops/i-heart-dw-arm-upper
+  rotate: false
+  xy: 1001, 1464
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+headgear/earmuffs-cat
+  rotate: false
+  xy: 880, 1412
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+facialhair/chin-strap
+  rotate: false
+  xy: 540, 1381
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+tops/brain-arm-upper
+  rotate: false
+  xy: 389, 1653
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+tops/dress-pink-arm-lower
+  rotate: false
+  xy: 420, 1638
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+headgear/fez
+  rotate: false
+  xy: 716, 1474
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+tools/spade-diamond
+  rotate: false
+  xy: 38, 1444
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+headgear/snake
+  rotate: false
+  xy: 882, 642
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+tools/pickaxe-glow
+  rotate: false
+  xy: 413, 1052
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+tops/waistcoat-navy-arm-lower
+  rotate: false
+  xy: 79, 1709
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+tops/samaurai-arm-upper
+  rotate: false
+  xy: 247, 1570
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+footwear/snow-boots-upper
+  rotate: false
+  xy: 833, 1428
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+tops/watermelon
+  rotate: false
+  xy: 60, 1151
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+hair/pageboy
+  rotate: false
+  xy: 524, 1043
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+avatar/inner-eye-surprised
+  rotate: false
+  xy: 155, 1487
+  size: 28, 12
+  orig: 48, 32
+  offset: 4, 7
+  index: -1
+tools/gun-flame-mk3-glow
+  rotate: false
+  xy: 328, 1641
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+facialhair/pencil
+  rotate: false
+  xy: 929, 1464
+  size: 20, 5
+  orig: 22, 5
+  offset: 2, 0
+  index: -1
+facialhair/gamekeeper
+  rotate: false
+  xy: 560, 1304
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+tools/pistol
+  rotate: false
+  xy: 342, 1371
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-torso-arm-lower
+  rotate: false
+  xy: 209, 1715
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+bottoms/pants-dandy-upper
+  rotate: false
+  xy: 518, 1478
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+facialgear/hockey
+  rotate: false
+  xy: 947, 1392
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+android-foot1
+  rotate: false
+  xy: 311, 713
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+headgear/accident
+  rotate: false
+  xy: 659, 803
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+tools/blunderbuss
+  rotate: false
+  xy: 597, 43
+  size: 89, 23
+  orig: 89, 23
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-gun-acid
+  rotate: false
+  xy: 184, 1681
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+headgear/earmuffs
+  rotate: false
+  xy: 385, 1424
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+tools/sledgehammer-diamond
+  rotate: false
+  xy: 917, 1182
+  size: 25, 76
+  orig: 25, 76
+  offset: 0, 0
+  index: -1
+tops/xmas-arm-lower
+  rotate: false
+  xy: 181, 843
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+tops/reaper
+  rotate: false
+  xy: 352, 1257
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+tops/corset-basic-arm-upper
+  rotate: false
+  xy: 842, 974
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+facialgear/football
+  rotate: false
+  xy: 123, 1427
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+tops/pirate-lady-arm-lower
+  rotate: false
+  xy: 421, 1604
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+tops/i-heart-dw-arm-lower
+  rotate: false
+  xy: 978, 1498
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+bottoms/plant-skirt-r
+  rotate: false
+  xy: 706, 1309
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+tops/admiral-arm-upper
+  rotate: false
+  xy: 448, 1620
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+tops/pajamas-arm-upper
+  rotate: false
+  xy: 4, 1733
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+tops/waistcoat-gray-lady-arm-lower
+  rotate: false
+  xy: 413, 1671
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-blunderbuss
+  rotate: false
+  xy: 89, 1359
+  size: 29, 42
+  orig: 39, 44
+  offset: 7, 2
+  index: -1
+tools/gun-acid-mk3
+  rotate: false
+  xy: 4, 296
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+tops/xmas
+  rotate: false
+  xy: 120, 992
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+tools/net-diamond
+  rotate: false
+  xy: 765, 1212
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+hair/bride
+  rotate: false
+  xy: 92, 475
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+headgear/tinfoil
+  rotate: false
+  xy: 788, 4
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+tops/brass-arm-lower
+  rotate: false
+  xy: 946, 1569
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+facialgear/alien
+  rotate: false
+  xy: 818, 1279
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+tools/gun-flame-mk3
+  rotate: false
+  xy: 862, 100
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+headgear/kitty-hat
+  rotate: false
+  xy: 475, 363
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+facialgear/masks/tragedy
+  rotate: false
+  xy: 208, 1322
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+tops/plaid
+  rotate: false
+  xy: 118, 1144
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+prosthetics/brass-torso-arm-upper
+  rotate: false
+  xy: 453, 1556
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+tools/gun-flame
+  rotate: false
+  xy: 684, 102
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+headgear/parka
+  rotate: false
+  xy: 597, 429
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+hair/pop-star
+  rotate: false
+  xy: 149, 686
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+hair/shaved-sides
+  rotate: false
+  xy: 357, 1152
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+tops/coat-blue-arm-lower
+  rotate: false
+  xy: 159, 1629
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+headgear/toad
+  rotate: false
+  xy: 366, 324
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+hair/bun
+  rotate: false
+  xy: 167, 517
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+tops/fur-coat
+  rotate: false
+  xy: 248, 499
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+headgear/antlers
+  rotate: false
+  xy: 357, 849
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+footwear/prepgirl-shoe-upper
+  rotate: false
+  xy: 339, 1533
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-gun-frost
+  rotate: false
+  xy: 271, 94
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+bottoms/dress-m
+  rotate: false
+  xy: 316, 547
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+tops/fur-coat-brown
+  rotate: false
+  xy: 61, 1018
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+android-arm3
+  rotate: false
+  xy: 458, 227
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+prosthetics/brass-torso-hand
+  rotate: false
+  xy: 61, 1638
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+footwear/clown-foot-upper
+  rotate: false
+  xy: 210, 1178
+  size: 32, 18
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+headgear/mad-hatter
+  rotate: false
+  xy: 476, 152
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+bottoms/reaper-skirt-r
+  rotate: false
+  xy: 247, 1409
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+facialgear/masks/pulcinella
+  rotate: false
+  xy: 656, 1352
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+tops/prepgirl-arm-upper
+  rotate: false
+  xy: 928, 841
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+tools/gun-steam-pistol-mk3
+  rotate: false
+  xy: 959, 402
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+bottoms/diving-suit-leg-upper
+  rotate: false
+  xy: 888, 1373
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+headgear/brain-hat
+  rotate: false
+  xy: 668, 569
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+tools/net
+  rotate: false
+  xy: 905, 312
+  size: 49, 104
+  orig: 49, 104
+  offset: 0, 0
+  index: -1
+tools/sledgehammer-onyx
+  rotate: false
+  xy: 448, 270
+  size: 22, 73
+  orig: 22, 73
+  offset: 0, 0
+  index: -1
+facialhair/plumber
+  rotate: false
+  xy: 136, 1504
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+android-blink3
+  rotate: false
+  xy: 582, 104
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+tops/polka-arm-lower
+  rotate: false
+  xy: 190, 1618
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+facialgear/paper-bag
+  rotate: false
+  xy: 889, 421
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+android-eye3
+  rotate: false
+  xy: 968, 1555
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+facialhair/winnfield
+  rotate: false
+  xy: 210, 1154
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+tops/waistcoat-reeses
+  rotate: false
+  xy: 248, 881
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+tops/mad-scientist-hand
+  rotate: false
+  xy: 576, 1534
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+tops/samaurai-arm-lower
+  rotate: false
+  xy: 770, 1460
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+tools/shovel
+  rotate: false
+  xy: 177, 1022
+  size: 28, 81
+  orig: 28, 81
+  offset: 0, 0
+  index: -1
+tools/hatchet-platinum
+  rotate: false
+  xy: 211, 770
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+bottoms/kilt-r
+  rotate: false
+  xy: 615, 1286
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+avatar/torso
+  rotate: false
+  xy: 864, 1280
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-torso-arm-upper
+  rotate: false
+  xy: 4, 1548
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+tools/gun-flame-pistol-mk2
+  rotate: false
+  xy: 85, 551
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-foot-upper
+  rotate: false
+  xy: 301, 1612
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+footwear/reaper-boot-upper
+  rotate: false
+  xy: 247, 1540
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+headgear/tiara
+  rotate: false
+  xy: 878, 729
+  size: 64, 42
+  orig: 64, 44
+  offset: 0, 1
+  index: -1
+facialgear/pumpkin-head
+  rotate: false
+  xy: 799, 795
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+tools/gun-frost-mk2
+  rotate: false
+  xy: 597, 182
+  size: 78, 31
+  orig: 78, 31
+  offset: 0, 0
+  index: -1
+footwear/prepgirl-shoe-lower
+  rotate: false
+  xy: 572, 1581
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+headgear/party
+  rotate: false
+  xy: 573, 1421
+  size: 27, 79
+  orig: 27, 79
+  offset: 0, 0
+  index: -1
+tools/umbrella-open
+  rotate: false
+  xy: 4, 4
+  size: 158, 151
+  orig: 158, 151
+  offset: 0, 0
+  index: -1
+hair/mad-scientist
+  rotate: false
+  xy: 732, 760
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+bottoms/android-leg-lower
+  rotate: false
+  xy: 123, 1359
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+tools/gun-steam
+  rotate: false
+  xy: 475, 277
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+facialgear/tattoo-5
+  rotate: false
+  xy: 647, 1422
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+tops/brain-shirt
+  rotate: false
+  xy: 947, 1067
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+bottoms/aztec-r
+  rotate: false
+  xy: 393, 1349
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-musket-mk2
+  rotate: false
+  xy: 172, 1225
+  size: 31, 43
+  orig: 39, 45
+  offset: 7, 2
+  index: -1
+hair/tied-up
+  rotate: false
+  xy: 306, 956
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+tops/corset-blue-arm-lower
+  rotate: false
+  xy: 890, 1497
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+bottoms/samaurai-leg-lower
+  rotate: false
+  xy: 4, 1620
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+tops/parka-orange
+  rotate: false
+  xy: 597, 958
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+prosthetics/brass-torso-arm-lower
+  rotate: false
+  xy: 937, 1534
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+tops/diving-suit-hand
+  rotate: false
+  xy: 35, 1608
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+tops/watermelon-arm-upper
+  rotate: false
+  xy: 224, 1435
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+facialhair/beard-full
+  rotate: false
+  xy: 609, 1325
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+hair/windswept
+  rotate: false
+  xy: 718, 1011
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+hair/long
+  rotate: false
+  xy: 248, 663
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+tops/brain-shirt-arm-lower
+  rotate: false
+  xy: 234, 1693
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+headgear/valkyrie
+  rotate: false
+  xy: 781, 1007
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+facialhair/beard-chin
+  rotate: false
+  xy: 346, 1340
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+hair/dapper
+  rotate: false
+  xy: 299, 1258
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+facialgear/snowman-head
+  rotate: false
+  xy: 674, 283
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+tops/brain-arm-lower
+  rotate: false
+  xy: 794, 1489
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+tools/speargun-mk3
+  rotate: false
+  xy: 490, 33
+  size: 91, 35
+  orig: 91, 35
+  offset: 0, 0
+  index: -1
+headgear/tiny-top-hat
+  rotate: false
+  xy: 104, 1502
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+bottoms/android-leg-upper
+  rotate: false
+  xy: 221, 1471
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+bottoms/aztec-m
+  rotate: false
+  xy: 521, 1179
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+tops/santa-arm-lower
+  rotate: false
+  xy: 431, 1513
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+footwear/rain-boot-upper
+  rotate: false
+  xy: 123, 1395
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+bottoms/zubaz-lower
+  rotate: false
+  xy: 371, 1472
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+tools/net-onyx
+  rotate: false
+  xy: 422, 730
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+bottoms/diving-suit-leg-lower
+  rotate: false
+  xy: 339, 1505
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+tops/winter-arm-lower
+  rotate: false
+  xy: 751, 1497
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+tops/camo
+  rotate: false
+  xy: 4, 880
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+facialhair/dali
+  rotate: false
+  xy: 399, 1296
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+facialhair/beard-huge
+  rotate: false
+  xy: 247, 1362
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-blunderbuss-mk3
+  rotate: false
+  xy: 305, 1018
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+hair/rambo
+  rotate: false
+  xy: 150, 563
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+bottoms/brain-leg-upper
+  rotate: false
+  xy: 770, 1419
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+facialgear/chicken
+  rotate: false
+  xy: 947, 852
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+headgear/jester
+  rotate: false
+  xy: 167, 391
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+avatar/jetpack-onyx
+  rotate: false
+  xy: 819, 1180
+  size: 40, 94
+  orig: 40, 94
+  offset: 0, 0
+  index: -1
+avatar/aquapack-onyx
+  rotate: false
+  xy: 56, 1304
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-leg-lower
+  rotate: false
+  xy: 279, 1488
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+tools/jar
+  rotate: false
+  xy: 986, 1422
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+facialhair/moustache
+  rotate: false
+  xy: 448, 1606
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+headgear/pirate
+  rotate: false
+  xy: 597, 218
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+tops/parka
+  rotate: false
+  xy: 799, 738
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+tools/gun-frost
+  rotate: false
+  xy: 597, 305
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+android-head3
+  rotate: false
+  xy: 118, 1099
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+footwear/watermelon-shoe-upper
+  rotate: false
+  xy: 37, 1533
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+facialgear/groucho
+  rotate: false
+  xy: 765, 1178
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+footwear/war-shoes-upper
+  rotate: false
+  xy: 37, 1504
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+bottoms/dress-green-l
+  rotate: false
+  xy: 468, 1104
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+bottoms/prepgirl-sock
+  rotate: false
+  xy: 131, 591
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+headgear/diving-helmet
+  rotate: false
+  xy: 741, 539
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+tops/tuxedo
+  rotate: false
+  xy: 536, 979
+  size: 56, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+tops/valkyrie-arm-upper
+  rotate: false
+  xy: 954, 1464
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+headgear/bonnet
+  rotate: false
+  xy: 167, 4
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+tools/musket-mk2
+  rotate: false
+  xy: 167, 138
+  size: 87, 20
+  orig: 87, 20
+  offset: 0, 0
+  index: -1
+facialgear/eyepatch
+  rotate: false
+  xy: 168, 1273
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-torso-hand
+  rotate: false
+  xy: 87, 1608
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+tops/corset-basic
+  rotate: false
+  xy: 350, 1293
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+android-foot2
+  rotate: false
+  xy: 529, 1406
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+tops/parka-orange-arm-upper
+  rotate: false
+  xy: 159, 1658
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+bottoms/pajamas-leg-lower
+  rotate: false
+  xy: 238, 1661
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+avatar/zeppelin
+  rotate: false
+  xy: 818, 400
+  size: 66, 153
+  orig: 66, 153
+  offset: 0, 0
+  index: -1
+tools/shovel-glow
+  rotate: false
+  xy: 558, 243
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+tools/shovel-onyx
+  rotate: false
+  xy: 561, 157
+  size: 31, 81
+  orig: 31, 81
+  offset: 0, 0
+  index: -1
+headgear/rain-hat
+  rotate: false
+  xy: 475, 321
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+footwear/winter-shoe-lower
+  rotate: false
+  xy: 368, 1532
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+tools/pickaxe-diamond
+  rotate: false
+  xy: 783, 855
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+tops/reaper-arm-upper
+  rotate: false
+  xy: 379, 1686
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+headgear/space-helmet
+  rotate: false
+  xy: 742, 443
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+tools/spade-onyx
+  rotate: false
+  xy: 122, 1442
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+facialgear/mad-scientist
+  rotate: false
+  xy: 731, 1449
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+avatar/eye-male-pained
+  rotate: false
+  xy: 4, 1525
+  size: 28, 18
+  orig: 48, 32
+  offset: 5, 4
+  index: -1
+facialgear/masks/jack
+  rotate: false
+  xy: 248, 982
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+tools/gun-flame-pistol
+  rotate: false
+  xy: 720, 944
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+headgear/dark-king
+  rotate: false
+  xy: 665, 676
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+tools/gun-acid-mk3-glow
+  rotate: false
+  xy: 586, 70
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+android-hand3
+  rotate: false
+  xy: 999, 1532
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+facialgear/masks/cat
+  rotate: false
+  xy: 706, 1342
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+bottoms/valkyrie-leg-upper
+  rotate: false
+  xy: 54, 1769
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+avatar/inner-eye
+  rotate: false
+  xy: 279, 1563
+  size: 24, 12
+  orig: 48, 32
+  offset: 8, 8
+  index: -1
+tops/corset-black
+  rotate: false
+  xy: 460, 1245
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+tops/suspenders-arm-lower
+  rotate: false
+  xy: 917, 1376
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+android-cap3
+  rotate: false
+  xy: 794, 1476
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+tools/gun-energy-mk3-glow
+  rotate: false
+  xy: 136, 1523
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+tops/waistcoat-reeses-lady
+  rotate: false
+  xy: 247, 1317
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+tools/rapier
+  rotate: false
+  xy: 259, 138
+  size: 20, 104
+  orig: 26, 104
+  offset: 4, 0
+  index: -1
+tops/polka-arm-upper
+  rotate: false
+  xy: 393, 1620
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-gun-energy
+  rotate: false
+  xy: 271, 112
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tools/blunderbuss-mk3
+  rotate: false
+  xy: 495, 4
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+tops/android-arm-upper
+  rotate: false
+  xy: 675, 1581
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+tools/flag
+  rotate: false
+  xy: 548, 437
+  size: 44, 101
+  orig: 44, 101
+  offset: 0, 0
+  index: -1
+hair/dame
+  rotate: false
+  xy: 597, 1023
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+headgear/ice-cream
+  rotate: false
+  xy: 68, 591
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+tops/rain-arm-lower
+  rotate: false
+  xy: 325, 1689
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+tops/elf-arm-lower
+  rotate: false
+  xy: 275, 1580
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+facialgear/monocle
+  rotate: false
+  xy: 634, 1077
+  size: 18, 57
+  orig: 18, 57
+  offset: 0, 0
+  index: -1
+footwear/reaper-boot-lower
+  rotate: false
+  xy: 946, 1551
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+tops/charlie-brown
+  rotate: false
+  xy: 247, 1033
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+facialgear/masks/venetian
+  rotate: false
+  xy: 751, 1389
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+facialgear/brass-visor
+  rotate: false
+  xy: 157, 1391
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+tools/gun-frost-mk3-glow
+  rotate: false
+  xy: 382, 113
+  size: 3, 57
+  orig: 3, 57
+  offset: 0, 0
+  index: -1
+tools/gun-energy-pistol-mk2
+  rotate: false
+  xy: 475, 622
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+android-leg1
+  rotate: false
+  xy: 247, 1486
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+headgear/chicken
+  rotate: false
+  xy: 247, 1186
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+footwear/samaurai-boot-upper
+  rotate: false
+  xy: 191, 1435
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+tools/rapier-diamond
+  rotate: false
+  xy: 1000, 1219
+  size: 20, 102
+  orig: 26, 104
+  offset: 2, 1
+  index: -1
+tools/confetti-launcher-mk2
+  rotate: false
+  xy: 4, 246
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-gun-energy-pistol
+  rotate: false
+  xy: 271, 81
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+tops/valkyrie-arm-lower
+  rotate: false
+  xy: 530, 1632
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+avatar/aquapack-propeller-1
+  rotate: false
+  xy: 864, 1070
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+bottoms/royal-leg-upper
+  rotate: false
+  xy: 181, 885
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+tools/musket
+  rotate: false
+  xy: 284, 135
+  size: 87, 20
+  orig: 87, 20
+  offset: 0, 0
+  index: -1
+avatar/arm-lower
+  rotate: false
+  xy: 628, 1521
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+tops/i-heart-dw
+  rotate: false
+  xy: 357, 920
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+tops/prepboy-arm-upper
+  rotate: false
+  xy: 596, 1620
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+headgear/watermelon-hat
+  rotate: false
+  xy: 947, 1169
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+headgear/bowlerhat
+  rotate: false
+  xy: 284, 422
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+bottoms/trooper-skirt-m
+  rotate: false
+  xy: 605, 1437
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+tops/santa
+  rotate: false
+  xy: 831, 279
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+footwear/vampire-boot-upper
+  rotate: false
+  xy: 917, 1341
+  size: 25, 30
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+tops/plaid-arm-upper
+  rotate: false
+  xy: 112, 1640
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+headgear/earmuffs-sequin
+  rotate: false
+  xy: 210, 1014
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+avatar/eye-happy
+  rotate: false
+  xy: 210, 1201
+  size: 32, 16
+  orig: 48, 32
+  offset: 2, 4
+  index: -1
+facialgear/brass-owl
+  rotate: false
+  xy: 959, 291
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+tools/gun-frost-pistol-mk3
+  rotate: false
+  xy: 363, 439
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+tools/pistol-mk2
+  rotate: false
+  xy: 311, 773
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+tops/plant
+  rotate: false
+  xy: 4, 1200
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+facialgear/ninja
+  rotate: false
+  xy: 61, 1118
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+android-torso2
+  rotate: false
+  xy: 511, 1272
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+android-leg2
+  rotate: false
+  xy: 311, 1494
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+tops/waistcoat-gray-arm-lower
+  rotate: false
+  xy: 725, 1562
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+bottoms/plant-leg-lower
+  rotate: false
+  xy: 866, 1567
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+headgear/reaper-hat
+  rotate: false
+  xy: 824, 345
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-pistol-mk3
+  rotate: false
+  xy: 305, 1018
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+bottoms/karate-leg-lower
+  rotate: false
+  xy: 676, 1518
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-torso-arm-upper
+  rotate: false
+  xy: 605, 1472
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+facialhair/wizard
+  rotate: false
+  xy: 555, 333
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+footwear/snakeskin-boot-lower
+  rotate: false
+  xy: 916, 1443
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+tops/plaid-arm-lower
+  rotate: false
+  xy: 854, 1509
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+headgear/elf
+  rotate: false
+  xy: 4, 450
+  size: 83, 62
+  orig: 83, 62
+  offset: 0, 0
+  index: -1
+tops/fur-coat-arm-lower
+  rotate: false
+  xy: 460, 1519
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+bottoms/dress-polka-m
+  rotate: false
+  xy: 407, 1255
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+prosthetics/brass-foot-lower
+  rotate: false
+  xy: 131, 633
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+android-head1
+  rotate: false
+  xy: 463, 1194
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-gun-flame-pistol
+  rotate: false
+  xy: 30, 1639
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+tops/royal-arm-upper
+  rotate: false
+  xy: 210, 1119
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+tools/spade
+  rotate: false
+  xy: 89, 1436
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+headgear/dark-queen
+  rotate: false
+  xy: 763, 173
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+tops/corset-black-arm-lower
+  rotate: false
+  xy: 917, 1303
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+avatar/aquapack-diamond
+  rotate: false
+  xy: 421, 838
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+facialgear/masks/batman
+  rotate: false
+  xy: 423, 620
+  size: 47, 52
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+tools/gun-steam-mk3
+  rotate: false
+  xy: 4, 517
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+headgear/bright-idea
+  rotate: false
+  xy: 959, 73
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+headgear/bonnet-2
+  rotate: false
+  xy: 677, 239
+  size: 73, 39
+  orig: 73, 39
+  offset: 0, 0
+  index: -1
+tops/dress-pink-arm-upper
+  rotate: false
+  xy: 221, 1615
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+bottoms/winter-skirt-m
+  rotate: false
+  xy: 947, 1315
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+tops/mystic-arm-lower
+  rotate: false
+  xy: 518, 1519
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+footwear/snakeskin-boot-upper
+  rotate: false
+  xy: 431, 1482
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+tops/fur-coat-arm-upper
+  rotate: false
+  xy: 162, 1595
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+tops/jailbird
+  rotate: false
+  xy: 4, 1049
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+headgear/beekeeper
+  rotate: false
+  xy: 778, 59
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+headgear/crow
+  rotate: false
+  xy: 597, 122
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+avatar/head-smiling
+  rotate: false
+  xy: 515, 1225
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+headgear/halo
+  rotate: false
+  xy: 720, 980
+  size: 56, 26
+  orig: 58, 28
+  offset: 1, 1
+  index: -1
+avatar/mouth-female
+  rotate: false
+  xy: 582, 93
+  size: 8, 6
+  orig: 16, 8
+  offset: 1, 2
+  index: -1
+tops/geisha-arm-upper
+  rotate: false
+  xy: 929, 1474
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+bottoms/dress-polka-r
+  rotate: false
+  xy: 959, 497
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+headgear/beanie
+  rotate: false
+  xy: 413, 1003
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+facialgear/brain-helmet
+  rotate: false
+  xy: 750, 326
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+tools/speargun
+  rotate: false
+  xy: 375, 227
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+facialgear/swirly
+  rotate: false
+  xy: 621, 1611
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+bottoms/kilt-l
+  rotate: false
+  xy: 310, 811
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+facialgear/goggles
+  rotate: false
+  xy: 247, 1260
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+footwear/rain-boot-lower
+  rotate: false
+  xy: 339, 1552
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+hair/fro
+  rotate: false
+  xy: 717, 1064
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+tools/gun-acid-mk2
+  rotate: false
+  xy: 284, 327
+  size: 77, 44
+  orig: 79, 46
+  offset: 2, 2
+  index: -1
+bottoms/dress-pink-r
+  rotate: false
+  xy: 4, 836
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+facialgear/glasses
+  rotate: false
+  xy: 56, 1279
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+headgear/karate
+  rotate: false
+  xy: 248, 779
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1
+footwear/plant-boot
+  rotate: false
+  xy: 210, 981
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+android-hand1
+  rotate: false
+  xy: 976, 1532
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+tops/pirate-arm-upper
+  rotate: false
+  xy: 367, 1552
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+bottoms/prepgirl-skirt-m
+  rotate: false
+  xy: 310, 847
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+tops/prepgirl
+  rotate: false
+  xy: 550, 390
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+facialhair/old-dutch
+  rotate: false
+  xy: 448, 1330
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+headgear/crown
+  rotate: false
+  xy: 597, 570
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+tools/tesla-club
+  rotate: false
+  xy: 306, 881
+  size: 46, 70
+  orig: 56, 80
+  offset: 5, 6
+  index: -1
+tops/apron
+  rotate: false
+  xy: 63, 876
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+tops/pajamas
+  rotate: false
+  xy: 959, 224
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+facialgear/masks/phantom
+  rotate: false
+  xy: 644, 1458
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+tops/trooper-arm-upper
+  rotate: false
+  xy: 308, 1578
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+footwear/snow-boots-lower
+  rotate: false
+  xy: 425, 1583
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+tops/suspenders-lady-arm-upper
+  rotate: false
+  xy: 626, 1577
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+footwear/pirate-boots-lower
+  rotate: false
+  xy: 35, 1589
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+bottoms/watermelon-leg-upper
+  rotate: false
+  xy: 54, 1666
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+bottoms/dress-l
+  rotate: false
+  xy: 63, 827
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+facialgear/masks/majora
+  rotate: false
+  xy: 248, 805
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+headgear/dunce
+  rotate: false
+  xy: 296, 1341
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+avatar/eye-pained
+  rotate: false
+  xy: 593, 1511
+  size: 30, 18
+  orig: 48, 32
+  offset: 4, 4
+  index: -1
+tools/gun-energy-mk3
+  rotate: false
+  xy: 597, 71
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+headgear/ribbon
+  rotate: false
+  xy: 844, 855
+  size: 15, 54
+  orig: 15, 54
+  offset: 0, 0
+  index: -1
+facialgear/vampire-teeth
+  rotate: false
+  xy: 458, 259
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+footwear/clown-foot-lower
+  rotate: false
+  xy: 794, 1449
+  size: 31, 22
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+facialgear/tattoo-1
+  rotate: false
+  xy: 247, 1604
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+tops/waistcoat-gray-lady
+  rotate: false
+  xy: 566, 1259
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+tools/gun-steam-pistol-mk2
+  rotate: false
+  xy: 959, 451
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+tops/coat-red-arm-lower
+  rotate: false
+  xy: 843, 1544
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+hair/diva
+  rotate: false
+  xy: 357, 971
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+footwear/steam-boot-lower
+  rotate: false
+  xy: 301, 1651
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+android-blink2
+  rotate: false
+  xy: 271, 125
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tops/clown-arm-lower
+  rotate: false
+  xy: 36, 1560
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+bottoms/pants-dandy-lower
+  rotate: false
+  xy: 69, 1557
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+tools/gun-steam-pistol
+  rotate: false
+  xy: 781, 973
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+hair/elvis
+  rotate: false
+  xy: 248, 727
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+facialgear/scar-1
+  rotate: false
+  xy: 931, 776
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+tops/waistcoat-navy
+  rotate: false
+  xy: 121, 887
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+tops/samaurai
+  rotate: false
+  xy: 475, 851
+  size: 57, 60
+  orig: 59, 60
+  offset: 2, 0
+  index: -1
+hair/scissorhands
+  rotate: false
+  xy: 875, 20
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+tools/sledgehammer-platinum
+  rotate: false
+  xy: 445, 395
+  size: 25, 77
+  orig: 25, 77
+  offset: 0, 0
+  index: -1
+tops/trooper
+  rotate: false
+  xy: 524, 1094
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-gun-steam-pistol
+  rotate: false
+  xy: 200, 1512
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+tops/waistcoat-gray-arm-upper
+  rotate: false
+  xy: 676, 1547
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-torso-glow
+  rotate: false
+  xy: 901, 1556
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+tops/geisha-arm-lower
+  rotate: false
+  xy: 448, 348
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+tops/jailbird-arm-upper
+  rotate: false
+  xy: 700, 1578
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+tops/chicken
+  rotate: false
+  xy: 359, 692
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+facialgear/makeup
+  rotate: false
+  xy: 529, 1450
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-foot-lower
+  rotate: false
+  xy: 453, 1587
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+headgear/unicorn
+  rotate: false
+  xy: 434, 1411
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+hair/dreadlocks
+  rotate: false
+  xy: 864, 910
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+facialgear/tattoo-2
+  rotate: false
+  xy: 990, 1568
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+tools/pickaxe
+  rotate: false
+  xy: 721, 874
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+tops/fur-coat-brown-arm-lower
+  rotate: false
+  xy: 366, 1590
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+bottoms/cheerleader-l
+  rotate: false
+  xy: 657, 1182
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+headgear/kitty-ears
+  rotate: false
+  xy: 302, 1180
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+tops/brass-arm-upper
+  rotate: false
+  xy: 311, 1543
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+hair/longish
+  rotate: false
+  xy: 357, 1024
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+tools/shovel-platinum
+  rotate: false
+  xy: 4, 1368
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+tools/spade-platinum
+  rotate: false
+  xy: 213, 649
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+android-head-back3
+  rotate: false
+  xy: 172, 1208
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+bottoms/pants-camo-upper
+  rotate: false
+  xy: 917, 1263
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+avatar/jetpack-diamond
+  rotate: false
+  xy: 485, 1391
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+hair/fringe-angled
+  rotate: false
+  xy: 947, 1006
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+facialgear/fencing
+  rotate: false
+  xy: 597, 776
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+hair/rabbit
+  rotate: false
+  xy: 959, 156
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+footwear/cheerleader-shoe-upper
+  rotate: false
+  xy: 258, 1706
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+tops/winter
+  rotate: false
+  xy: 427, 581
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+headgear/christmas-tree-hat
+  rotate: false
+  xy: 359, 536
+  size: 63, 67
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+tops/tesla-arm-upper
+  rotate: false
+  xy: 79, 1675
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+hair/ponytail
+  rotate: false
+  xy: 359, 480
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+tools/cane-onyx
+  rotate: false
+  xy: 836, 1084
+  size: 23, 91
+  orig: 23, 91
+  offset: 0, 0
+  index: -1
+tops/cheerleader-arm-lower
+  rotate: false
+  xy: 924, 1551
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+tops/pirate-lady-arm-upper
+  rotate: false
+  xy: 71, 1496
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+footwear/steam-boot-upper
+  rotate: false
+  xy: 167, 1528
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+bottoms/cheerleader-leg-lower
+  rotate: false
+  xy: 928, 874
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+avatar/jetpack
+  rotate: false
+  xy: 164, 1311
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+facialgear/3d-glasses
+  rotate: false
+  xy: 357, 1127
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+headgear/pajamas
+  rotate: false
+  xy: 951, 646
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+footwear/diving-suit-foot-upper
+  rotate: false
+  xy: 100, 1562
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+tops/rainbow-arm-lower
+  rotate: false
+  xy: 355, 1658
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+tops/waistcoat-reeses-arm-upper
+  rotate: false
+  xy: 701, 1544
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-leg-upper
+  rotate: false
+  xy: 547, 1560
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+tops/polka
+  rotate: false
+  xy: 247, 1133
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+headgear/magician-hat
+  rotate: false
+  xy: 390, 170
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+footwear/brass-boot-upper
+  rotate: false
+  xy: 4, 1490
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-torso-hand
+  rotate: false
+  xy: 274, 1612
+  size: 22, 23
+  orig: 24, 23
+  offset: 2, 0
+  index: -1
+tops/geisha
+  rotate: false
+  xy: 469, 1032
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-torso-glow
+  rotate: false
+  xy: 425, 1551
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+android-arm1
+  rotate: false
+  xy: 4, 1651
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+tops/suspenders-lady-arm-lower
+  rotate: false
+  xy: 335, 1607
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+headgear/umbrella
+  rotate: false
+  xy: 392, 31
+  size: 93, 49
+  orig: 93, 49
+  offset: 0, 0
+  index: -1
+bottoms/royal-leg-lower
+  rotate: false
+  xy: 4, 1574
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+tops/charlie-brown-arm-upper
+  rotate: false
+  xy: 776, 1520
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-blunderbuss-mk2
+  rotate: false
+  xy: 172, 1225
+  size: 31, 43
+  orig: 39, 45
+  offset: 7, 2
+  index: -1
+tops/prepboy-arm-lower
+  rotate: false
+  xy: 328, 1659
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+facialgear/blindfold
+  rotate: false
+  xy: 711, 1192
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+tools/gun-energy
+  rotate: false
+  xy: 484, 108
+  size: 82, 39
+  orig: 82, 39
+  offset: 0, 0
+  index: -1
+tops/vampire-arm-upper
+  rotate: false
+  xy: 29, 1770
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+facialgear/masks/lone-ranger
+  rotate: false
+  xy: 605, 1413
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+headgear/aviator
+  rotate: false
+  xy: 475, 733
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+android-blink1
+  rotate: false
+  xy: 274, 1640
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+tools/gun-acid
+  rotate: false
+  xy: 284, 376
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+tops/suspenders-lady
+  rotate: false
+  xy: 458, 1286
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+hair/wedge
+  rotate: false
+  xy: 303, 1070
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+facialhair/connected
+  rotate: false
+  xy: 293, 1435
+  size: 39, 14
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+android-eye1
+  rotate: false
+  xy: 100, 1585
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+bottoms/samaurai-leg-upper
+  rotate: false
+  xy: 129, 1704
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+tops/plant-arm-lower
+  rotate: false
+  xy: 29, 1663
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+hair/poof
+  rotate: false
+  xy: 721, 817
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+hair/leia
+  rotate: false
+  xy: 116, 1195
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+android-head2
+  rotate: false
+  xy: 297, 1294
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+headgear/indy
+  rotate: false
+  xy: 694, 4
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+tools/gun-flame-mk2
+  rotate: false
+  xy: 768, 124
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+facialgear/samaurai-mask
+  rotate: false
+  xy: 167, 241
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+hair/pixie
+  rotate: false
+  xy: 578, 1173
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+tops/charlie-brown-arm-lower
+  rotate: false
+  xy: 740, 1527
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+hair/winehouse
+  rotate: false
+  xy: 484, 85
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+tops/clown-arm-upper
+  rotate: false
+  xy: 131, 1606
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+hair/curly-medium
+  rotate: false
+  xy: 67, 732
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+tops/aviation
+  rotate: false
+  xy: 864, 1231
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+tools/hatchet-onyx
+  rotate: false
+  xy: 212, 711
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+android-arm2
+  rotate: false
+  xy: 130, 688
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+avatar/head
+  rotate: false
+  xy: 4, 1321
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+avatar/eye-smiling
+  rotate: false
+  xy: 210, 1201
+  size: 32, 16
+  orig: 48, 32
+  offset: 2, 4
+  index: -1
+tops/waistcoat-reeses-lady-arm-lower
+  rotate: false
+  xy: 444, 1654
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+bottoms/dress-green-r
+  rotate: false
+  xy: 116, 1238
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+tops/coat-yellow-arm-lower
+  rotate: false
+  xy: 914, 1510
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+footwear/shoe-upper
+  rotate: false
+  xy: 210, 948
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+tops/mad-scientist
+  rotate: false
+  xy: 951, 710
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-gun-flame
+  rotate: false
+  xy: 30, 1639
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+tools/pickaxe-platinum
+  rotate: false
+  xy: 538, 838
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+bottoms/reaper-skirt-m
+  rotate: false
+  xy: 339, 1430
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+bottoms/pajamas-leg-upper
+  rotate: false
+  xy: 923, 1141
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+android-eye2
+  rotate: false
+  xy: 999, 1550
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+headgear/flamenco
+  rotate: false
+  xy: 210, 911
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+hair/flair
+  rotate: false
+  xy: 597, 905
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+headgear/newsie-hat
+  rotate: false
+  xy: 947, 772
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+facialhair/goatee-large
+  rotate: false
+  xy: 601, 1561
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+android-hand2
+  rotate: false
+  xy: 233, 1722
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+hair/boxer-hair
+  rotate: false
+  xy: 399, 1323
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+tools/rapier-onyx
+  rotate: false
+  xy: 632, 1177
+  size: 20, 104
+  orig: 26, 104
+  offset: 3, 0
+  index: -1
+hair/curly-short
+  rotate: false
+  xy: 62, 983
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-torso
+  rotate: false
+  xy: 67, 684
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+bottoms/dress-pink-m
+  rotate: false
+  xy: 711, 1111
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+tools/sledgehammer-scrap
+  rotate: false
+  xy: 210, 830
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+facialhair/franz
+  rotate: false
+  xy: 605, 1390
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+hair/messy
+  rotate: false
+  xy: 60, 1201
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+facialgear/elf
+  rotate: false
+  xy: 129, 1738
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+hair/short
+  rotate: false
+  xy: 4, 1249
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+tools/blunderbuss-mk2
+  rotate: false
+  xy: 392, 4
+  size: 98, 22
+  orig: 98, 22
+  offset: 0, 0
+  index: -1
+tools/spear
+  rotate: false
+  xy: 875, 4
+  size: 80, 11
+  orig: 80, 11
+  offset: 0, 0
+  index: -1
+facialgear/big-eyes
+  rotate: false
+  xy: 557, 1505
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+tops/dress-pink
+  rotate: false
+  xy: 427, 537
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+tops/karate-arm-upper
+  rotate: false
+  xy: 137, 1640
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+headgear/winter-hat
+  rotate: false
+  xy: 284, 160
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+facialgear/tattoo-4
+  rotate: false
+  xy: 967, 1571
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+tops/corset-blue-arm-upper
+  rotate: false
+  xy: 925, 966
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+bottoms/zubaz-upper
+  rotate: false
+  xy: 4, 1452
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+avatar/head
+  rotate: false
+  xy: 107, 1312
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+android-head-back1
+  rotate: false
+  xy: 794, 1426
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-leg-lower
+  rotate: false
+  xy: 247, 1636
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+tops/diving-suit
+  rotate: false
+  xy: 658, 992
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+bottoms/pants-upper
+  rotate: false
+  xy: 571, 114
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+avatar/eye-angry
+  rotate: false
+  xy: 951, 1443
+  size: 30, 16
+  orig: 48, 32
+  offset: 4, 6
+  index: -1
+tools/sledgehammer-fine
+  rotate: false
+  xy: 208, 1238
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+tops/pajamas-arm-lower
+  rotate: false
+  xy: 829, 1480
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+headgear/android
+  rotate: false
+  xy: 732, 698
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+tools/speargun-mk2
+  rotate: false
+  xy: 490, 73
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+facialgear/goggles-lab
+  rotate: false
+  xy: 469, 1007
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+tools/gun-energy-pistol
+  rotate: false
+  xy: 864, 967
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+facialgear/robo
+  rotate: false
+  xy: 475, 793
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+avatar/aquapack-propeller-2
+  rotate: false
+  xy: 932, 149
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+tops/waistcoat-navy-arm-upper
+  rotate: false
+  xy: 209, 1681
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+headgear/earmuffs-hamburger
+  rotate: false
+  xy: 755, 1337
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+facialhair/boxer-beard
+  rotate: false
+  xy: 388, 1391
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+tops/prepgirl-arm-lower
+  rotate: false
+  xy: 928, 905
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+bottoms/aztec-l
+  rotate: false
+  xy: 355, 1212
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+tops/royal-arm-lower
+  rotate: false
+  xy: 634, 1139
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-confetti-launcher
+  rotate: false
+  xy: 358, 801
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+bottoms/trooper-skirt-l
+  rotate: false
+  xy: 112, 1278
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+tops/jacket-lady-green-arm-lower
+  rotate: false
+  xy: 87, 1638
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+tops/elf-arm-upper
+  rotate: false
+  xy: 1001, 1498
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+tools/gun-frost-pistol-mk2
+  rotate: false
+  xy: 284, 462
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+tools/sledgehammer-glow
+  rotate: false
+  xy: 214, 563
+  size: 29, 81
+  orig: 29, 81
+  offset: 0, 0
+  index: -1
+facialhair/goatee-small
+  rotate: false
+  xy: 130, 760
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+headgear/turtle-helmet
+  rotate: false
+  xy: 883, 579
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+android-torso1
+  rotate: false
+  xy: 118, 1048
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-pistol-mk2
+  rotate: false
+  xy: 172, 1225
+  size: 31, 43
+  orig: 39, 45
+  offset: 7, 2
+  index: -1
+tops/chicken-arm-lower
+  rotate: false
+  xy: 506, 1602
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+hair/curly-long
+  rotate: false
+  xy: 597, 631
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+footwear/winter-shoe-upper
+  rotate: false
+  xy: 401, 1472
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+avatar/eye-male-blink
+  rotate: false
+  xy: 4, 1601
+  size: 26, 14
+  orig: 48, 32
+  offset: 7, 6
+  index: -1
+tops/corset-basic-arm-lower
+  rotate: false
+  xy: 198, 1547
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+hair/soft-dreadlocks
+  rotate: false
+  xy: 67, 777
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+tops/admiral
+  rotate: false
+  xy: 889, 504
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+tops/trooper-arm-lower
+  rotate: false
+  xy: 301, 1669
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+bottoms/dress-polka-l
+  rotate: false
+  xy: 4, 745
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+bottoms/samaurai-skirt
+  rotate: false
+  xy: 475, 663
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+tops/karate
+  rotate: false
+  xy: 657, 1094
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+avatar/eye-male-smiling
+  rotate: false
+  xy: 188, 1457
+  size: 28, 16
+  orig: 48, 32
+  offset: 6, 4
+  index: -1
+tops/rain-arm-upper
+  rotate: false
+  xy: 497, 1636
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+facialgear/geordi
+  rotate: false
+  xy: 755, 1320
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+headgear/earmuffs-strawberry
+  rotate: false
+  xy: 919, 264
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+tools/umbrella-closed
+  rotate: false
+  xy: 256, 247
+  size: 23, 151
+  orig: 23, 151
+  offset: 0, 0
+  index: -1
+tops/corset-blue
+  rotate: false
+  xy: 548, 543
+  size: 44, 42
+  orig: 44, 44
+  offset: 0, 2
+  index: -1
+android-cap1
+  rotate: false
+  xy: 247, 1468
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+facialgear/scarf-festive
+  rotate: false
+  xy: 423, 677
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+footwear/flying-shoes-lower
+  rotate: false
+  xy: 481, 1573
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+prosthetics/onyx-leg-upper
+  rotate: false
+  xy: 481, 1593
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+bottoms/plant-skirt-m
+  rotate: false
+  xy: 148, 740
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+tools/speargun-mk3-overlay
+  rotate: false
+  xy: 375, 184
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-musket
+  rotate: false
+  xy: 89, 1359
+  size: 29, 42
+  orig: 39, 44
+  offset: 7, 2
+  index: -1
+tops/valkyrie-hand
+  rotate: false
+  xy: 715, 1514
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hair/godfather
+  rotate: false
+  xy: 300, 1214
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+tops/tesla
+  rotate: false
+  xy: 467, 1144
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+android-cog1
+  rotate: false
+  xy: 131, 614
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+hair/braid
+  rotate: false
+  xy: 94, 295
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+prosthetics/brass-torso
+  rotate: false
+  xy: 947, 804
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+tops/coat-yellow-arm-upper
+  rotate: false
+  xy: 953, 1500
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+bottoms/tutu
+  rotate: false
+  xy: 597, 4
+  size: 92, 34
+  orig: 92, 34
+  offset: 0, 0
+  index: -1
+prosthetics/diamond-torso-arm-lower
+  rotate: false
+  xy: 626, 1550
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+tops/magician-arm-lower
+  rotate: false
+  xy: 101, 1742
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+headgear/winter-pink
+  rotate: false
+  xy: 475, 421
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+tools/cane-platinum
+  rotate: false
+  xy: 256, 403
+  size: 23, 91
+  orig: 23, 91
+  offset: 0, 0
+  index: -1
+tops/jacket-lady-green-arm-upper
+  rotate: false
+  xy: 104, 1675
+  size: 20, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+facialgear/witch-nose
+  rotate: false
+  xy: 844, 914
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+facialgear/hollywood-eyes
+  rotate: false
+  xy: 680, 1470
+  size: 31, 14
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+headgear/elven-circlet
+  rotate: false
+  xy: 657, 1219
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+bottoms/pants-lower
+  rotate: false
+  xy: 904, 1464
+  size: 20, 28
+  orig: 22, 28
+  offset: 1, 0
+  index: -1
+headgear/papercraft
+  rotate: false
+  xy: 357, 1072
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+android-cap2
+  rotate: false
+  xy: 209, 1222
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+hair/fringe
+  rotate: false
+  xy: 4, 1146
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+facialgear/black-glasses
+  rotate: false
+  xy: 339, 1409
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+facialhair/moustache-large
+  rotate: false
+  xy: 280, 1473
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+facialgear/winter-scarf
+  rotate: false
+  xy: 359, 650
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+tools/hatchet
+  rotate: false
+  xy: 438, 477
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+tools/net-platinum
+  rotate: false
+  xy: 543, 590
+  size: 49, 102
+  orig: 49, 102
+  offset: 0, 0
+  index: -1
+bottoms/cheerleader-r
+  rotate: false
+  xy: 439, 1375
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+hair/dj
+  rotate: false
+  xy: 150, 619
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+prosthetics/brass-headset
+  rotate: false
+  xy: 947, 975
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+tops/royal
+  rotate: false
+  xy: 843, 205
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+tops/suspenders
+  rotate: false
+  xy: 947, 1119
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+bottoms/brain-leg-lower
+  rotate: false
+  xy: 313, 1454
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+android-cog2
+  rotate: false
+  xy: 889, 400
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+facialhair/beard-seneca
+  rotate: false
+  xy: 650, 1398
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+footwear/war-shoes-lower
+  rotate: false
+  xy: 461, 1497
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+tops/android
+  rotate: false
+  xy: 408, 1205
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+tools/muzzle-flash-musket-mk3
+  rotate: false
+  xy: 305, 1018
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+facialgear/bird-skull
+  rotate: false
+  xy: 390, 115
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+facialgear/masks/turtle
+  rotate: false
+  xy: 475, 700
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+facialgear/scar-2
+  rotate: false
+  xy: 901, 1544
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+footwear/pirate-boots-upper
+  rotate: false
+  xy: 102, 1531
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+headgear/panda
+  rotate: false
+  xy: 959, 538
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+avatar/inner-eye-angry
+  rotate: false
+  xy: 188, 1495
+  size: 28, 12
+  orig: 48, 32
+  offset: 4, 7
+  index: -1
+facialgear/masks/lady-luna
+  rotate: false
+  xy: 210, 1071
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+tops/fur-coat-brown-arm-upper
+  rotate: false
+  xy: 221, 1581
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+facialhair/fu-manchu
+  rotate: false
+  xy: 925, 1000
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+tops/pirate
+  rotate: false
+  xy: 812, 594
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+bottoms/reaper-leg-upper
+  rotate: false
+  xy: 923, 1577
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+tops/prepboy
+  rotate: false
+  xy: 414, 950
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+hair/edward
+  rotate: false
+  xy: 4, 787
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+prosthetics/brass-leg-upper
+  rotate: false
+  xy: 509, 1587
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+tops/elf
+  rotate: false
+  xy: 475, 559
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+tops/rainbow-arm-upper
+  rotate: false
+  xy: 54, 1702
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1

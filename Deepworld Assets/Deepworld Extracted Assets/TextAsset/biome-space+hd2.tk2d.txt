@@ -1,0 +1,52 @@
+i tk2d 1
+w 1024
+h 1024
+~
+n space/earth-base
+s 649 4 320 320
+o 0 0 320 320
+~
+n space/earth-front
+s 4 4 640 320
+o 0 0 640 320
+~
+n space/earth-front-deep
+s 4 654 640 320
+o 0 0 640 320
+~
+n space/earth-front-deeper
+s 4 329 640 320
+o 0 0 640 320
+~
+n space/stalagmite-1
+s 734 558 68 144
+o 6 16 80 160
+~
+n space/stalagmite-2
+s 649 759 66 146
+o 7 14 80 160
+~
+n space/stalagmite-3
+s 649 692 74 62
+o 2 18 80 80
+~
+n space/stalagmite-4
+s 649 910 68 68
+o 6 12 80 80
+~
+n space/stalagmite-5
+s 649 558 80 60
+o 0 20 80 80
+~
+n space/stalagmite-6
+s 649 623 78 64
+o 2 16 80 80
+~
+n space/stalagmite-7
+s 808 329 146 236
+o 6 4 160 240
+~
+n space/stalagmite-8
+s 649 329 154 224
+o 4 16 160 240
+~

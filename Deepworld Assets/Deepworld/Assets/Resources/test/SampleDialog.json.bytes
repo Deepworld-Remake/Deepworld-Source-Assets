@@ -1,0 +1,105 @@
+{
+  "title": "Awesome Dialog",
+  "sections": [
+    {
+      "text": "<color=#eb5a0e>Register</color> to save your progress!"
+    },
+    {
+      "text": "Quinoa whatever pork belly you probably haven't heard of them cray Austin, narwhal bicycle rights farm-to-table umami deep v actually before they sold out ethical. Master cleanse chambray twee post-ironic Neutra. Bushwick banh mi kitsch, jean shorts seitan pour-over fashion axe Vice synth gentrify beard Schlitz put a bird on it you probably haven't heard of them American Apparel. Paleo authentic Banksy before they sold out hoodie ugh squid freegan."
+    },
+    {
+      "input": {
+        "type": "text",
+        "name": "textInput",
+        "title": "Text Input",
+        "maxlength": 32,
+        "value": "Default Value"
+      }
+    },
+    {
+      "input": {
+        "type": "text",
+        "name": "textInput2",
+        "maxlength": 32,
+        "value": "Default Value 2",
+        "error": "Your value is invalid!"
+      }
+    },
+
+    {
+      "input": {
+        "type": "select",
+        "name": "select",
+        "title": "Select",
+        "options": [
+          { "title": "One", "value": "one" },
+          { "title": "Two", "value": "two" },
+          { "title": "Three", "value": "three" },
+          { "title": "Four", "value": "four" },
+          { "title": "Five", "value": "five" },
+          { "title": "Six", "value": "six" },
+          { "title": "Seven", "value": "seven" },
+          { "color": "eb5a0e", "value": "reddish" },
+          { "sprite": "biome-hell", "spriteScale": 0.8, "value": "heart" }
+        ],
+        "value": "reddish"
+      }
+    },
+    {
+      "input": {
+        "type": "slider",
+        "name": "graphicsQuality",
+        "title": "Graphics Quality",
+        "options": [
+          "Low", "Medium", "High"
+        ],
+        "value": 2
+      }
+    },
+    {
+      "list": [
+        { "text": "Item one", "image": "wardrobe-hair" },
+        { "text": "Item two", "image": "wardrobe-facialhair" },
+        { "text": "Item three", "image": "wardrobe-headgear" },
+        { "text": "Item four" },
+        { "text": "Item five", "image": "unknown-image" },
+        { "text": "Item six", "image": "wardrobe-exoleg" },
+        { "text": "Item seven", "image": "wardrobe-top" }
+      ]
+    },
+    {
+      "input": {
+        "type": "slider",
+        "name": "volume",
+        "title": "Audio Volume",
+        "min": 1,
+        "max": 10,
+        "whole": true,
+        "value": 5
+      }
+    },
+    {
+      "input": {
+        "type": "checkbox",
+        "name": "boolValue",
+        "title": "Bool Value",
+        "value": true
+      }
+    },
+    {
+      "input": {
+        "type": "checkbox",
+        "name": "cowValue",
+        "title": "Use Cows For Financial Leveragezzzzz",
+        "value": false
+      }
+    },
+    {
+      "prefab": "MiscPrefab"
+    }
+  ],
+  "actions": [
+    { "title": "Cancel", "event": "dialogCancelled" },
+    { "title": "Okay", "command": "myDialog" }
+  ]
+}

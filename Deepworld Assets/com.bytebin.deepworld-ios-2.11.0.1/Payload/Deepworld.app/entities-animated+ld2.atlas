@@ -1,0 +1,3735 @@
+entities-animated+ld2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+roach-abdomen
+  rotate: false
+  xy: 464, 639
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+brain-overlay-glass-l-1
+  rotate: false
+  xy: 814, 171
+  size: 90, 19
+  orig: 90, 19
+  offset: 0, 0
+  index: -1
+automata-base-large
+  rotate: false
+  xy: 936, 4
+  size: 82, 82
+  orig: 82, 90
+  offset: 0, 0
+  index: -1
+tail-1
+  rotate: false
+  xy: 184, 501
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+herring-body-blue
+  rotate: false
+  xy: 686, 524
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+terrapus-bone-head
+  rotate: false
+  xy: 774, 373
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+terrapus-fire-leg-mid
+  rotate: false
+  xy: 20, 865
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+turkey-wing-3
+  rotate: false
+  xy: 900, 275
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+angelfish-tail
+  rotate: false
+  xy: 4, 784
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+roach-head
+  rotate: false
+  xy: 160, 530
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-mid
+  rotate: false
+  xy: 739, 474
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+anemone-magenta-tentacle-2
+  rotate: false
+  xy: 925, 139
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+brain-baby-space-helmet
+  rotate: false
+  xy: 813, 278
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+terrapus-arctic-leg-top-r
+  rotate: false
+  xy: 922, 789
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+scorpion-large-claw-2
+  rotate: false
+  xy: 64, 607
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+revenant-dire-hand
+  rotate: false
+  xy: 125, 351
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+automata-leg-short
+  rotate: false
+  xy: 674, 107
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+armadillo-forepaw
+  rotate: false
+  xy: 793, 774
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+snake-rattler-head-upper
+  rotate: false
+  xy: 220, 393
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+plasma-dog-neck
+  rotate: false
+  xy: 523, 415
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+terrapus-frost-leg-bottom-r
+  rotate: false
+  xy: 755, 419
+  size: 14, 15
+  orig: 18, 15
+  offset: 4, 0
+  index: -1
+terrapus-spikes-1
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+rat-tail-1
+  rotate: false
+  xy: 910, 865
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+butterfly-wing-rumanzovia
+  rotate: false
+  xy: 774, 512
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+scorpion-small-tail-2
+  rotate: false
+  xy: 805, 159
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+bunny-leg-lower
+  rotate: false
+  xy: 812, 715
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+terrapus-queen-leg-lower-l
+  rotate: false
+  xy: 614, 248
+  size: 27, 39
+  orig: 29, 39
+  offset: 2, 0
+  index: -1
+gray-matter-2
+  rotate: false
+  xy: 471, 122
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+cat-foreleg-lower
+  rotate: false
+  xy: 756, 285
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+automata-swimming-pelvic-fin
+  rotate: false
+  xy: 84, 605
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+terrapus-fire-leg-top-l
+  rotate: false
+  xy: 812, 744
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+skunk-forewpaw
+  rotate: false
+  xy: 4, 765
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+almaco-jack-pectoral-fin
+  rotate: false
+  xy: 4, 755
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+terrapus-fire-leg-top-m-l
+  rotate: false
+  xy: 50, 828
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+crow-wing-upper
+  rotate: false
+  xy: 812, 764
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+automata-base-tiny
+  rotate: false
+  xy: 997, 482
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+bunny-head
+  rotate: false
+  xy: 220, 299
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+terrapus-frost-leg-top-m-r
+  rotate: false
+  xy: 4, 600
+  size: 11, 14
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+turret-pistol
+  rotate: false
+  xy: 421, 619
+  size: 38, 22
+  orig: 38, 24
+  offset: 0, 1
+  index: -1
+butterfly-body
+  rotate: false
+  xy: 523, 317
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+cardinal-head
+  rotate: false
+  xy: 583, 643
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+sandworm-desert-head-upper
+  rotate: false
+  xy: 314, 428
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+cat-ear-f
+  rotate: false
+  xy: 934, 866
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+automata-gun-acid
+  rotate: false
+  xy: 875, 548
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+scorpion-small-claw-lower
+  rotate: false
+  xy: 160, 501
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+butlerbot-ninja
+  rotate: false
+  xy: 455, 300
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+brain-medium-dire-jet
+  rotate: false
+  xy: 875, 614
+  size: 45, 55
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+terrapus-frost-leg-top-r
+  rotate: false
+  xy: 769, 680
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+squid-fin-f
+  rotate: false
+  xy: 421, 557
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+turret-base-small
+  rotate: false
+  xy: 766, 712
+  size: 24, 22
+  orig: 50, 50
+  offset: 13, 14
+  index: -1
+terrapus-pet-collar
+  rotate: false
+  xy: 220, 329
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+brain-cerebellum
+  rotate: false
+  xy: 973, 738
+  size: 43, 30
+  orig: 45, 30
+  offset: 1, 0
+  index: -1
+cat-eye-f
+  rotate: false
+  xy: 900, 195
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+bat-vampire-body
+  rotate: false
+  xy: 648, 642
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+turkey-head
+  rotate: false
+  xy: 737, 759
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+turret-fire
+  rotate: false
+  xy: 551, 560
+  size: 38, 20
+  orig: 38, 22
+  offset: 0, 1
+  index: -1
+terrapus-adult-leg-bottom-r
+  rotate: false
+  xy: 436, 347
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+automata-swimming-propeller-1
+  rotate: false
+  xy: 674, 70
+  size: 9, 32
+  orig: 9, 32
+  offset: 0, 0
+  index: -1
+turtleshell-lower
+  rotate: false
+  xy: 159, 196
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+sergeant-major-tail
+  rotate: false
+  xy: 84, 591
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+clownfish-dorsal-fin
+  rotate: false
+  xy: 302, 545
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+rat-head
+  rotate: false
+  xy: 737, 632
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+turtle-sea-forefin
+  rotate: false
+  xy: 737, 582
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+piranha-jaw
+  rotate: false
+  xy: 114, 577
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+rat-rearleg-upper
+  rotate: false
+  xy: 973, 808
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+automata-gun-energy
+  rotate: false
+  xy: 329, 305
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+terrapus-fire-leg-top-m-r
+  rotate: false
+  xy: 48, 846
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+butlerbot-head-diamond
+  rotate: false
+  xy: 879, 462
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+terrapus-fire-spikes-2
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+bluejay-leg
+  rotate: false
+  xy: 97, 678
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+terrapus-queen-pupiil
+  rotate: false
+  xy: 20, 715
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+bat-wing-lower
+  rotate: false
+  xy: 617, 654
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+squid-tentacle-top
+  rotate: false
+  xy: 766, 757
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+butlerbot-eye
+  rotate: false
+  xy: 51, 547
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+angelfish-pectoral-fin
+  rotate: false
+  xy: 793, 789
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 647, 671
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+sergeant-major-pectoral-fin
+  rotate: false
+  xy: 302, 565
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+brain-baby-tentacle-end
+  rotate: false
+  xy: 63, 699
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+skull-spine-3
+  rotate: false
+  xy: 805, 139
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+snake-rattler-head-lower
+  rotate: false
+  xy: 648, 608
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+brain-medium-base-top
+  rotate: false
+  xy: 688, 4
+  size: 122, 75
+  orig: 122, 75
+  offset: 0, 0
+  index: -1
+revenant-head
+  rotate: false
+  xy: 774, 174
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+revenant-dire-arm
+  rotate: false
+  xy: 909, 173
+  size: 19, 97
+  orig: 19, 97
+  offset: 0, 0
+  index: -1
+automata-joint-2
+  rotate: false
+  xy: 951, 778
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+bat-body
+  rotate: false
+  xy: 614, 292
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+turkey-wing-1
+  rotate: false
+  xy: 646, 311
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+automata-drill-2
+  rotate: false
+  xy: 159, 444
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+sandworm-desert-head-middle
+  rotate: false
+  xy: 371, 414
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+tentacle-monster-tentacle-1
+  rotate: false
+  xy: 755, 321
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+friend-leg-upper
+  rotate: false
+  xy: 756, 262
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+anemone-magenta-tentacle-4
+  rotate: false
+  xy: 545, 120
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+brain-base
+  rotate: false
+  xy: 259, 249
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+cat-foreleg-upper
+  rotate: false
+  xy: 755, 439
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+terrapus-acid-spikes-2
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+skunk-tail
+  rotate: false
+  xy: 342, 176
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+armadillo-tail-tip
+  rotate: false
+  xy: 512, 388
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+friend-key-2
+  rotate: false
+  xy: 81, 655
+  size: 10, 16
+  orig: 14, 16
+  offset: 2, 0
+  index: -1
+bunny-foot-lower
+  rotate: false
+  xy: 42, 760
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+codfish-body
+  rotate: false
+  xy: 259, 330
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+terrapus-fire-head
+  rotate: false
+  xy: 508, 560
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+terrapus-queen-head
+  rotate: false
+  xy: 259, 74
+  size: 123, 97
+  orig: 123, 97
+  offset: 0, 0
+  index: -1
+snake-garter-tail-segment
+  rotate: false
+  xy: 43, 662
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+stem-1
+  rotate: false
+  xy: 866, 788
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+rat-collar
+  rotate: false
+  xy: 765, 771
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+bluejay-foot
+  rotate: false
+  xy: 20, 760
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+terrapus-spikes-3
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+rat-tail-3
+  rotate: false
+  xy: 903, 727
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+terrapus-frost-leg-mid
+  rotate: false
+  xy: 426, 439
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+turtle-sea-rearfin
+  rotate: false
+  xy: 682, 661
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+skunk-collar
+  rotate: false
+  xy: 918, 821
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+tail-2
+  rotate: false
+  xy: 64, 591
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+cardinal-wing-upper
+  rotate: false
+  xy: 875, 727
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+friend-torso
+  rotate: false
+  xy: 738, 525
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+vulture-head
+  rotate: false
+  xy: 232, 204
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+snake-garter-segment-thin
+  rotate: false
+  xy: 875, 752
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+jellyfish-blob2
+  rotate: false
+  xy: 26, 846
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+scorpion-large-head
+  rotate: false
+  xy: 973, 773
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-bottom-r
+  rotate: false
+  xy: 973, 831
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+armadillo-ear-f
+  rotate: false
+  xy: 64, 655
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+anemone-electric-tentacle-1
+  rotate: false
+  xy: 900, 204
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+scorpion-small-stinger
+  rotate: false
+  xy: 934, 847
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+anemone-red-base
+  rotate: false
+  xy: 499, 646
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+crow-auto-head
+  rotate: false
+  xy: 769, 660
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+codfish-body-violet
+  rotate: false
+  xy: 377, 347
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+squid-fin-r
+  rotate: false
+  xy: 551, 585
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+automata-swimming-body-silver
+  rotate: false
+  xy: 545, 529
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+terrapus-fire-spikes-1
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+automata-base-3
+  rotate: false
+  xy: 63, 370
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+scorpion-small-body
+  rotate: false
+  xy: 126, 299
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+terrapus-fire-leg-bottom-l
+  rotate: false
+  xy: 59, 717
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+angelfish-body
+  rotate: false
+  xy: 315, 360
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+automata-gun-frost
+  rotate: false
+  xy: 215, 446
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+seagull-auto-head
+  rotate: false
+  xy: 994, 641
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+turtle-sea-shell-lower
+  rotate: false
+  xy: 159, 217
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+crow-auto-wing
+  rotate: false
+  xy: 421, 500
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+anemone-electric-base
+  rotate: false
+  xy: 685, 630
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+automata-pistol
+  rotate: false
+  xy: 421, 527
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+anemone-electric-tentacle-2
+  rotate: false
+  xy: 545, 76
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-top-r
+  rotate: false
+  xy: 862, 845
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-top-m-l
+  rotate: false
+  xy: 302, 500
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+flame-hawkfish-tail
+  rotate: false
+  xy: 64, 635
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+friend-key-1
+  rotate: false
+  xy: 755, 398
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+brain-overlay-metal-r
+  rotate: false
+  xy: 815, 46
+  size: 113, 50
+  orig: 113, 50
+  offset: 0, 0
+  index: -1
+terrapus-queen-leg-upper-l
+  rotate: false
+  xy: 545, 343
+  size: 62, 71
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+vulture-lowerbeak
+  rotate: false
+  xy: 4, 638
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+butlerbot-troll
+  rotate: false
+  xy: 813, 505
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+gray-matter-6
+  rotate: false
+  xy: 113, 467
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+cardinal-wing-lower
+  rotate: false
+  xy: 314, 541
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+snake-garter-head-lower
+  rotate: false
+  xy: 551, 601
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+armadillo-ear-r
+  rotate: false
+  xy: 756, 303
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+orca-body
+  rotate: false
+  xy: 688, 84
+  size: 112, 84
+  orig: 112, 84
+  offset: 0, 0
+  index: -1
+terrapus-adult-leg-mid
+  rotate: false
+  xy: 797, 700
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+crow-wing-lower
+  rotate: false
+  xy: 924, 688
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+tentacle-monster-tentacle-3
+  rotate: false
+  xy: 533, 255
+  size: 7, 27
+  orig: 7, 27
+  offset: 0, 0
+  index: -1
+brain-tube-segment-long
+  rotate: false
+  xy: 4, 870
+  size: 11, 39
+  orig: 11, 39
+  offset: 0, 0
+  index: -1
+turtle-sea-shell-upper
+  rotate: false
+  xy: 466, 216
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+revenant-lord-jaw
+  rotate: false
+  xy: 813, 406
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+rat-foreleg-lower
+  rotate: false
+  xy: 4, 619
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+butterfly-wing-swallowtail
+  rotate: false
+  xy: 686, 549
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+foreleg-upper
+  rotate: false
+  xy: 903, 767
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+plasma-dog-tail-tip
+  rotate: false
+  xy: 862, 698
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+clownfish-pelvic-fin
+  rotate: false
+  xy: 302, 536
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+skunk-foreleg_upper
+  rotate: false
+  xy: 838, 824
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+snake-rattler-teeth
+  rotate: false
+  xy: 509, 520
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+anemone-red-tentacle-4
+  rotate: false
+  xy: 545, 110
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+friend-arm-lower
+  rotate: false
+  xy: 805, 108
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+bat-vampire-foot
+  rotate: false
+  xy: 863, 604
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+armadillo-rearleg
+  rotate: false
+  xy: 400, 616
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+vulture-leg-f
+  rotate: false
+  xy: 43, 677
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+terrapus-arctic-leg-top-m-r
+  rotate: false
+  xy: 64, 547
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+bat-vampire-wing-lower
+  rotate: false
+  xy: 679, 685
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+automata-drill-base
+  rotate: false
+  xy: 614, 333
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+turret-flame
+  rotate: false
+  xy: 4, 259
+  size: 57, 27
+  orig: 57, 35
+  offset: 0, 5
+  index: -1
+pigeon-wing-lower
+  rotate: false
+  xy: 342, 278
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+automata-joint-1
+  rotate: false
+  xy: 37, 717
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+turkey-tail
+  rotate: false
+  xy: 933, 91
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+turkey-wing-4
+  rotate: false
+  xy: 474, 500
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+scorpion-large-claw-lower
+  rotate: false
+  xy: 128, 280
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+automata-pelvis
+  rotate: false
+  xy: 737, 703
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+butterfly-wing-owl
+  rotate: false
+  xy: 387, 74
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+bat-auto-head
+  rotate: false
+  xy: 427, 413
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+orca-fin
+  rotate: false
+  xy: 60, 460
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+scorpion-large-claw-1
+  rotate: false
+  xy: 43, 646
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+terrapus-fire-leg-bottom-r
+  rotate: false
+  xy: 37, 739
+  size: 18, 16
+  orig: 20, 16
+  offset: 2, 0
+  index: -1
+skunk-rearpaw
+  rotate: false
+  xy: 43, 771
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+friend-scissors
+  rotate: false
+  xy: 20, 738
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+almaco-jack-body-orange
+  rotate: false
+  xy: 455, 350
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+seagull-leg
+  rotate: false
+  xy: 799, 660
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+plasma-dog-paw
+  rotate: false
+  xy: 98, 619
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+stem-2
+  rotate: false
+  xy: 774, 590
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+piranha-tail
+  rotate: false
+  xy: 4, 577
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+cat-rearleg-upper
+  rotate: false
+  xy: 523, 362
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+orca-tail-1
+  rotate: false
+  xy: 545, 248
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+butterfly-wing-moth
+  rotate: false
+  xy: 510, 437
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+bunny-foreleg-upper
+  rotate: false
+  xy: 523, 390
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+brain-medium-jet
+  rotate: false
+  xy: 646, 257
+  size: 37, 49
+  orig: 39, 49
+  offset: 2, 0
+  index: -1
+scorpion-small-head
+  rotate: false
+  xy: 104, 514
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+gray-matter-1
+  rotate: false
+  xy: 63, 419
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+terrapus-queen-body
+  rotate: false
+  xy: 559, 4
+  size: 124, 61
+  orig: 124, 61
+  offset: 0, 0
+  index: -1
+footwear/clown-foot-upper
+  rotate: false
+  xy: 651, 459
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+terrapus-child-head
+  rotate: false
+  xy: 467, 536
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+automata-swimming-dorsal-fin
+  rotate: false
+  xy: 812, 788
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+scorpion-small-claw-2
+  rotate: false
+  xy: 51, 573
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+jellyfish-blob1
+  rotate: false
+  xy: 27, 828
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+scorpion-large-stinger
+  rotate: false
+  xy: 924, 764
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+flame-hawkfish-body
+  rotate: false
+  xy: 895, 786
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+anemone-electric-tentacle-4
+  rotate: false
+  xy: 900, 216
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+butlerbot-head--brass
+  rotate: false
+  xy: 455, 451
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+automata-top-propeller-1
+  rotate: false
+  xy: 387, 241
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+sergeant-major-body
+  rotate: false
+  xy: 892, 803
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+rat-torso
+  rotate: false
+  xy: 545, 495
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+bluejay-wing-upper
+  rotate: false
+  xy: 924, 739
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+terrapus-bone-leg-top-l
+  rotate: false
+  xy: 20, 771
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+brain-tentacle-end
+  rotate: false
+  xy: 98, 699
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+cat-ear-r
+  rotate: false
+  xy: 4, 670
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+terrapus-queen-leg-lower-r
+  rotate: false
+  xy: 994, 547
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+vulture-collar
+  rotate: false
+  xy: 24, 784
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+scorpion-large-tail-3
+  rotate: false
+  xy: 27, 804
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+sandworm-desert-segment
+  rotate: false
+  xy: 545, 448
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+plasma-dog-tail-base
+  rotate: false
+  xy: 719, 630
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+squid-body
+  rotate: false
+  xy: 368, 444
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+pigeon-wing-upper
+  rotate: false
+  xy: 232, 234
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+brain-baby-base
+  rotate: false
+  xy: 259, 176
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+clownfish-body
+  rotate: false
+  xy: 998, 850
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+tentacle-monster-tentacle-5
+  rotate: false
+  xy: 805, 84
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+cat-eye-r
+  rotate: false
+  xy: 900, 226
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+turtleshell-upper
+  rotate: false
+  xy: 387, 202
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+sandworm-arctic-head-middle
+  rotate: false
+  xy: 314, 468
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+crow-foot
+  rotate: false
+  xy: 767, 698
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+rearleg-lower
+  rotate: false
+  xy: 862, 824
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+automata-swimming-body-brass
+  rotate: false
+  xy: 360, 523
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+herring-pelvic-fin
+  rotate: false
+  xy: 302, 526
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+turkey-foot
+  rotate: false
+  xy: 973, 792
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+roach-antenna
+  rotate: false
+  xy: 592, 604
+  size: 36, 7
+  orig: 36, 7
+  offset: 0, 0
+  index: -1
+brain-medium-dire-bottom
+  rotate: false
+  xy: 815, 4
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1
+friend-boxing-glove
+  rotate: false
+  xy: 82, 719
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+anemone-red-tentacle-2
+  rotate: false
+  xy: 925, 127
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+brain-medium-base-bottom
+  rotate: false
+  xy: 423, 76
+  size: 117, 41
+  orig: 117, 41
+  offset: 0, 0
+  index: -1
+automata-gun-flame
+  rotate: false
+  xy: 4, 435
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+terrapus-frost-leg-bottom-l
+  rotate: false
+  xy: 795, 750
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+brain-medium-tube-segment
+  rotate: false
+  xy: 862, 726
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+butlerbot-tuxedo
+  rotate: false
+  xy: 259, 402
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+turtle-sea-head
+  rotate: false
+  xy: 220, 373
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+friend-arm-upper
+  rotate: false
+  xy: 863, 626
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+bunny-foreleg-lower
+  rotate: false
+  xy: 4, 723
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+snake-garter-head-upper
+  rotate: false
+  xy: 464, 621
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+butterfly-wing-papilio-ulysses
+  rotate: false
+  xy: 975, 676
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+terrapus-queen-leg-upper-m-r
+  rotate: false
+  xy: 899, 303
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+clownfish-pectoral-fin
+  rotate: false
+  xy: 805, 149
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+cat-paw
+  rotate: false
+  xy: 880, 354
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+armadillo-body-upper
+  rotate: false
+  xy: 875, 674
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+turkey-wing-2
+  rotate: false
+  xy: 602, 422
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+scorpion-large-claw-upper
+  rotate: false
+  xy: 892, 819
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+skunk-body
+  rotate: false
+  xy: 259, 427
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+scorpion-small-lowerleg
+  rotate: false
+  xy: 805, 128
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+turkey-body
+  rotate: false
+  xy: 545, 190
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+revenant-hand
+  rotate: false
+  xy: 612, 369
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+almaco-jack-body-green
+  rotate: false
+  xy: 455, 381
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+scorpion-small-midleg
+  rotate: false
+  xy: 79, 645
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+terrapus-collar
+  rotate: false
+  xy: 220, 329
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+pigeon-body
+  rotate: false
+  xy: 371, 377
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+automata-bomb-spark-1
+  rotate: false
+  xy: 997, 516
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+butlerbot-back-diamond
+  rotate: false
+  xy: 933, 365
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+brain-bottom
+  rotate: false
+  xy: 263, 4
+  size: 155, 65
+  orig: 155, 133
+  offset: 0, 68
+  index: -1
+sandworm-arctic-head-lower
+  rotate: false
+  xy: 875, 511
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+friend-torso-open
+  rotate: false
+  xy: 592, 616
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+brain-tentacle-segment
+  rotate: false
+  xy: 799, 683
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+rat-tail-2
+  rotate: false
+  xy: 999, 773
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+vulture-body
+  rotate: false
+  xy: 256, 499
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+armadillo-tail-small
+  rotate: false
+  xy: 37, 577
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+terrapus-arctic-leg-top-l
+  rotate: false
+  xy: 766, 739
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+plasma-dog-torso
+  rotate: false
+  xy: 4, 543
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+armadillo-rearpaw
+  rotate: false
+  xy: 138, 635
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+automata-bomb-fuse
+  rotate: false
+  xy: 92, 635
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+vulture-neck
+  rotate: false
+  xy: 997, 445
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+butlerbot-cylon
+  rotate: false
+  xy: 932, 523
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+brain-medium-tube-end
+  rotate: false
+  xy: 862, 740
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+terrapus-adult-leg-bottom-l
+  rotate: false
+  xy: 70, 804
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+brain-stem-lower
+  rotate: false
+  xy: 64, 577
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+turtletail
+  rotate: false
+  xy: 138, 539
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+friend-hand
+  rotate: false
+  xy: 113, 562
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+plasma-dog-rearleg-upper
+  rotate: false
+  xy: 400, 586
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+terrapus-bone-spikes-3
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+butlerbot-drifter
+  rotate: false
+  xy: 814, 195
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+automata-buzzsaw
+  rotate: false
+  xy: 540, 644
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+friend-gear
+  rotate: false
+  xy: 997, 889
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+terrapus-frost-leg-top-m-l
+  rotate: false
+  xy: 79, 562
+  size: 12, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+terrapus-frost-spikes-3
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+plasma-dog-pelvis
+  rotate: false
+  xy: 812, 803
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+forepaw
+  rotate: false
+  xy: 64, 645
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+terrapus-frost-leg-top-l
+  rotate: false
+  xy: 973, 866
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+skull-spine-1
+  rotate: false
+  xy: 302, 514
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+orca-tail-fin
+  rotate: false
+  xy: 505, 623
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+bat-vampire-head
+  rotate: false
+  xy: 220, 351
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+seagull-wing-upper
+  rotate: false
+  xy: 4, 804
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+armadillo-head
+  rotate: false
+  xy: 774, 335
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+skunk-head
+  rotate: false
+  xy: 774, 482
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+cat-head
+  rotate: false
+  xy: 737, 733
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+vulture-wing-upper
+  rotate: false
+  xy: 932, 587
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+terrapus-queen-leg-upper-m-l
+  rotate: false
+  xy: 4, 914
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+plasma-dog-tongue
+  rotate: false
+  xy: 973, 881
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+snake-garter-segment-thick
+  rotate: false
+  xy: 737, 608
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+scorpion-larg-body
+  rotate: false
+  xy: 545, 419
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+pigeon-leg
+  rotate: false
+  xy: 63, 678
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+terrapus-adult-leg-top-m-r
+  rotate: false
+  xy: 64, 563
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 686, 598
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+terrapus-bone-leg-bottom-l
+  rotate: false
+  xy: 975, 661
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+rearfoot-lower
+  rotate: false
+  xy: 109, 635
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+cat-pelvis
+  rotate: false
+  xy: 647, 695
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+plasma-dog-ear-f
+  rotate: false
+  xy: 4, 846
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+brain-arm-segment
+  rotate: false
+  xy: 423, 58
+  size: 124, 13
+  orig: 124, 13
+  offset: 0, 0
+  index: -1
+piranha-dorsal-fin
+  rotate: false
+  xy: 99, 591
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+brain-jet
+  rotate: false
+  xy: 159, 278
+  size: 56, 119
+  orig: 56, 119
+  offset: 0, 0
+  index: -1
+skull-spine-2
+  rotate: false
+  xy: 302, 553
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+terrapus-adult-leg-top-l
+  rotate: false
+  xy: 139, 526
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+cat-neck
+  rotate: false
+  xy: 952, 739
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+snake-rattler-tail-segment
+  rotate: false
+  xy: 79, 547
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+crow-leg
+  rotate: false
+  xy: 755, 375
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+pigeon-foot
+  rotate: false
+  xy: 20, 666
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+automata-foot
+  rotate: false
+  xy: 119, 448
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+bat-foot
+  rotate: false
+  xy: 533, 287
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+tentacle-monster-tentacle-2
+  rotate: false
+  xy: 406, 555
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+codfish-pectoral-fin
+  rotate: false
+  xy: 4, 745
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+flame-hawkfish-pelvic-fin
+  rotate: false
+  xy: 115, 646
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+sandworm-arctic-segment
+  rotate: false
+  xy: 4, 343
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+anemone-magenta-tentacle-1
+  rotate: false
+  xy: 925, 114
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+terrapus-acid-spikes-1
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+footwear/snakeskin-boot-lower
+  rotate: false
+  xy: 774, 235
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+butlerbot-back-onyx
+  rotate: false
+  xy: 933, 285
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+anemone-red-tentacle-1
+  rotate: false
+  xy: 925, 101
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+turkey-leg-upper
+  rotate: false
+  xy: 868, 769
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+friend-foot-lower
+  rotate: false
+  xy: 160, 515
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+seagull-collar
+  rotate: false
+  xy: 4, 828
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+terrapus-arctic-head
+  rotate: false
+  xy: 314, 501
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+terrapus-spikes-2
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+scorpion-small-tail-3
+  rotate: false
+  xy: 303, 486
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+brain-baby-tentacle-segment
+  rotate: false
+  xy: 629, 221
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+terrapus-queen-leg-mid
+  rotate: false
+  xy: 230, 260
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+terrapus-adult-leg-top-m-l
+  rotate: false
+  xy: 100, 577
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+brain-tentacle-long
+  rotate: false
+  xy: 64, 739
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+snake-rattler-segment-thick
+  rotate: false
+  xy: 508, 537
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+piranha-body
+  rotate: false
+  xy: 360, 557
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+footwear/snakeskin-boot-upper
+  rotate: false
+  xy: 122, 404
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+bunny-collar
+  rotate: false
+  xy: 737, 658
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+scorpion-large-upperleg
+  rotate: false
+  xy: 43, 594
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+gray-matter-5
+  rotate: false
+  xy: 771, 636
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+bluejay-wing-lower
+  rotate: false
+  xy: 256, 471
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+codfish-pelvic-fin
+  rotate: false
+  xy: 303, 471
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+turkey-neck
+  rotate: false
+  xy: 20, 678
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+herring-tail
+  rotate: false
+  xy: 719, 645
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+scorpion-small-upperleg
+  rotate: false
+  xy: 51, 584
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+snake-garter-tail-tip
+  rotate: false
+  xy: 998, 866
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+sandworm-desert-tail
+  rotate: false
+  xy: 925, 646
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+terrapus-adult-leg-top-r
+  rotate: false
+  xy: 83, 577
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+automata-gun-steam
+  rotate: false
+  xy: 4, 474
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+eyelids
+  rotate: false
+  xy: 139, 514
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+almaco-jack-body
+  rotate: false
+  xy: 875, 583
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+bat-wing-upper
+  rotate: false
+  xy: 646, 379
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+bat-head
+  rotate: false
+  xy: 648, 576
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+plasma-dog-foreleg-lower
+  rotate: false
+  xy: 627, 630
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+orca-head
+  rotate: false
+  xy: 545, 300
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-top-m-r
+  rotate: false
+  xy: 83, 699
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+rat-forepaw
+  rotate: false
+  xy: 4, 735
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+butlerbot-flowers
+  rotate: false
+  xy: 813, 354
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+automata-base-2
+  rotate: false
+  xy: 159, 238
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+seagull-wing-lower
+  rotate: false
+  xy: 594, 579
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+vulture-foot-f
+  rotate: false
+  xy: 466, 563
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+herring-body-red
+  rotate: false
+  xy: 687, 499
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+turret-acid
+  rotate: false
+  xy: 66, 259
+  size: 57, 27
+  orig: 61, 27
+  offset: 2, 0
+  index: -1
+flame-hawkfish-pectoral-fin
+  rotate: false
+  xy: 79, 635
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+butlerbot-back-brass
+  rotate: false
+  xy: 387, 122
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+terrapus-fire-leg-top-r
+  rotate: false
+  xy: 128, 259
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+terrapus-bone-leg-bottom-r
+  rotate: false
+  xy: 975, 646
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+footwear/clown-foot-lower
+  rotate: false
+  xy: 646, 354
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+bunny-tail
+  rotate: false
+  xy: 20, 577
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+skunk-rearleg_upper
+  rotate: false
+  xy: 427, 384
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+herring-dorsal-fin
+  rotate: false
+  xy: 64, 623
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+plasma-dog-foreleg-upper
+  rotate: false
+  xy: 235, 177
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+herring-body
+  rotate: false
+  xy: 687, 474
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+terrapus-bone-leg-top-r
+  rotate: false
+  xy: 973, 850
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+bluejay-body
+  rotate: false
+  xy: 159, 402
+  size: 51, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+cat-rearleg-lower
+  rotate: false
+  xy: 40, 865
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+rat-rearfoot-lower
+  rotate: false
+  xy: 4, 711
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+brain-jet-arm
+  rotate: false
+  xy: 4, 4
+  size: 254, 52
+  orig: 254, 52
+  offset: 0, 0
+  index: -1
+almaco-jack-dorsal-fin
+  rotate: false
+  xy: 119, 527
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+brain-dessicator
+  rotate: false
+  xy: 421, 576
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 0
+  index: -1
+brain-overlay-glass-l-2
+  rotate: false
+  xy: 948, 800
+  size: 20, 83
+  orig: 20, 83
+  offset: 0, 0
+  index: -1
+sandworm-desert-head-lower
+  rotate: false
+  xy: 455, 412
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+armadillo-body-lower
+  rotate: false
+  xy: 4, 291
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+clownfish-tail
+  rotate: false
+  xy: 99, 604
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+scorpion-large-tail-2
+  rotate: false
+  xy: 406, 523
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-bottom-l
+  rotate: false
+  xy: 998, 830
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+terrapus-bone-leg-mid
+  rotate: false
+  xy: 862, 646
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+cardinal-body
+  rotate: false
+  xy: 259, 360
+  size: 51, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+tentacle-monster-tentacle-4
+  rotate: false
+  xy: 922, 151
+  size: 6, 17
+  orig: 6, 23
+  offset: 0, 0
+  index: -1
+anemone-magenta-tentacle-3
+  rotate: false
+  xy: 552, 58
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: -1
+cardinal-foot
+  rotate: false
+  xy: 994, 665
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+plasma-dog-rearleg-lower
+  rotate: false
+  xy: 839, 794
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+crow-collar
+  rotate: false
+  xy: 918, 805
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+terrapus-frost-head
+  rotate: false
+  xy: 464, 582
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+terrapus-acid-spikes-3
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+plasma-dog-tail-segment
+  rotate: false
+  xy: 862, 712
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+terrapus-queen-leg-upper-r
+  rotate: false
+  xy: 597, 506
+  size: 46, 68
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+revenant-dire-head
+  rotate: false
+  xy: 387, 269
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+snake-rattler-segment-thin
+  rotate: false
+  xy: 839, 778
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+automata-leg-long
+  rotate: false
+  xy: 329, 249
+  size: 8, 51
+  orig: 8, 51
+  offset: 0, 0
+  index: -1
+angelfish-pelvic-fin
+  rotate: false
+  xy: 119, 514
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-top-mid-l
+  rotate: false
+  xy: 302, 500
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+scorpion-small-tail-1
+  rotate: false
+  xy: 512, 406
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+rat-rearfoot-upper
+  rotate: false
+  xy: 126, 655
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+brain-baby-cerebellum
+  rotate: false
+  xy: 161, 467
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+seagull-foot
+  rotate: false
+  xy: 39, 784
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+vulture-wing-lower
+  rotate: false
+  xy: 552, 117
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+squid-tentacle-segment
+  rotate: false
+  xy: 998, 879
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+gray-matter-3
+  rotate: false
+  xy: 357, 584
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+jellyfish-tentacle-segment
+  rotate: false
+  xy: 900, 234
+  size: 1, 14
+  orig: 1, 14
+  offset: 0, 0
+  index: -1
+terrapus-adult-head
+  rotate: false
+  xy: 646, 420
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+roach-lowerleg
+  rotate: false
+  xy: 183, 517
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+bat-vampire-wing-upper
+  rotate: false
+  xy: 126, 316
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+sandworm-arctic-head-upper
+  rotate: false
+  xy: 4, 396
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+jellyfish-blob3
+  rotate: false
+  xy: 952, 759
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+brain-overlay-glass-r-1
+  rotate: false
+  xy: 933, 157
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+vulture-tail
+  rotate: false
+  xy: 4, 505
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+foreleg-lower
+  rotate: false
+  xy: 111, 655
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+sandworm-arctic-tail
+  rotate: false
+  xy: 599, 459
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+terrapus-arctic-leg-bottom-l
+  rotate: false
+  xy: 841, 710
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+jellyfish-head
+  rotate: false
+  xy: 739, 494
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+bat-auto-wing
+  rotate: false
+  xy: 774, 257
+  size: 34, 73
+  orig: 34, 73
+  offset: 0, 0
+  index: -1
+rat-rearleg-lower
+  rotate: false
+  xy: 998, 808
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+revenant-torso
+  rotate: false
+  xy: 646, 139
+  size: 37, 113
+  orig: 37, 113
+  offset: 0, 0
+  index: -1
+turtleforepaw
+  rotate: false
+  xy: 116, 591
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+scorpion-large-midleg
+  rotate: false
+  xy: 436, 366
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+terrapus-bone-leg-top-m-l
+  rotate: false
+  xy: 84, 619
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+bunny-ear
+  rotate: false
+  xy: 313, 571
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+bunny-body
+  rotate: false
+  xy: 368, 483
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+scorpion-large-tail-1
+  rotate: false
+  xy: 629, 190
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+seagull-auto-wing
+  rotate: false
+  xy: 812, 604
+  size: 46, 24
+  orig: 46, 26
+  offset: 0, 2
+  index: -1
+crow-head
+  rotate: false
+  xy: 994, 590
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+scorpion-small-claw-1
+  rotate: false
+  xy: 104, 529
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+skunk-foreleg_lower
+  rotate: false
+  xy: 50, 804
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+roach-thorax
+  rotate: false
+  xy: 507, 604
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+almaco-jack-tail
+  rotate: false
+  xy: 841, 686
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+anemone-electric-tentacle-3
+  rotate: false
+  xy: 545, 99
+  size: 2, 6
+  orig: 2, 6
+  offset: 0, 0
+  index: -1
+snake-rattler-tail-tip
+  rotate: false
+  xy: 886, 855
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+turtlerearleg
+  rotate: false
+  xy: 20, 600
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+tentacle-monster-base
+  rotate: false
+  xy: 815, 101
+  size: 105, 38
+  orig: 105, 38
+  offset: 0, 0
+  index: -1
+terrapus-fire-spikes-3
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+automata-base-1
+  rotate: false
+  xy: 57, 494
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+turtlehead
+  rotate: false
+  xy: 774, 616
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+brain-missles
+  rotate: false
+  xy: 688, 173
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+orca-jaw
+  rotate: false
+  xy: 687, 447
+  size: 60, 22
+  orig: 60, 22
+  offset: 0, 0
+  index: -1
+butterfly-wing-green
+  rotate: false
+  xy: 209, 468
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+butlerbot-head-onyx
+  rotate: false
+  xy: 879, 413
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+cat-torso
+  rotate: false
+  xy: 737, 552
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+rearfoot-upper
+  rotate: false
+  xy: 43, 612
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+cat-tail
+  rotate: false
+  xy: 752, 459
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+butterfly-wing-monarch
+  rotate: false
+  xy: 880, 366
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-top-mid-r
+  rotate: false
+  xy: 83, 699
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+terrapus-bone-leg-top-m-r
+  rotate: false
+  xy: 4, 685
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+armadillo-tail-large
+  rotate: false
+  xy: 4, 654
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+turtle-sea-tail
+  rotate: false
+  xy: 118, 540
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+terrapus-acid-head
+  rotate: false
+  xy: 774, 410
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+butlerbot-pirate
+  rotate: false
+  xy: 688, 262
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+squid-tentacle-end
+  rotate: false
+  xy: 92, 646
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+sergeant-major-pelvic-fin
+  rotate: false
+  xy: 39, 796
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+bee
+  rotate: false
+  xy: 51, 560
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+revenant-arm
+  rotate: false
+  xy: 714, 669
+  size: 18, 97
+  orig: 18, 97
+  offset: 0, 0
+  index: -1
+codfish-tail
+  rotate: false
+  xy: 903, 747
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+butlerbot-groucho
+  rotate: false
+  xy: 464, 255
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+roach-upperleg
+  rotate: false
+  xy: 124, 635
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+tail-3
+  rotate: false
+  xy: 512, 350
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+skunk-rearleg_lower
+  rotate: false
+  xy: 755, 352
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-top-l
+  rotate: false
+  xy: 910, 847
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+seagull-body
+  rotate: false
+  xy: 65, 291
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+brain-tank
+  rotate: false
+  xy: 4, 61
+  size: 150, 193
+  orig: 150, 195
+  offset: 0, 2
+  index: -1
+cat-jaw
+  rotate: false
+  xy: 99, 547
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+skull-cranium
+  rotate: false
+  xy: 774, 447
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+anemone-magenta-base
+  rotate: false
+  xy: 774, 561
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+brain-baby-collar
+  rotate: false
+  xy: 159, 177
+  size: 71, 14
+  orig: 71, 14
+  offset: 0, 0
+  index: -1
+revenant-lord-head
+  rotate: false
+  xy: 159, 61
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+whiskers
+  rotate: false
+  xy: 651, 484
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+terrapus-bone-spikes-1
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+automata-bomb-spark-2
+  rotate: false
+  xy: 886, 834
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+terrapus-frost-spikes-1
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+automata-base-bomb
+  rotate: false
+  xy: 812, 633
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+armadillo-foreleg
+  rotate: false
+  xy: 795, 723
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+almaco-jack-pelvic-fin
+  rotate: false
+  xy: 128, 577
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+orca-tail-2
+  rotate: false
+  xy: 315, 398
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+turtlerearpaw
+  rotate: false
+  xy: 116, 501
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+terrapus-acid-leg-top-m1
+  rotate: false
+  xy: 862, 673
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+scorpion-small-claw-upper
+  rotate: false
+  xy: 136, 501
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+gray-matter-4
+  rotate: false
+  xy: 342, 235
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+rat-foreleg-upper
+  rotate: false
+  xy: 841, 733
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+herring-pectoral-fin
+  rotate: false
+  xy: 719, 660
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+pigeon-head
+  rotate: false
+  xy: 994, 616
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+crow-body
+  rotate: false
+  xy: 65, 328
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+cardinal-leg
+  rotate: false
+  xy: 80, 678
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+brain-stem-upper
+  rotate: false
+  xy: 96, 655
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+squid-head
+  rotate: false
+  xy: 552, 70
+  size: 117, 42
+  orig: 117, 42
+  offset: 0, 0
+  index: -1
+skull-jaw
+  rotate: false
+  xy: 999, 791
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+piranha-pectoral-fin
+  rotate: false
+  xy: 4, 774
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+automata-swimming-propeller-2
+  rotate: false
+  xy: 113, 604
+  size: 9, 8
+  orig: 9, 12
+  offset: 0, 4
+  index: -1
+terrapus-bone-spikes-2
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+automata-top-propeller-2
+  rotate: false
+  xy: 20, 885
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+brain-medium-dire-top
+  rotate: false
+  xy: 815, 144
+  size: 102, 22
+  orig: 102, 22
+  offset: 0, 0
+  index: -1
+butterfly-wing-paper-kite
+  rotate: false
+  xy: 648, 527
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+friend-leg-lower
+  rotate: false
+  xy: 512, 370
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+bluejay-head
+  rotate: false
+  xy: 509, 486
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+automata-leg-short (1)
+  rotate: false
+  xy: 674, 107
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+terrapus-frost-spikes-2
+  rotate: false
+  xy: 900, 253
+  size: 1, 1
+  orig: 0, 0
+  offset: 0, -1
+  index: -1
+brain-overlay-metal-l
+  rotate: false
+  xy: 423, 4
+  size: 131, 49
+  orig: 131, 49
+  offset: 0, 0
+  index: -1
+plasma-dog-head
+  rotate: false
+  xy: 651, 500
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+bunny-leg-upper
+  rotate: false
+  xy: 812, 686
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+friend-torso-bidet
+  rotate: false
+  xy: 215, 412
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+codfish-body-yellow
+  rotate: false
+  xy: 318, 330
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+reaerleg-upper
+  rotate: false
+  xy: 20, 644
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+plasma-dog-ear-r
+  rotate: false
+  xy: 96, 562
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+terrapus-arctic-leg-bottom-r
+  rotate: false
+  xy: 20, 622
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+friend-foot-upper
+  rotate: false
+  xy: 43, 629
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+codfish-dorsal-fin
+  rotate: false
+  xy: 4, 698
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+automata-drill-1
+  rotate: false
+  xy: 924, 716
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+scorpion-large-lowerleg
+  rotate: false
+  xy: 114, 678
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+terrapus-arctic-leg-mid
+  rotate: false
+  xy: 633, 604
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+bunny-foot-upper
+  rotate: false
+  xy: 737, 687
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+brain-base-small
+  rotate: false
+  xy: 933, 445
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+revenant-dire-torso
+  rotate: false
+  xy: 688, 306
+  size: 62, 136
+  orig: 62, 136
+  offset: 0, 0
+  index: -1
+terrapus-arctic-leg-top-m-l
+  rotate: false
+  xy: 510, 422
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+turkey-leg-lower
+  rotate: false
+  xy: 841, 754
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+plasma-dog-jaw
+  rotate: false
+  xy: 646, 117
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+seagull-head
+  rotate: false
+  xy: 422, 471
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+squid-tentacle-end-large
+  rotate: false
+  xy: 648, 627
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+anemone-red-tentacle-3
+  rotate: false
+  xy: 545, 88
+  size: 2, 6
+  orig: 2, 6
+  offset: 0, 0
+  index: -1
+turtleforeleg
+  rotate: false
+  xy: 548, 620
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1

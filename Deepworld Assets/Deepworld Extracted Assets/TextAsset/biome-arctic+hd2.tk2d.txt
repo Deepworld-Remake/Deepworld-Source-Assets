@@ -1,0 +1,252 @@
+i tk2d 1
+w 1024
+h 2048
+~
+n arctic/earth-base
+s 649 4 320 320
+o 0 0 320 320
+~
+n arctic/earth-base-accent-large-1
+s 814 1064 160 154
+o 0 3 160 160
+~
+n arctic/earth-base-accent-large-2
+s 814 1223 158 160
+o 2 0 160 160
+~
+n arctic/earth-base-accent-large-3
+s 649 1148 160 138
+o 0 0 160 160
+~
+n arctic/earth-base-accent-large-4
+s 649 1291 156 154
+o 4 6 160 160
+~
+n arctic/earth-base-accent-large-5
+s 649 985 160 158
+o 0 0 160 160
+~
+n arctic/earth-base-accent-large-6
+s 872 329 148 150
+o 0 6 160 160
+~
+n arctic/earth-base-accent-small-1
+s 306 1871 80 62
+o 0 2 80 80
+~
+n arctic/earth-base-accent-small-2
+s 259 1948 80 80
+o 0 0 80 80
+~
+n arctic/earth-base-accent-small-3
+s 233 1704 66 74
+o 5 6 80 80
+~
+n arctic/earth-base-accent-small-4
+s 974 4 36 66
+o 22 9 80 80
+~
+n arctic/earth-base-accent-small-5
+s 318 1629 80 64
+o 0 4 80 80
+~
+n arctic/earth-base-accent-small-6
+s 371 1704 76 60
+o 0 5 80 80
+~
+n arctic/earth-base-accent-small-7
+s 734 1450 70 60
+o 6 14 80 80
+~
+n arctic/earth-base-accent-small-8
+s 734 1574 70 52
+o 6 3 80 80
+~
+n arctic/earth-base-external
+s 89 2036 80 8
+o 0 0 80 80
+~
+n arctic/earth-front
+s 4 654 640 320
+o 0 0 640 320
+~
+n arctic/earth-front-deep
+s 4 1304 640 320
+o 0 0 640 320
+~
+n arctic/earth-front-deeper
+s 4 979 640 320
+o 0 0 640 320
+~
+n arctic/earth-front-external
+s 4 2036 80 8
+o 0 0 80 80
+~
+n arctic/ice
+s 4 329 640 320
+o 0 0 640 320
+~
+n arctic/ice-brick
+s 649 820 160 160
+o 0 0 160 160
+~
+n arctic/ice-brick-back
+s 814 899 160 160
+o 0 0 160 160
+~
+n arctic/ice-sculpture-android
+s 905 1451 80 160
+o 0 0 80 160
+~
+n arctic/ice-sculpture-carriage
+s 814 734 160 160
+o 0 0 160 160
+~
+n arctic/ice-sculpture-dragon
+s 649 329 218 156
+o 8 4 240 160
+~
+n arctic/ice-sculpture-eiffel-tower
+s 87 1786 72 160
+o 4 0 80 160
+~
+n arctic/ice-sculpture-liberty
+s 164 1786 66 160
+o 6 0 80 160
+~
+n arctic/ice-sculpture-penguin
+s 81 1629 62 150
+o 2 10 80 160
+~
+n arctic/ice-sculpture-seahorse
+s 4 1786 78 160
+o 2 0 80 160
+~
+n arctic/ice-sculpture-swan
+s 809 1461 80 144
+o 0 16 80 160
+~
+n arctic/icicle-1
+s 304 1702 62 78
+o 5 2 80 80
+~
+n arctic/icicle-2
+s 235 1871 66 72
+o 2 8 80 80
+~
+n arctic/icicle-3
+s 148 1704 80 74
+o 0 6 80 80
+~
+n arctic/icicle-4
+s 649 1450 80 152
+o 0 8 80 160
+~
+n arctic/icicle-5
+s 4 1629 72 150
+o 4 10 80 160
+~
+n arctic/snow
+s 4 4 640 320
+o 0 0 640 320
+~
+n arctic/snow-brick
+s 814 569 160 160
+o 0 0 160 160
+~
+n arctic/snow-brick-back
+s 649 655 160 160
+o 0 0 160 160
+~
+n arctic/snowball
+s 320 1786 78 80
+o 0 0 80 80
+~
+n arctic/snowball-large
+s 649 490 160 160
+o 0 0 160 160
+~
+n arctic/snowball-medium
+s 872 484 124 80
+o 17 0 160 80
+~
+n arctic/snowman-face-1
+s 810 1388 90 68
+o 22 10 120 80
+~
+n arctic/snowman-face-2
+s 905 1388 86 58
+o 32 17 120 80
+~
+n arctic/snowman-face-3
+s 734 1515 70 54
+o 23 18 120 80
+~
+n borders/ice-all
+s 235 1786 80 80
+o 0 0 80 80
+~
+n borders/ice-brick-all
+s 174 1951 80 80
+o 0 0 80 80
+~
+n borders/ice-brick-nub
+s 999 75 14 14
+o 66 0 80 80
+~
+n borders/ice-brick-top
+s 148 1666 80 14
+o 0 0 80 80
+~
+n borders/ice-brick-top-right
+s 4 1951 80 80
+o 0 0 80 80
+~
+n borders/ice-brick-top-right-bottom
+s 89 1951 80 80
+o 0 0 80 80
+~
+n borders/ice-external
+s 259 2033 80 10
+o 0 0 80 80
+~
+n borders/ice-nub
+s 734 1631 68 68
+o 12 0 80 80
+~
+n borders/ice-top
+s 233 1629 80 68
+o 0 0 80 80
+~
+n borders/ice-top-right
+s 807 1695 80 80
+o 0 0 80 80
+~
+n borders/ice-top-right-bottom
+s 892 1701 80 80
+o 0 0 80 80
+~
+n borders/snow-brick-all
+s 894 1616 80 80
+o 0 0 80 80
+~
+n borders/snow-brick-nub
+s 974 75 20 24
+o 60 0 80 80
+~
+n borders/snow-brick-top
+s 148 1629 80 32
+o 0 0 80 80
+~
+n borders/snow-brick-top-right
+s 649 1607 80 80
+o 0 0 80 80
+~
+n borders/snow-brick-top-right-bottom
+s 809 1610 80 80
+o 0 0 80 80
+~
+n borders/snow-external
+s 148 1692 80 6
+o 0 0 80 80
+~

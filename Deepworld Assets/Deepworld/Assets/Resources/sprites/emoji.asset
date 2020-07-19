@@ -1,0 +1,466 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5402a5cfba5b2c4295a62da7f41d980, type: 3}
+  m_Name: emoji
+  m_EditorClassIdentifier:
+  hashCode: 123227204
+  material: {fileID: 2100000, guid: 65a5463163c11a84bb1113ce79645563, type: 2}
+  materialHashCode: 0
+  spriteSheet: {fileID: 2800000, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 350
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: crow-1
+    hashCode: -442721355
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300000, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 1
+    x: 50
+    y: 350
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: crow-2
+    hashCode: -442721354
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300002, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 2
+    x: 100
+    y: 350
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: crow-3
+    hashCode: -442721353
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300004, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 3
+    x: 150
+    y: 350
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: crow-4
+    hashCode: -442721360
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300006, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 4
+    x: 200
+    y: 350
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: crow-5
+    hashCode: -442721359
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300026, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 5
+    x: 0
+    y: 300
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: lion-1
+    hashCode: -189067944
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300028, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 6
+    x: 50
+    y: 300
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: lion-2
+    hashCode: -189067941
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300030, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 7
+    x: 100
+    y: 300
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: lion-3
+    hashCode: -189067942
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300032, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 8
+    x: 150
+    y: 300
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: lion-4
+    hashCode: -189067939
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300034, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 9
+    x: 200
+    y: 300
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: lion-5
+    hashCode: -189067940
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300036, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 10
+    x: 0
+    y: 250
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: moon-1
+    hashCode: 73023039
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300038, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 11
+    x: 50
+    y: 250
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: moon-2
+    hashCode: 73023036
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300040, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 12
+    x: 100
+    y: 250
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: moon-3
+    hashCode: 73023037
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300042, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 13
+    x: 150
+    y: 250
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: moon-4
+    hashCode: 73023034
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300044, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 14
+    x: 200
+    y: 250
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: moon-5
+    hashCode: 73023035
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300046, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 15
+    x: 0
+    y: 200
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: snake-1
+    hashCode: 1590815534
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300048, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 16
+    x: 50
+    y: 200
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: snake-2
+    hashCode: 1590815533
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300050, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 17
+    x: 100
+    y: 200
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: snake-3
+    hashCode: 1590815532
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300052, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 18
+    x: 150
+    y: 200
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: snake-4
+    hashCode: 1590815531
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300054, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 19
+    x: 200
+    y: 200
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: snake-5
+    hashCode: 1590815530
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300056, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 20
+    x: 0
+    y: 150
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: heart
+    hashCode: 120098698
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300008, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 21
+    x: 50
+    y: 150
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: trophy
+    hashCode: 113226024
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300010, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 22
+    x: 100
+    y: 150
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: gem-1
+    hashCode: 120728371
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300058, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 23
+    x: 150
+    y: 150
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: gem-2
+    hashCode: 120728368
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300060, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 24
+    x: 200
+    y: 150
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: construction
+    hashCode: 407737789
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300012, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 25
+    x: 0
+    y: 100
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: world
+    hashCode: 140033218
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300020, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 26
+    x: 50
+    y: 100
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: hammer
+    hashCode: -336608930
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300014, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 27
+    x: 100
+    y: 100
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: skull
+    hashCode: 135429965
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300016, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 28
+    x: 150
+    y: 100
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: sign
+    hashCode: 4102483
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300018, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 29
+    x: 200
+    y: 100
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: inventory
+    hashCode: -1460819318
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300062, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 30
+    x: 0
+    y: 50
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: marker
+    hashCode: 80604098
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300022, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  - id: 31
+    x: 50
+    y: 50
+    width: 50
+    height: 50
+    xOffset: 0
+    yOffset: 40
+    xAdvance: 50
+    scale: 1
+    name: watch
+    hashCode: 139811241
+    unicode: 0
+    pivot: {x: 0, y: 40}
+    sprite: {fileID: 21300024, guid: cdd49bd57bc6d224c8732e923ee98598, type: 3}
+  fallbackSpriteAssets: []

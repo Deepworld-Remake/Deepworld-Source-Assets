@@ -1,0 +1,124 @@
+i tk2d 1
+w 512
+h 1024
+~
+n automata/butlerbot-body
+s 329 166 162 161
+o 16 16 194 195
+~
+n automata/butlerbot-body-diamond
+s 329 4 166 157
+o 14 18 194 195
+~
+n automata/butlerbot-body-onyx
+s 4 169 162 161
+o 16 16 194 195
+~
+n automata/butlerbot-eye
+s 500 4 8 8
+o 37 21 60 60
+~
+n automata/butlerbot-head
+s 113 591 102 97
+o 42 43 194 195
+~
+n automata/butlerbot-head-diamond
+s 376 531 108 125
+o 42 44 194 195
+~
+n automata/butlerbot-head-onyx
+s 4 626 102 97
+o 42 43 194 195
+~
+n automata/eye
+s 149 335 16 17
+o 124 72 194 195
+~
+n sheet-shadow
+s 4 4 320 160
+o 0 0 320 320
+~
+n turrets/acid-mark-2
+s 309 411 126 56
+o 8 7 142 74
+~
+n turrets/acid-mark-3
+s 318 332 138 74
+o 2 0 142 74
+~
+n turrets/dessicator
+s 426 701 76 74
+o 2 5 80 80
+~
+n turrets/dessicator-mark-2
+s 261 472 110 90
+o 6 14 120 120
+~
+n turrets/dessicator-mark-3
+s 136 422 120 96
+o 0 12 120 120
+~
+n turrets/energy
+s 220 637 100 40
+o 5 0 106 40
+~
+n turrets/energy-mark-2
+s 170 347 134 70
+o 5 5 146 80
+~
+n turrets/energy-mark-3
+s 4 335 140 78
+o 4 1 146 80
+~
+n turrets/fire-mark-2
+s 220 682 87 51
+o 13 17 115 85
+~
+n turrets/fire-mark-3
+s 234 567 103 65
+o 7 13 115 85
+~
+n turrets/flame-mark-2
+s 171 264 142 78
+o 7 4 154 90
+~
+n turrets/flame-mark-3
+s 171 169 150 90
+o 2 0 154 90
+~
+n turrets/frost
+s 426 661 78 35
+o 0 0 78 35
+~
+n turrets/frost-mark-2
+s 325 661 96 55
+o 8 0 118 55
+~
+n turrets/frost-mark-3
+s 4 418 127 84
+o 0 0 127 84
+~
+n turrets/gun-mark-2
+s 4 564 104 57
+o 0 9 116 67
+~
+n turrets/gun-mark-3
+s 121 523 108 63
+o 3 2 116 67
+~
+n turrets/large-1
+s 4 507 112 52
+o 5 0 122 54
+~
+n turrets/large-2
+s 376 472 110 54
+o 1 5 114 70
+~
+n turrets/small-1
+s 111 693 76 41
+o 0 4 76 47
+~
+n turrets/small-2
+s 4 728 75 41
+o 0 2 75 45
+~
